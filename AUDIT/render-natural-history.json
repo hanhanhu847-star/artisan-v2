@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "0d5a338faf33d007589b411d8b6b5a5a5ae929ea781409a9728ee74cb25d26d7",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "1ac7e7d1fb2595847f304a661004809ac6c74ce14a563256c1265f82ceae8ec2",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "d9790d34ea4c706c820027c4f0c8f9634861f9260d4ac9bcdf613ba0d2eaa4a3",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "45b03ab89634f31bb15f905334916ea17f689219da7818d86929302829a9024b",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "fdcb8619fd90b105a49b0805b86fd019e388bff70763dc0db5a7f2094df08132",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "d649b3ba290adf5456d1fa12a7f3d056d2b5902ed10ac23a5aef1007b44c64e9",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-epping_forest_01.jpg",
+  "sha256": "96c641a18238c06c5e2fce19f8ec976c65304cd13368015b6c0b8ebab78c703a",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/photo-epping_forest_01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "a11faf8f6ec4f6934a1e0d55a5f91e81aad7f974eb2c7038bcccf9de6930eb2b",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "1ab2ccfa17609ed95aa0e05ba6bc0fd03e24865cd665215a118aef4177669999",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "5df44cdbd74505345a8021711b368ef29b02a6f7f1be2d6e958a3e0b10c2ee13",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "53fc9762f6ca2d9e17288849800427fa829099142188d1733079fa20f87f696b",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "6fed07fdf3c24c5767c71765af54fa9ece6a38ef49e306497833deb1ead57fda",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "de9b1498ecbbc7189b37101ab72fdd09a47cc8493340451c63c39b79681d189d",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "274805d76ec232ee6de9a8f6d46f74e022e35f54c7d85e1714e29e0894ae4c6e",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "bb2be7076169923eda0b0f2cfd5bd2d8d3a30ca4f43cc1588a650b8283f41e70",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "637a7cf6e7134b74b26ba09eec4ac4971a479025c6a0ad937e62eccc05b66d66",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "69ea674de07d28bec407c116a6e572516546b4fa083678fcd90ab360545edb8d",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "3673f62a458b7a866cbee4ebe96d60c736e724bfb4e0aded9ad14f850caa6a7c",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "8922f8be53d243cc2ccd87cfd5181e1bfbae9a358d1b1196cbb97895e7174818",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "265108f24d23447bfa7ca205e65f2860d21ed1adac47f5f2507d633de14f58f7",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "f8591f220b17e7026471fb8888bcf36813930c94de54442e4d5a444512acdd6c",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "9ee8bcbb0282e2be41da039ea89ca3ab4fca95dac882da17dd8975e2ea2e4ca5",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "96b0fc7bde955c0af3234dc5d5472b639087c15bad05814f66725de54f4c6e77",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "06a4788035278c1bf52c324eafa0bb8fabe875757987fe5585ea7dcb8d51f440",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "66edf23bf4ea07f21d98d2f3e4e341912729cdd7bcb97cc98a97f7fa419fb46f",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "c4e8ffecef5a6c75a36b20fb0bfa5ee86f1a595a3868c24dc663e31b0efe6d30",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "abbe3b258fd5bef67ab2b2289776ecb499c10434ddc82a1d6542cc1c683414b3",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "aa016d71368a5ed6e3879883d9f75e71431a0561c5d30c6c0660750c5314fe26",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "6703005b7343bdee1de47a1ac3c8939e7a8c6c7623837989eefe6ebb340ea006",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "e4c2f3b7b686b47ba0784d8290672640542137323815a10f0ad00f386c04c5ca",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "81b393c4b37bf489e96a3e029bfe8aef005b0c162891c98c40489bec6698b94e",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "cf28d4fb559b933b64e68385d6104f51aeea5d0f72ccb1e25498a54ac6a790e5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "48a11d70f4bcb35d9f5bc84cd0283c8b957487cc8b520d913b4b19936ea91505",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "65b817c3c809edeeb8b989ad51dab1add9ce9c54469bf1611a77fb05d4c1ce63",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "2649f7486051262e3ec450166e4ef72ec66d707f98e142b10638f7bd7274f4d6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "6b3d3a711440eaa37cd556497c7d82f9f06d6d47ceaf9dcd473edc6d10e790d3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "196520262ec21868ee0c076e190c46a1fc17f8c99571e81974981a9cc3501bc0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "ce6b2faeb076ea4e0940e22bc9f1e985f95a29e3e2d6e7159519b8d0f81e6da6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "27361be0f7712d9ad577615a3187f0dcc0906663aed564f7b6b2c85cbd0e5a27",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "d73658cb1d01f4b84644f8b1bfc97879b2f23c848b371335651e2bb3b60adce2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "214b49b743c7d272c8a95640a173b751bf4df9dd676be12227a9370cd2e442fb",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "c5c72c78f435947cade6c7fd0beb34f2e7392aaeeefac42e12ba7bdbc3aa9282",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "1c27fba32075eb26b071b6a50434da2613cba22028dc4bd6229373abecad13ee",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "f7cd08c985d96edee7b97cd4cbc13f7ab8af18bac22ce2c55fbd9e4996fc593a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "b6cd88c9afdb520132d764c4ec72d37e7553ff293717d8c5e1f0b67f30057345",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "a6e75630f4664005bb93bc53802d5f0bf22d79cdd840222a7573ea1f978b7e2d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "19cb316bf5490f86df4ce3745b9657a9b6f18c96c8ae982855890dd486abcb00",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "b104e5393e6f778ac7f8a16654d47a5786c607a8b4e47a7f9484ddc715f4f350",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "1b3c9d62e5c62a8395370e262c41c10588d93135a2a50074d446d27d885df6b6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "97d94e466410f1c39f2c18a66619bdbfa55026f86ccc08eec7df25a0980d3d52",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-ammonite.svg",
+  "sha256": "5a3732df2ee5ac75b0ed18dba125cc6b57942e59c44c7eb79200d90e4ec4f098",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-ammonite.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "fa84b370c5e37b276134ce2a14916338c91575fbc1e79960a50ea79ecbcd14dc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-beetle-elytra.svg",
+  "sha256": "ef92c329b1df390d8829f4e29b52dec6e7ab74fad5b8d9801ebddb5cf673f225",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-beetle-elytra.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "835f62ab9010b994bc1d2c7502f6cddb793b4d97f9b8bb54b4f402292ec5ddab",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-crystal-group.svg",
+  "sha256": "50e8f3b8c727fba44d86b8e1fea9b0a8e003cdcc7308d10de0921940f2372212",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-crystal-group.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "dc81d4f608790ef988c148480c730d91da100c6377318581e64df66e09c9d860",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "7ad877ec633ac3c30947bc21d70a65c566c42c48fd563cd83c06a09db716f477",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "76e312c6e9f514309ef1a04faa86c211a454a7bca762097da3c606bb93125608",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "2805cb76d39ed2df125f48dac03fa6adf886277cb495da2197ce2b52171e2383",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "facd3cd8b0e6889abb896f5ba69063058f7b059d25d21bcb308b61e8185be5f5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "b5c3267728a8bd2f5a1ed9864a442d89d89b4a3c01da5fccc75d9315037527e6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "3d77ce20c18d269f86f6dc9a3ff76c48e9da331fa1b1cdc5c48825204e9c853e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-feather-barb.svg",
+  "sha256": "39fa84bbacd3498ed71762090ae6cc71370270673731e04b95647bc43c2419cd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-feather-barb.svg.webp"
+ },
+ {
+  "file": "icons/v2-fern-frond.svg",
+  "sha256": "1fe49e8d7f9fefb6cf0b97a6c2e63b7a6d509680e648b22f01d6d4b2ce2bcf56",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-fern-frond.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "fc4d18359c8cd32601bb8d5c1c46ae69c383711720618bb449e21fe404c92fb6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-fish-fin.svg",
+  "sha256": "c6e729c1e30e0a913081c3fa92d37e4e2d26910b2ebed2985ced2d3f085ce134",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-fish-fin.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "efa9791ce865604e5b8623ed17b5a81c818f2744ee487d690ea01165cd1fec2f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-herbarium-pin.svg",
+  "sha256": "05160c2f87ed1cbdfd2be50218b39145b4fc31e4be9ecda2e33447eba0fe3720",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-herbarium-pin.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "7cf3358a4b70203a9d8809c4d0a9e55f1ec1562c4de4d326eec9f87511629710",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "0d252ab65b11753f30c3733c5365052522dccd79212fae3d110a0e5a94d266f3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "9543ae1ae4bea5c27cde977421e7537ec7adf26671db4763e3db70580b87cf8a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "5036f1175cc81cec166d7df36c7b7a44985cedc465998c7f245b6084331fe398",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "6488fd33c768b121f108d4243677e5c54bf8c8f599ed5b0a8b6b32aa46784e41",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-seed-section.svg",
+  "sha256": "f57a4f82a7fda6761118d6f553bf228374a0a74906cf576e55b280a20900f228",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-seed-section.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "9bbc02f41bbce2f7d0935c2a8a6c24f3eafe125b35a6a5effa1062c40896e30d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "6040919fbd57aa9a56eb875696a6a9a5a1adce82e1e4b5d11caaf8af5b6c2213",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "e6ce7dfc273a1fb9df47eb95e67455c4dbbd8c8cc6dd9874c397174d089f4e90",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "ed638549bf3cef8c6dc4669dc899f628ad9ae2b376516d6add37356d16ae908d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "932e6ff39201fdc329c54290f3da22422c7579b1d6444cfc12981cc195b821de",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "39d8ac097890d588f87d32286c36b0f11d2dbd0b4ad3e45c72809a7e9d07280b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "900ee4e17848be59d6c735215ad8448d96b4e5978c469c8a407390c9ba7e4cf7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "c0b9e9ac1969eea174d0f0662e519337936f199b904a86be7f4f4533db5a86fd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "bb04f8fbcd8f395ee2abef27e6c66491832748aea73d4cba51493cfc9f0f0328",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "3780dcd49668a2a5e916f656df708edf9fb9c14e96f46266ae44d97d33bb5eb9",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "f26a79d4a10d5dd45d8b3a24c5b5b28079ebaf0d563cca203cf9566c63d31080",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "8d87bcde686902257f3c36333598bdfe69a65152b431ef4fbc4a29b106b4f9d8",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "c2e641319a86c864ba3be7977ce50640eed2813f355c90e48f94a4bd142116d7",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "073d63ab6fd5382512c6110be56f2795770715ec2fb3219fa36ab7bdd1ca22bd",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "b209069cb0a2e6af80d3d0b6d1c43787b33c76efe11ae6b01aa69c71a2cd200a",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "faec132b9818122be834953aeddb5439edc79ff93a1fcef415dbe59e860c77c5",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "d08606ea084869ac1aff9e6f73d63bd13ba811c21ff5099a245b9b2221a56bed",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "42f258ebbedf4c41f160e3007ffb121dca6cf204e31cde0e5bddb26a9b207d84",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "0115cb499b4fe5957ada6eb5cf8f66da48eeb24ab3a1554318d44fdb6c5a0bbf",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "c2a5d7d2a70ae2c6ba87250277452851e92820cf60b90396b63db1eb302a3329",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "649469b8ce534f84bbd986c7fa05290a52921a02a1871db99e0b4fef0a76c53e",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "4b7b63bef8f58e579f261346768b82b1f4ad75fa56ff86c8e70785bca4ed940c",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "7b1e74db5bedf84a8ad420d2b881f5280a085bac6a7636309620ebcc9c06cc7c",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "02df29b07c3603481775d731f0f3a8a51066baef8c19da058f4c851be0e251e2",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "4cdc5527be4c416d2609b87913054da55c2431ac855d5124785d76e591088762",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "f95f90c7a282b6e8d9ee92fb8fd63f567bce29eb71198e600a0c9abe890e8040",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "4936a9175951319d11f43c4fcc463e2a85d93ada66450b721955865e96245c76",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "7646487c6b8e05f080098b410d9b94a56de8d0094adc8aa797e28cc90164e164",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "54a8f61a7c471605d00333986301e0f1ef4ba407af3bf0cf6a44789002240af1",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "80062dc8cd252d46545279f1447c4afb6258078e49704bcde0a41f4e355244b4",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "4a65fe39750fbef0c543862f0080cd10092a5deaa1326be86a30144333ee8736",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "c1a6dbcdb2a2bd03b19378a937bbec119f0d230e3bfea4b55fcc7301897c616a",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "b64890cc68779684c54cd6abc5083027a5cdbb24cfcf181bba897fa0376c5386",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "7cadd3db436d87e1f40784299c8928ad0acfa8f65f4c37ad5dba14d8d00d54cf",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "2625cc7b2011cf3f14130de567b2a6e36129dd4a10d3742d768a01171582bb53",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "9db0f02ea92d178424b95558ddf48430ecdbbd0146944802157ba3662d18c02e",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "9140b9a3b8ae03f9c4e8d17d672a2cda385112d5ea0a586c8374ab1780bc2e81",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "7be9062b9070206aa5e821a3a58b8d3125f9d92bbbe73f9c9cf668c73c5176e9",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "4d7e4729330729ab42487a26d3ba2ef87ac63885b1e5673813a8f93a058f15bd",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "8cb4f2693d89efa9ae072a59ca1887ac3cc6a6389e6bdeddd824c581015c216e",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "084ef996eded1b9117735dda492337c98f12541b65031e7dc729dc7b16aff066",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "5fbd88697c1542fe14cbe9dd6ffcf7d22ec352cd3c3effdaf06c69a19b657c78",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "73536d2dbe0dd5ce5d49959a566411c86aad121e2a94b66dc926c40f080c72dc",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "9ad8f6fe8aac3c66755e4861490d7d0be8d31c734c2c1679ec54332c2193dc43",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "322014a32416ceebe00385913084f067cedc5324d0f3053700d2e001231d85ab",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "497ad3ef25cae61e261dd01367d7d5842434ad54ffc7300cfba52bcd07dea66c",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "2fed2fa1a7cb299aacc7b6271577db34623c868b501fb771e4ccc21b9e8c5676",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "a95b4bb64c000a8db9016ada78cec39ddaf739e7e3e58a0b2f46d2492618a2c8",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "19a2d7f3654b577e7171c4589ca6dd491769531f981ac2f0a3661ca9ded31b47",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "77d08dda781f53bdef1cba2bc014b2a46d232fcf5a0eae4d78c5e4354fb51ebe",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "7061120c698ade34e45dcf103c7b60c0f0fe8998595cb220d7f6555f7fe48922",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "7202a6400329b2691b5fe9203ada7ec8cd0b36b242d8d1ebc37d1647d3fc0c34",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "09ff41f06e241556ed50aee4dc1bcf5764ca20fd0048731dafde19870ce7abe5",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "11fd0b83efb51485cb35108561bbccd572c980cf146b24acbe1228745b6bf513",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "6eadf44534789dfda56da52e795cb03bd19a92710a5797766545036f55a0871d",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "a0c98370592d0b0688cdec8636ba80926daa3b8a32de094f1acd219654b9a5d6",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "f3667470aba85ee09061acd52fd4946989208b8ed7885cec5ed7c05d8bb8f9e3",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "2fdf7f834bb11240431abf64b909736b80e7dfe9742641aafa424213644abcf5",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "d33dd9ac1ba3dc16dcdfbe3c6f6970e90480a6c9c4b1e7744890cddcb761d755",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "f2f296bd20b603883b26eb70aa73d42b3ad8f5b6cbb49ec4407893574b34a609",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "349eddf6124377526a3cead08f0c157b9f191c726603919a14519a4bd92a40ca",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "c31da7ef2009f250454bc7c78166bd5a0b91a7c3c085040f155b0ea969452cc5",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "da1f9270d12b6b75e639d42e09a5e4fac2b582fc42e9c46b3fe36c4c05250bb3",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "8e2e8a7e75b4673b746645bf241b6715f16d7187aae26299acc29dff88022d00",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "cc3385e3a9d44d77d89a273072f8f3f59a799b794db046ef5f10558edf15dfef",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "19909519e25db685e625f5ffa93396d3516646c1100aae33f1980425479f8a70",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "99d3ab8fa5dcb8bf3260b8aef1c6288fa490019808df71b46878d24cdacbfda4",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 224,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "004203b6b2a2be44fd60944b44c3e85fe263fa658115603384f07768a1e02413",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 206,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "5346592efa6631fa71d27a25a5dea50b84374e1a7d61e1bdc9698b9969b38b45",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 176,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "8f6810b7fe92ed4eae3c5499154135f0102cec392e29b46c11650f6a2385e611",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "47967d079494cf89af3352a6ef4ee618f96b228a0c2a89e359fb3893f2d27b39",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "d704da5d7fc56a9726d2a792ada36c621440c760b12db597e239fb3f74cc5be3",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "c6561b8b955a4f570844852aaac5c0b5b92e7dbe4c2ed58252908540531511c3",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "9ba7a975b23b2d09804ed0549dc05c531949f9b106fe6aa85d53bc3f852b0f2f",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-terrazzo.webp",
+  "sha256": "aeb305971382e092b0c230fd20d5b60116f7f0fbcdef2cb1609037f91a216896",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-terrazzo.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "ab3c03e5433785bbf10440f174de7ac8c79be36dda0a878dda118414dc9e08b7",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wick.webp",
+  "sha256": "17fe583f06739f823f81edfc15f7350793804f66b05b3ce5cafdecb929ae9d79",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-wick.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "85ad95ec33aeec34383efe1bd189058a3ed42d73cf183f7036eaed53bc23c67d",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "eb210ed49c328f3f79d0c030aec86cdaebb8ec7ec4a90563d7d6c58669c2235e",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "b294fad980635058a191f7eb48e067d76c3edc036538b0a2d6264a7cace40c62",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "b96a2f7ea8826dc50061b2669486accac9e5c1aa86693626cf9dd863e42c2580",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "d1b248d78c8df44b60db014ee8032cf25f4dcc50a841f1a3853b0cf1cec08378",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "5963bc4a35743409cdc5c957d4cef467f559a513fc17075ca056fa954312711a",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "f99a48942676821fcc90eb9a8d655f262cbe5ea6a6e42db1bccc5f3baaa78719",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "d407127d2e9a78f82d63118fea8724ef8dcc2a3728f7577347481e5820a905b7",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "f5d928988f64ba1f60b3983af2ff69e8f78bb29b185a0ece80a9b06f8cb33728",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "0686e237221938800d1dd1fab44c933bde6c0d2b6fcc02a1f0d1075e6d7ebd29",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "8774536b1a957417a51cc6c3cb77fa9ebb92d92f5dab586eef40331ec81b477f",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "4d4bfc0a1a13a05b2184e7eba05a1d00069af1d34a5c4cbd0ef939abd5f50e91",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "15f48843a0fe4ec266bdaf2dd02e2851602a301bbf80c1a8aa11ba8b5cc17d9e",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "2bb56747ffaab6cecc62447cc80991af932dc4d6331c2bb415e7177180ffa307",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "324205ab149df03a1430c3ae7f5e622b9c6047eef45403e4fd951b8b241ae50a",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "7a192dc4c26007cbaa5e0764d6478d715278a21e3eed24ed7d2b53ec353ea743",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "926835f8a500cf2ff9a12d751d7fd77cc1b63acf405f013581b884a62b2030f1",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "6cbf8aa7b57bcc28295c4a681319116e6e5ad994ce1023fd94a25497e9c5cac1",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "2682a3f5dab84ecf1407fb4742c9dc2681d8305a64c13d0fcbd357ce3060f62d",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "11d42d11f20a40a601307062291581d10f1a676715a7e0ab7a2b36fac040e2cd",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "df5417d9baab727d072cf0abc39f93fdcb333f69a8ac1c1533fd62d6d220749e",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "31639d6b9a30e16d4be6b6b244f64b2d85ffa3ccdab9296d194bafec2932dad1",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "a982d73346facdeee341e3942a23760aea9a5176726340205acb5377dfc89dc5",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "639039bb04f89f5078766af4c82084dfb5f3c71c3f3ca429b9dd815df3f61d1b",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "2992b509ff423a7bb6b121e9e7be44252358b10b25118a40470aaa37152a90b7",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "2c978ab70b4badf5551b8665e3f35dedb44b54f972f6f96ce077d5780f36232e",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "16ec3a16f947c097f5ba43405c338f97065eafd1f7a0e3c4101276eed87644ae",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "6296a3f4352178a9c3fe43a351801051a1b4935c6f0dd4c3b96e168e7eaa41d6",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "3106f3892b40ba42ff66a4c22d9cc5b8142420314120e134f492bf5d26a3ddd2",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "7ce3720195fc56247592273913b37b111883e1c2f84f0c6a49fe6bcfbbb1318c",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "2935c397f72144e958cfc646ec4d7a976c65204e668760dea507fa9926af63fa",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "857c94cfc8362c43fdcf6063053f88e4af062a1975890d09ba15db36b5a15bfa",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "7ddc854139f97957fd6d4d3e778cc9a5de9e37777e00df5fa337f207d8ff82dd",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "a89e4f5a07845005c3718b523b1beea4e9f02e3b8deafc9113020af290942268",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "325e79b8af5f92432298ade243ef2595d4baac91b21a74e1b6323ddceb7282f1",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "2988daf4dbbe5a8f57e258153fbf148776b8ee941bf10cc8647e12906040e665",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "a7254e80df96a755405eeba88882bf12be89a84d4172cb7a4c096314f13f2379",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "f7ddf7e6117483ec8f3b18fd38b32c059eebcdd5227dcd5f5db76c7c7bb14934",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "44e9f6bedabbd3db77485c95cbd84e406d2573cf35aa57b5e4ab679a5e7e2245",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "82282bfb92f08325dd2b566fa649ad24e5e25527b63f27667e1173feaca7dbf9",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "4d329794f0c9fc1a0da2233cefe296e36c112768fa1f55f662540a8de2ae3d27",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "dae5e6728bdd381682d34d3d493dbf649c68837c148ab17f8dd5f55cbbb0f7cb",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "c562117a8e1ca27676bd682c1ad43daaf695b18aa2cb1e54a02604991025a6c0",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "175686b66eed26a3051093693be4e4ee1b11209ebb71921e1f967b7689a435fd",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "f2db6f539c47a25c5608633422d1ebee8823ececa9d86e39dbb41d309351c8f6",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "1fc5fc23a74699df8b9210dacec15ae878c9ad4605b2dc37ab106f44db82566a",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "b2e424c332cbc2c815a04e35c08cb3a26089ca7234534a9e437cc073a61db9ec",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "3e90dd112203635ed313b1ff5630b35771144308fe8f89e6112a079a8e357fde",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "23afbe2bbf1c76b2e67f93d9dedf1ce35a54610c98d4ba74c5b07e6f738204d7",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "7a071b6cf86823ed562cb1ed380146200e6696a7310a5dd476d77845937a0df5",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "c49ae60ec7745aadb43484ed4faadc193eff53c2ac8d2b15db18cce87b878bf0",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "be4adc835dd3178a9700ae790f0991c7a0d4c255b0ace83645033b2e384230bd",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "22f2e3a92b47c4ddedc4e82f740ddb89479b480b40a262b5eb467ac7967fcff8",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "9e49d09078c4a9dd2c9e42482f4289c6fb02845ad3ce50cb201043d16e8ea9e1",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "87a0e28473c58dd45c623ca9546cd852b9de35379e4a228d7e3e0605661f26d2",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "14d7cadb199ed4e1b16dea4b563ac510289c8c70a65e7e21ea768332e839b640",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "e8ecf0a62ae23399fa0569ad481cc34db7a5653e9a230246df6fd56e9c28b9a9",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "cc2e460ee60afcff70d50bee96389179266ccd68ccde21446c0076822fa451e8",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "b40938c4fd0976a86476561dedc8c4451f5ba1c6fc3a48674b9bf1cb235e9080",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "e6aae08fa239b317408a23ddede1d28b990abddbb4a2fed263c437950ecf2004",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "c5301c74f17d8bb374a0e54bed4f2db05381f81e117f2b3c103ac54dd2211a50",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "7baad58e6d2e05080c3ba6c5b2078cec98a673f72fe95256b280bd55f135895f",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "2df7f572b3d579de2258729cc08d80db69d9bbfd53242b7e57c9293ece351ea4",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "3f5579bbb3842e6ce549fe543c93cb35432d989601d510f086a9c2295f5206e0",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "fab6ebda04c7d4c7db44f57ce12bac414f67613f5385b481df8712b071f104a6",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "da2e126fcf5b8eeff195eac5c936a69c1b69e4b54f3418d6b36566dd9ca70dbb",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "18ea23b47072a7444c851780060e350774d677cee01e3c12f72dd258ad085348",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "5cd9caf5871f5f010c94c0114f0e8c0dfe03dd556e298a43971f8df260736006",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/natural-history/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "e5be06df7744b753f41f218e2bb535576faf18ab5b269f6934df161a363cc7c8",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "ad81841dfb9fc239b0eb1731bce2aac15c8de65e45f8a306bd5e6c85621543a4",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "b78e60177bf5467f9776198409b9483ef1ea123e53cb9e35dbff968cc3653827",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "b7f41d7580178562f5ea36f13e88bc871ddb36c7e775c8e3ff42aa1f89541714",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "00f89b7608c353358d19946350d447cf4db86d5a616f4301f261ecd1b860786a",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "2970a9dc1991c973af788ea267a539b60adb3a4608deb38f57073ad785190cc3",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "080e9f7a17c0d3f0d705ec9c97a65301459b8c5e776e935ada0e14f9b7be108b",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "df28438e9d16cf49f3751287388706635f328cdccdc153d6feb7b1c8afe95af6",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "5b69ccb8541d0af4481db668d61ef470dcf3292e27d51768653187d7f4308ac7",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "cb8b4a91b34745022df5361d4e2a9817420837d8087eb3125e9b18f1b906288d",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "89c90a035d64fed6528f3f2941b1f94118ebba71c359f237a60c99802cc4f1ae",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "6ca3d8d3ed6e9a78efaf6bb66222fb3f2380e1b159f88632646c73f069a2175a",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "8e7a2fa19fbdaee5cef0d08933ef239973de711f23238a8dd734c4c3027c3905",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "45e8185085a60b56cf24f6607c5328c8fe7cfa1fa857e60fafc152e82eaa367f",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "28820510962be24632964731ff4442fdf6ac7b3611e71de43f21a94d84832e7e",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "d6bd0f9c2d20a221a9aecbc73fecce3eeb86e1f4a9d59739172b7174a3e6fc1e",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "0c861aeeba063788044866542c5048384ffb0af6ba286447fc64f8a238c33c2d",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "efbb46becda54bd9b89e49ddf478980b0365da65dd8126b2feda88367801634e",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "64a1630f575e7cb8dad0db9ff14f02f6969e283ac3cf4cf0fef6df77bc1d4452",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/natural-history/ui/v2-ui-tooltip.svg.webp"
+ }
+]

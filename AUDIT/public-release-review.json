@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "author": "hanhanhu847-star",
+  "project": "https://github.com/hanhanhu847-star/artisan-v2",
+  "original_assets_unchanged": 3824,
+  "independent_style_families": 1804,
+  "license_counts": {
+    "CC-BY-4.0": 3780,
+    "CC0-1.0": 32,
+    "CC-BY-SA-4.0": 12
+  },
+  "third_party_records_unchanged": 44,
+  "contact_pages_with_valid_source_and_preview_sha": 160,
+  "pdf_sha256": "e5875f6caf9cd98e959f473706b7945cc45e5ec5315a77cc27c21573959a5bc8",
+  "browser_engine": "157.0.8103.38",
+  "source_fingerprint": "0129cd049436e8156c4a715dfd1240925812ce09d623401d99cc1aabb7c72661",
+  "baseline_archive_sha256": "b95f92166d76f3ab867838b7af015dc0ceda026e19df29c2c2af61e9247b7cda",
+  "changes": "公开版增加作者署名、MIT代码许可、CC BY 4.0自制素材许可，并移除本地过程便笺；未改变源素材或第三方授权。"
+}

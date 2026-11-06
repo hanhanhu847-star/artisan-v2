@@ -1,0 +1,34 @@
+[
+  {
+    "file": "patterns/alpha-grid.svg",
+    "asset_name": "透明预览棋盘",
+    "intended_usage": "底层透明度检查，不当作素材内容透明。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "utility-assets/registration.svg",
+    "asset_name": "套准线",
+    "intended_usage": "图版边缘定位与打印检查。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/expand.svg",
+    "asset_name": "放大边角",
+    "intended_usage": "素材浏览与放大。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "textures/neutral-weave.webp",
+    "asset_name": "中性细织布",
+    "intended_usage": "无色系表面底层，256px 周期。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  }
+]

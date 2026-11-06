@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "a934ec85577f593e333fe28cfe71959aac44b440200112f786cf4c8ecc869245",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "d861b31a82f5b9ed71e908f99fce7b137e22feb53940844aaa88cfca38dd30c6",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "bd4e7c1ec6b4ef35159490dd576034ae84a240e20dc872597ea73e834c7297a2",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "b8d2717de8620f6631759fed0372bc64fbadec8a591638d770ea2c9a54f9638d",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "9aeccc73b8999ba0b1e09ec437c7a81e2fcdcf20316b9ffd9e23d3704baa5a52",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "2cd8188fb52a8621c2fd4a1f277de93c017e8221edb6a97f84f6b7d710015f15",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-aerodynamics_workshop.jpg",
+  "sha256": "13d7cfdeacfcd9bfd9221e73f753bdf831429f374d118126507b925c0e7410a6",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/photo-aerodynamics_workshop.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "ac4ac02570703b35c5e2574bf5234d9a11da06ba6b18d770a4dad3faa370e94e",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "49c5a00d11c9e457508e452977f0e3ed273dec0588c7fc3c5cfee4d0225d6257",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "07ba5007feead87a258eb974c31498417d021960779de4d07427c298fef587c3",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "3ebe839489d4d25e7a526ac6ef399cfbeb4160d6e140dd09f7e4c5186071508f",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "8582cfe5441bd36b32df6cf4cbacd7a194d0ed49be2cd8ac32a2f0ff6663e8bd",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "71f50f31212c616d3c89a3fb6f8e25af0fb8aaa527ce4f749a4fc1683bb73ea3",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "338c43b4531655b23621405dbd847b7213090164b7a2b723a109c14669385d14",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "b98faba2e67a2062c541fb9b7218e3ae487427792c56aab56de36404bf189832",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "3450dcb1a1c174740823ebc687609833f5c93f8370daca2632dcb9c28495d27d",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "4cc30fabfe7d494089b8c3cccdf67841822fb1d16b18f9995c3387904a1876c0",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "5e631dd20937c8d1e9bedb8dda7dfd9090a7ac3bfa6d12df8a1615e2bf397956",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "54485cc221df39b395cfedae1b291d2cec5b3d98c1cd68eac93ceb48031072d6",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "94e16291ca0f826f89055336446d3cdd1238835b18ad001c1bd36ea5532971b6",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "5334b3922964ae18fc323a3859a832fd4ff0b9ffe4aaf8c015a60d0a199f7d10",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "e00c4fae0bdb2c8c816d707096832b9faa3af1c1d1db53ef62b147d238d73639",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "adeb1135e5a7be03e5e81e300e2e548facfa21baff5e18478de009275a9a9b36",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "f31e410a5f5078d69c5f63a4b96328ead5e36604c2ebcf1fbea9496166af2f0f",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "2fd8700d5585a126709edeb60f7eebf5620f1824d89ae8f7f133075cb101cf88",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "d95d15548c9c6b52c4f015492ab6f5d6880fc468539b4027f75358f844b0b763",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "0b5e50c6c62fcdb5ea32c9744796d4a9040c991c8c48ac0768e60e5ecf4c3e7e",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "444b72b3e403b6192ecfb8ecd18ea2bedf1a755d5c6a2e285b89aeddd73ab76f",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "0ce56c0d54079edd4a130074bdcc090560981e296fdde5920973d91c6c69f7a5",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "b32bef86635f0b2978959d6f82acbabc2de7c124cb38b67c596b87b8000bb39d",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "04b1f17793941bf75f5b82dc8cab71cc36b98ce3847ab69bc4e54d9627ca0573",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "db0087000fdb733870de6c7852c4810c6af174676088399357f8fc0f4a06c016",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "28e19299b7559b7af4d8a31b00db5602d290f75b8e0dd11916407cda1e2a6d7f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "c7e639f7b36eb9e7ecb834584e40ccc5bd1075b4622018aedf7702fdd9169226",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "2a7353e9f35a577398a7b8da67b7780e9df48ce8972c227fff8cd354df551f48",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "6d2d945d3377b7c0200ff29ed21ae52b0ecb238451d4beddede208740f1cda8e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "68e239561c6a401981224491b4f71c3ac582019869061cb34a073fa343e44e74",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "b469a327d2dbc56293f83f079dbcc621bfa6ee29cde2530a588a33c13751abd6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "3a467e5b929facaf924f3af35d199717ba8ff7d5acb1d8065054d534caf40dff",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "45ae06678e63ba9cf2c0d528933c51d1e08f58be3c97432ee72a3d562e5e3a4b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "e3640a76911f88b12a21a691162be9bc31a6abc35f55598aaa00d0ce5b1ff3a1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "b6a9c7e30c1b974e75ee3658800be64c9a39ad5b1f98858a4b02544bfb96d051",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "7d90bfcdd8464f8db27d6f28f19917283ee602f6186334ceb442ec953a7e89c5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "21c41b911748f0bee82b429c6464fdb7ba6abc7f56fe8be6efa0e661f677591c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "0f5a6314a9e5fb1cae90c19d246320f5c7d064fab907491b94fd5d626e642f65",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "c18bbdb5507d23ef6a5c61c376b693c5d2883a1988099f0d9a69ad7059fc71ab",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "9c52c0bd7f241d1fe91f022bca6de827fa6b4fc1b99c0fdec0b02dc4febb0d5e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "038a659957a6996daf55cc2f281c688b6e9f86daf1914f096a6206312b30573c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "edef7da21fa47643998d64c88afc4518317f1f1b6e6ad1e935cedc9d09511468",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "4f309251f6b2ff1abb4a5bc2da2d10e84ad28db9a758fb3ed1a0acdc68e12ffe",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "6d77f37ce1ae5ea28e706f4c7003b81c07de08b3a187a26ebd3e715c44e27956",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-bearing.svg",
+  "sha256": "1c32daf6a117fded1eb9d39ca9a46592678e10ac394b4f570468453cb36f50a0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-bearing.svg.webp"
+ },
+ {
+  "file": "icons/v2-caliper.svg",
+  "sha256": "238a62af790b605bd7c6aee78220fd5ae5b3880dd255a654680a083330bf4b01",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-caliper.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "0fd7abf59c4a3025b3372694be86648152faac5455fac3124680df7b837d184f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "8739756ee599d9b61a384afd437baedf27d1f618ab9cd200ea2ff8f2d906f98f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "2782d5ecc2e12b5502bf5bb8219c402f9c1ee9fc0eaee0c711684c3eba93f8a9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "62fe742ca67933e28ae8ce1000f73904fdd6489ffd9064c7870915edff00759d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "f0e30093232534df379aba5c7d6e953d5bd693c776854a776353a7e3d6ceaff8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "c183a50da0c47b262a97fe276d099af3a423a979c073b3f0098e9180b0c528eb",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "3eaa901e18cc4f44539b3fd0d975f52c779da660a7d844e1a63024965d5bf266",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "04810a2dd2debc0dac0d2eb07826db4ffaafd8c43bba2f6e99491a5334c79708",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "b9e82dcec868f1b69531ebf3833da3e3302282f60616553487e6b935a4357b92",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-flange.svg",
+  "sha256": "8f332b7b89bbcd71b97414cdc1bcd6596d07c716d58efd6ee23b760a16b2a680",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-flange.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "c976077cd06373ef1790c53179383f8b601e5bb784e33ffb002be528b3a79b03",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-gate-valve.svg",
+  "sha256": "395958c3363bd47a08535935d0b00558d9cd9beda57333bcfcb11d38a382b7a6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-gate-valve.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "27ac0d96932080d6838d2979ce82459b9d6b05c59c100faaf1e8b0628361cd0e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-level-staff.svg",
+  "sha256": "a79262cebf20446e1a8faf7916532cca50c3fb3abb040fe223cacadcf6397c26",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-level-staff.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "1951c57f1b4cba7f57f10ff7727496adc2a1ce215cf33497bc9c49eb6e4d6887",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "470df4e75f42a4047e3ee9535fbbda3414029acc64a7f1e93f052cf35fd69042",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-relay.svg",
+  "sha256": "8abf4de7b389ef1678cda3be78fe0c8c174b1e8d0b26a9a9bcf9e96a33b2f7e7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-relay.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "30b0d0be77d3948df914480c743825577fce153be032c682756aab3dcb7caaf5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-section-cut.svg",
+  "sha256": "550677bbc05939aafc407451a0ae22fac9c0ff20dac72077223339c66d6febac",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-section-cut.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "7602704e048bf4e06ac82f3a869a4b52461e52eecf5418be8039738989d102ec",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "621ec337f404b26d332d814e954a81afcf9c35987fbe6daaf76eaefffea6267b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "6c66cf9d95c646ce9d12f7aa9031fe88929448876f23a633883c3ba1b75df688",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "66e8faa1fb9da8b996aac8b62c657d02be79759a07b7cf14189ef4aecbacaaaa",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "a89ed7f9231c37a7f64a437ce604a56b1eaab03145949dbb26783b3cd694651f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "780e72c5be84993fcdd96b83f5023e255bd9b82ca2e042f2b870b24c65579b62",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-truss.svg",
+  "sha256": "f6ca6dea7a102ed3062c484eb61b23a6217ff8ac1a371661b2a4701c6bbe753e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-truss.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "ccc9808b35e44b43438a066a358596d6b48fb4e7824bf0e7b8e04b61810c7213",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "d4c316d01befabe458e51001b72c2bd571cdfa6c64672733a1fe6053f87d8758",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "312f8229521d9ddbc6e46ce026325c58020e0652715fbea002f76d548b42e100",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "b5044f8ae6005338ebfb827b389bdf6596bd83a86303e1a8829efa6ecaad521d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "bd9173a71e9f6e88645bafe3280d196747a90a85d9ec6953106f6ca4fc66a65c",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "726b811f46a5ac7b3b75aee1db2ebcfded70e1b957ef086e1688930c84f97697",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "757cadcb2f83576e5b6a7857779cf1618a6239b83f18bac2209a8bc2ad38d8a5",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "e79e54147e9488120a2dc398292872e88919f6cdc2a3d7c0730dcbb84875179f",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "ed2eb684f0a29db10c4a633f0ac2b0ca7836fb392e6a1f686bbd6159d635223c",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "8ae182806bbd15c71bd696e0d6ca63e9784f1301ed0bb4970e0d454879a7ba0f",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "49e6c510e24ae3a3ef2c11dacb164d2cb423a7790a5a97b1e3bd5d8f91ff4708",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "b63b136b4f36b71d73496aa6f0df9cee58d5f794771146acc1f50d740d931103",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "a9bf1305ac49b326d0e6c0731fb8675d6d04ddec296a02da1f1a0e0b7fad2eb6",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "f11f0c0df6e81592b4f9ee227a79ed2c4d690a1218caac14fbaabbe1a9981129",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "4e86ae82efc42f61c095bfe97b5da3d5fd0e7f66ff846655b54bf0a70ca40c4c",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 68,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "de878df99305d00a8f0c04bdd710185550b31147b16d5aa8c4bb63ba48438f6a",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 192,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "e810b512c838ebb16bc26e47615a823f4ef816a5d3ff4fc523ee2833ff823b97",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "feb6440bbd6b9c2e9657a520cc649b125e6a33159e343480c0b1e93e16deb94e",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "ae1f51ea1dab761c8548a5027fb4b86088019d8fa504770d573039d0a0fa42d8",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "a20f8cc34a7923c293e5b41606c43f886dff95a122ae9d266824bcb92e312feb",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 214,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "42cae9c8b686ad4016f7297fe0801ea2d671ac3db1659f3930ba63bc2151e87c",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "009f75d065bf6e56170aa7256e06e5555374027419d698b0d63ffa78f9388245",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 253,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "7973ca8bf7ba4c97cb8454d0598b38339a3983301e850552c5e97d35f8332cd3",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "e7a4e756028eafe239b869ac6e01c6309c586ae87cd9aad9e5df88804aa4f333",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 184,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "36bba3e43a070eeb0501c469d591cb3c30a2340496854beacaf8c0e7b2064425",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "3b75a0dda0b91f867b020f36f8af7922a349602602c3c407649152d21ef58565",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "d4e24fb7252180f5d6b2cc14c5a9161bf9018d372e7358e0b0690300cf4b93b5",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "a0041fbb7873f2e1eafce19e8d2f894dd92fd89d8633678d487a0509f14f8f0d",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 221,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "9700aad7e0dc88f230506e4d70c085d14c87b6f35e1a077f88a4f4ac970b21ab",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "f8aa112392aa5ad85ae872e09c6d69047292456328b89e545807a078749713a7",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "9ec5186446c727f18aa241f81cb8ec1084e5d6520cd568430fe0d88acefac51f",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "1fe263cc9c7031a60e5a5d30e7d268c91d72af9381a3746348812032b2a91bb3",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "fded59d8d085835fcf81b1c19d16a67fb52fb2d6568827a7cb6e2cd6ab7f31fe",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 186,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "4253d22a2526e79085f1a20c434072d293f673408a2c2cc20f5a147b08301ab8",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 205,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "70ccb6f78cc9b855f316657079757f4ae0e87f4a4aee324cb6087254d18f80ac",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 136,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "c66a1d329340fb2e0a4fd2381c574dfbce5b6cb53cee81be10dc701127117b1e",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "59a36ec0f91f7e84f66290fe96d2e8046a6d50f9b9e0b5db095a69225282c9e0",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "20b3d388ce6635b411bcd674c2f0c01c4ef6c75061803872268c36f4dd021cd7",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "911b4597102bb1584cca0009f3fbf7635e350f0d5745f0132565287130b0f8fe",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "85922dcc11313cb9965af2d69380835fbf574056941d9a4e05d0c7643a68df97",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "1f0a41f8cd65c57ba0b19db4ee11c86a700a9c4d6967e35705d57915ae41cde2",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "ad0bd9b13775a9bef206a14fb3126971ddc7314b9f5361f9f0cf86a7a1fd4020",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "5f79085e04e7fe7cb54e05559a7dd95e977d003b52e19544ba6f80ea27e8d838",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "a20ccdb5f3ddad2f08feebbfa928afa51576bf6bcf938d65a599e8e5ebb4c42a",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 208,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "0892d3b8430db16ae37c663b78b88fbc3578fcba32f06196f7556259e8fb0f1e",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "3713405c9577acd3b3510e6b0f2d912458595dcd4e38d717027634696430c034",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "904f496efadbb048b5fdb3c0e95ada5812a9916ea9de86e297df4ce2dc722ee9",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 154,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "093c1c5b32c15dc042bfbc8a2dcc43099fee0e114c6ba550160372e075bb8e21",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "3f11768f38c64495523d502465fd5980955777e9da6f48afb83df6759add5014",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "e87a97f8bfb7076121ae6414dfb0b3ce6b3cab1e8b83985328fa4c0c72b17edd",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "6e60a2d95df23c6d49198a3aa18bbd9ccf802ac1c108f74004f34854279400f6",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "0663adb9549f5fda5e63c478814e257c1b157d7e054979deaaa01203aa326241",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "0ae00748112af94d9bf08034ff1e20a2c1195e4a3a7cc4ee5bf283706ea972a8",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "56c2c3e7f51f4cf6d09ee57813bcb45cbbaf6ae72fd3b0ac78063e073666b5c9",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "fcd9c9425afbb363972410bbd68df9fcb8857f7052a4f5c17f0b068725e02cb3",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "469699197a523a35f9a9ac4ed4ef905325a559723402f2dabab7224eacfaea81",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "1de7500941a130b1375c8632f0787026c58cd51f4c0fa90e0e4d47c5b4e7d9da",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "12b2ebf98328c965a576fa958bd5905fd78edfcbf0b2d7e7189316f909691902",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "4c9f8010ee6e2d3d672af0677962da801d6aefd1258c187e22e835e6a1be8b61",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "9fdb81aefd6b548b749f19f1670b5c376374e01924ce0540095952f6da8d672c",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "d98e84c4631d7ae6421761d206528952e3a4fb7c0dfa962821ea35c7919c47db",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "e490fd6bfd41e48258f757d6b159ff4bbe337e2b53f94f1882927efc3194d7f6",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 222,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "bc5233c7a2faf83b37856535a1b66f61484c574cf04216cc7b792653d08fdb61",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 228,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "de97b75f329722fa6b3712d55af8447c6365e9e1e2a3c796b79156b8af2f0897",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 167,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "c2885d050c0aa156f212b50f354dcda3689e0bb20ccae73c0feb92754a609014",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "1c6fd9fa895a2b1b861970113237b88f492f2d877f425053773860889920aa3b",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "bcaf0b15495a0414052d2398cc296b266555d43005a6971795e682db17d5b892",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-ply.webp",
+  "sha256": "18e732171aff1bb2431c5c208dad3db43fd5a1c6a53420c4d1ad5b9e50e35cec",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-ply.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "c2530a6042f4bd88dacf4bf781cefd47c45a22448ff4798d66f406aac2fbe45c",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "f686d4d57f63b0baef200f91fdf9dbec4aef4370f0ac8e0bb0e39a5a8a661146",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "929cac80a1966ca254b7270ee6cefe5a0410bd7f37637783e196a804ebe73e1b",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wick.webp",
+  "sha256": "5e4ce9f5e9e2e03b5091bf6af6f3a658b87710d5b893e077eb2913ee0e9f1c43",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-wick.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "f5f81ec8a10ac59ca9ad58a494955966099d67c994ab299d3b61ad5f90ea6988",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "92f8fdf1caf431c0094bd01ba7d35d6ab4a9cccfd7c27fbc2f8f10337ed4aca6",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "58316650bd44cfacbce974497f0d779ea55292e4f7ecf2af2d892938816f2bfa",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "a1b0915b8b6ae172a93978ff557d33a8a41c9de139e2d4b3b7d51923aa146aeb",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "fb6204c192fcf5a5f577b3bdafb500aff47dbb505fcbd701cc9c68d6637fd272",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "dc69ff67dbc471adfd24f90575dc1d5c1a87c1bc4bde64145db648517c95d758",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "9cc17eb0777195c1d297dec2820025c59952cc9b18d4caf443a650e26362a6e4",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "fd0bfc5280c0d787ca9c4e99055ffcf56303118227c8491d636b6d4e8aabd36e",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "e044c7e6fc3d5d1693121a30d485d28cf7a7a89a070dc4c1f107872a97d7cae5",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "c6e8ca2d8e6794f1f675d1b62c0cd0ac9f2627d4ae34c7fe349355070be26aa6",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "66c82b9084bfea7318ffed0009a7e1d81cd222a6915e929ae7d31a392cdec8f6",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "ea1f42abc709b3d887643f8c4438d9430a15ab9439b790d9d0c4cf52eeb2164b",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "01d1468781464f36a6d59c74be46a4c27d8afbafebf3a86ad28b591f9313039c",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "830bb36b6e089f85a2e17c59dc20b54c8b4e312dedc5c732de4310fcd6260c0d",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "08578543b34fbf01015f77eaa1afbe325c70699beadb33f6bdd8830de2fa2ef6",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "a6619ab964027a351313839033108928d4c32a085ab29fe640b408808fc88163",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "6c555d089078b438c1afc7c2137e73a8d07451ece97bb5c266fd87319bd30be6",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "8dc8764f414837e750af645b4f830463e232d9308fd3dd4388f0ea208beac4dc",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "39f4100cc0d51cfca070adf2e4fceec863ea1e79aa948455442cf84d15cf6c36",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "d37b74185c0101476fe4c26e9247ee332b5a9264aa6d4f8587bfb6d7489a7a26",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "cbad6290d3ac484e797bfe8827564d6fdd51791f84fffb6323927221963e1458",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "2f9c64968d21d6f1e3d1d0948248c301da588057e986abb957238e36326ef719",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "a5b4c9e8b3880e1a9279ff5cb94415e699824c07b954a3c7901d526444d8a2e5",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "2e4a4fed5bfa0b9be95a85a45fb89eb9cf3de5e1ba8f6bfa63a7aa33133ef346",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "e9de79ccff6909754acbe1f55376b45709f98db51cbb98bdde2edd9d3ce848fd",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "9dfa5f3dc25a6bcde07909039f06a3601017cf546abb78fb97f317c7186add7f",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "505c61bff3a7230de946dcad69f178a47005bfc5554e9152187336b3a2a49876",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "0ecbd628ebee5dca8945824effa8785eb73fc386683d95d5712c23f30c8b02fb",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "c8846a7d1c8a3be107b33f66eda3ae495fc5d6e0fbb91095a801ad577f43c846",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "0b99b6c0a95ee413a413000e586e83a8f4a3bf17cc58d2897714ca46a4dfa46f",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "530bb9fbe5fce41f3536fd41f93cdd6e202952c58a1dfdccc7c7a8005b3487e1",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "cc2563cd1959cb8614846c702769a9c30720df668bc767797815f572da90775f",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "c34f720695e5f272f41df6363803a2a224cf188bb0404dd2867aa66c7701c4f0",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "75a7cd5c126651b1a8cab3aa2ebf540df809165bc9f3947ae5d4f679097b285d",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "9088c8febdfbc1cb69f1193ad0594479d47a5722ecfabc5c74a93c88319d5fab",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "ac5238d7e143c327267b3c648fd9b83b00ea8835d5ce12a98cfa84824600a9c4",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "73ce75d5c77e20d41923d912c3d38e79623b635a73bcf56fa988c2915c41fc98",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "b3cf833c69c99ac6079de7c061b9d31d661b0eafc4ef31eaa9e6cb5af321bcb6",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "b8598718cd144992df7068dafccb5aed8280c879c981272bbd3735542dddab6e",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "088c99b8b65377e263c533f010ce04a1afbf27b6aa5c4b7a247510ea90a4a855",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "bfe61bd00da111302fd60f288aa8d2b47410febefb421f97f5f50ebe780e1c68",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "cd7e5df21eceb7564ec9e06ce421b25a7f2aef79464ce973ef0a8efaea270b81",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "d563b9cd779f49df4a3f01a021076147c4dafc9940c7650080ef1c512baa97d4",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "facac35bed2127e8234664811761e02a3445d6a43de52c15bc05e118c526bcd7",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "210a67a347666d16911bb8ff4cd6326b33784f6bd963166288613c2a69dda4b0",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "b02c4b8eaf5e12b1c900bf26e9f02a840dad40eea3398c4ae9eafbeeac2ebecc",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "9b3d539eaca0f407791526ecb1e979230edb609cf41eac2040662a9445ed8219",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "c965ae424fa93f821e655a4bd3ffb1690fc8d5051cbe96ae139c82bdb9285546",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "2827a3bf608602a65d81f00a114627c54b3fbee2bc0315356ef700d46ad86fbe",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "5624ab2c907f524843efb189a4ac5dc1759f2b7e909f65629aef9798bf7d2524",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "95c911635657d1e5c8fbd41980659104730820a2e48edc2ad04394e0f23c0fa3",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "a77b63ef7a101462d7e3e6080af89235ed6c851f285a46b9f2298d2a74c41e63",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "84cdd547fc72d5a63408c8e756665c6d65c5a40512714f7bfc76ed181c128983",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "1fe9e8a5913b98c1242a188138ad5443d63c046bd4f31fbdc9979ff792a99bbe",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "63d772bafac4834ae46f3cd370eff1c5660d3e12fe5f4c43bea6039caa784831",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "804585949bbbff4b75045a1aebc11de0440a064842a6ff9dd2554cb2da87d2dc",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "18823e9e61ae79380d1f08769df84f2d58c9b91fe4eabc85ba31ac3008373a95",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "ed297aae433a5403d5cbe51d2bbf90b45fb86dc0488eba835f4c6590ecfbdf60",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "9bafafe5e77d3add5472000927afcd69c1366e696eefd08dab54e26fc60cbe58",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "dea101e27a1a32f34b3e189982693c26e4542b15307d2c79c5bd3d7651047b4c",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "539712fbe7ce94238aceb128e5653d191f454fd3e18911e536abcd01b6251de1",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "12e86330bc8042a2617eafc5223453ca80993e50b04a87b38c85e365bfe5ded9",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "69f58b512b4b28741dbc673e8cd08f10ce113010d99071804f0545adc6a8cae3",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "0b49929999f600da38c839d1b7fe717022cb94cded3a317572f9bc724a9a1a78",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "a8fa42703648755bd7b7feba38401e997460b3aadbf6d5b77cef5006e48b5c4c",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "341d6582c1563141e34e88778e513a11d7fa4608c49fe864b4004c1be6ba06d2",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "dbdaabbeb9d865028f05103bef4dbc042d03fc141753830133e71d4992e10a85",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "0f5d859974214d383e4a15e9d0d518377e25cc57472c0c76cce6a3ee8a1bdadd",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/blueprint/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "b4fd40487cf0bc3039bfc2c0b95df55197b41b5d2951f466dffbfe605c1ba813",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "1e0567ef46e391459f30f848b1d11066102d965d0ee6aa434b0fe51a3d1ceb3e",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "caf13b898b259d45c141a545d489b8698420952e2e4d86c820f2dafb505c378c",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "eb41f7dd7492e89a5fc9ac7371e59c3fb040888a8f666e658b5389cf73bfe2a1",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "df6819225204d4ba50f0d199326e3bf7ce96cde7b34b72aa14ed1744789bf51a",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "10aa0812d6c8a89001aa5c5bfe367426208af212982cd3c97c13d8910cb62bab",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "4930171d8da11775d2384752efd87b6cdfb374a6bedfeb2bb4fdcfdbee95bd45",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "615e17d749df77ae0218a1a85638227e4eb00bdd186a8d6f3010aa6ea783e668",
+  "width": 480,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "dffee009598d38e94a7fe33308d06100371e8afce69cf9ae915be0adb4cffe47",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "ec34a66ac1d3b9a6e4fc66235df1d856796a2576f66876e051ece4e449c801cb",
+  "width": 460,
+  "height": 165,
+  "format": "svg",
+  "alphaMin": 225,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "ad1922040d29261ca880864e48f6aadb05ea6fc39b55680f7f90a1611fa8c19d",
+  "width": 440,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 210,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "b2079038681b585bbf140238ea8238fd1741556d99828f46810bfd571450978f",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "4e86825f2abf34bad9c941be942c4459ff72041820d1adcb18e5b16e19a7277e",
+  "width": 360,
+  "height": 115,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "808935a25d73a3827e2c21caccf6d7583822dd832b60ff145adfce6f1ec5e933",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "ca1b14fbedb5df455a3c72995a2fc5f82a736c58eda2d95a708faeea62153a67",
+  "width": 460,
+  "height": 125,
+  "format": "svg",
+  "alphaMin": 154,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "d47c5d8b5388c12cbe5dc332c79449a020987b9d343c07d1e500d02c4027ab85",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "47f4d7047fc90c753cb240518f12283787ccc64dee1a299e104e7cc85295b87b",
+  "width": 600,
+  "height": 280,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "c8decbe53e7e395b6c01cf6bc8ab8b73421c5ddafa6306352e33b55cf12d80c5",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "c70de7885489a497158870e196bc17168e45f992150bb483c742cb0e413a0ad6",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/blueprint/ui/v2-ui-tooltip.svg.webp"
+ }
+]

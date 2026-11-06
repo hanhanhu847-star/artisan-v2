@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "d7732fedfa17a3a8230109388f0973d1ba117b59e897bf999df01319e7293922",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "78dbc4bb342012f6dc58d09d2a146f66ab888a22ff83bb7676ed0230285b3973",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "47f615b01e6507a6d0bb5c623da79bd2794a8c3d84a71ae68bfbd5e8d31c971e",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "cafc78dd701769c0de22b706afc4572c122c786c33d0a834fbf4e200d17a0e6d",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "2e6764be84cc31b7d726aa4d211abc892968c5e94b5ed353a41922416f80cd44",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "21605f91bb69c607b8c299d6197a88e789346af67e2d3249f2417ab020e7374d",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-mossy_forest.jpg",
+  "sha256": "6c932e0ac44aba2e5374afbc00ee8a1aa780d32ac1e0bfefd710edb1f7258445",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/photo-mossy_forest.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "d440c7de2bc8f8b18864ef133caff9d14c462aaf2473c4fddbafa21c16fddeee",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "029f0555b05af79a5d8c408e4cec34559832c18165a62d1162f76a1b937d059b",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "110125c9fb44500c7abbed8b2002b764a7df4263d27f8e4ec99029840f5cd8fe",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "201208f5c7be4079e3bb3a09c989aacb1d569c15aa9822018b3721d9980b859f",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "a10dae33279db2ca220cbaf22efdbfc538e447232a79c18fea857603b19854b7",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "bfae326e0d31fffb4bfc586145c6d201dde86a4ec63d7f29fc265bf046dcba67",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "bd426cbdc65e56b4d2b552d8079b83050291c6d9af2ba5ed84bca0bde4058206",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "ff30bcf58d86dd220e868bd8ee760059e7bdec71a69ade7741399accc82a3d3c",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "5548c4b15031189ba0221b75b6e2ebdc1cb301e7502ecc30ac15553f58efac37",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "b431097e04ef9f0fc87dd449bd84e3a30b70715ebf2c70aa0b8e117046caaf78",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "a029ccd97652e47859554acb844e628a7598d1ebc9ac321e635ae053117e4ca7",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "8aa7b9b33a1e5443b558c79134e1bf47a6d41efbcc7ae3f5a4f89284f3b67dd0",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "ea71e17aa078b24a3a2f559dbd8cf428b5386946862ed7ab49f39b163063391e",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "188e6748d503f52799209a2dd8ad272282bf2c9784cdade5fdc717d1747ab7fe",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "5ee3c465c1d3130635f1459c4d3bf4b5a323951a3822a8573d9cca7f73d02fcd",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "45684946eba071dfaffb261ab24beafe98a079fe666633cfe0a76c25ec6d99d3",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "11e974eeabc151431bf0315a0468708d0076f93d34076f9c7a136ff5a52e8fab",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "ced9edc238d6cc787b7b449a6b9f846568669bf7fddf0703a785fabd2aceeaf6",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "932587f3aa9680dff9c2138f5da8e58319d7f9f3dba5ed0037e217ec84ddb22c",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "8954afc228e1beb454ffa79d6bd838105c15d325ab694d48ff6a3c89c0c217b0",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "aa37c10a820dc7cf59c67ce38b3109ddf7318a14fbb1f75f3201094520e840a3",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "dea69866af2c33fff7d60c6762e852c7ca9582f3464af94427deab68f95a8358",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "2d3814bfdfac761e5ec78dcf2774965f21ac2cea1e4a0f8f4c2098d62a569e35",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "ea32f118b732635bca85e00180cb3ef169046006eaf738a22a53ef2903811b0b",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "c9507f809c41df8537d27c243b2128a533c31c900f826f2bceedf2bb7ed212da",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "8d0b830f2f90c003254d4c6f34a24dabd63c4f407dddc124fb3fcb4451961baf",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "6101ef9ad6c9d3b6756202eb7836e698188c1cc6a187fd76e6bcb012c61e0146",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "79eb04e996d14f9302f2d940149c60d3216e633e68e6b7823869d9f7a3d5eb2e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "2e5b89f905f2178a89d8179bae70ab24eb14513a4663413744f0c25546701a29",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "c703d4eee1af95bbc9bf77af83477434924d81280dfd54465b6c7bbf441b2abf",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "4af219cdc962f09737c9f7d8c9e66da5e408e2ce8e223169b271ff39ed574eed",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "e34b6460626313224e8378904dfa9e97ff0c7c03867b75e19c0669a021edfbf6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "7e5d2ff4f0b778ed2103409317110dd54e01cd5564d36951af47201636eb4929",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "118638cc8b61ae668b6216141d4f766b2c78d1ca487abf424977cfdb31d29244",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "7e43c68cf11d4855771a216dd5e7a9528c01a51764eb772e420ac24a2e57afdf",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "c6766d5bb9d19e9d6af3c991eca5051934dc15054916a4f3a44080e436e772dc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "569971f0d39598d7ebb40e08a03ff6b1f7b366db4214ba490fec5f19b03915fd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "067ea1a6e93fb8f26310acc995bdd5beeb20760b21626434e31502b26447d516",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "db7cb4ee24ee6f837127dd1d6cc92f76367efd17c67a8e94ebe0f659c763f53f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "ebadcbae762dfd896f62c57b1feb8b5975935563d11dd4c5bb09a2e70e1a8de4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "c4f706516e33559b0904ec492803440a319f1f0663919f7a402e9a1b848fa488",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "28a6daf1f1e92d4fd8cfae7f422cffe59e8526ca542fe005653a7de774133594",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "cc71d4a2d00b455bd0bb39174a6c4d2e7d4022eb6b36e0c046f1986f6164f9c5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "f5a88e18e681ddb9a1e8de8c2de5cc6b641298775cc1541e77f212f0533d02db",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "ad64ba1a0ac2e86abfcb18dacbd099e25ec3a08836ebc70d9435aa02f4561975",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "a6549eddb2304d1c7e021280320ca5ba1c30ed567b8bf03eb44c441a3c8fee87",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "a51d3fc9952a2c5d59e7d9fbed3821e49fb405d4ed4ad0670f2f130643e477e5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "e249987e3d7125b09f9954456cb7d0b88b7b6be1bfe28d0548021b1417f1803b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "0db8669357c440a3e22f83efaa08be1bec7c4d3bded96c6a11e1e10ab767693b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "1ba17d73ae88d8afc5c874cb0cedab905f1c1b2d60b1338ecab363c42d2f05ae",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "243948fb684b961f25a9670d13abb74090554d3adf294f24d76e5dba48800049",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "232f11c66095f78a92bcef55bcfb3039e26f2aef55ba89176191b6a97974a4e1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "5735e1bbb331f4d4d48789c24fc9ce468baa01db6db748740c4b4c54fef2c03a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "daf02a68c7af080a0429947ad67a40659ab7107a6024710918316ef2d1411bee",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-garden-rake.svg",
+  "sha256": "943cdb87e7c5ba1f1993e7e9623e031b08f4bc93eb56e9a3bb14062b5cffe8c7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-garden-rake.svg.webp"
+ },
+ {
+  "file": "icons/v2-glaze-drip.svg",
+  "sha256": "4d54d545336a63a7e366b757abd619151346febd4c8cc78bee73f30b53917424",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-glaze-drip.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "6051675fc230eb21b88e5e967ea90943d8530fafb7832b81653aa75ad5b0e0ae",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-kiln-foot.svg",
+  "sha256": "55e9c36310a9baaea8ac38ef92b29f991811f65637786a10cf4e63696309ee3d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-kiln-foot.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "9c5ff04a9e775b4670e89b61e2bcd4aca19a57b5318e0f948c881a33e0f3fd45",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "654dcf1c54d53c13a633630e0137088b61e1785c1097148c906f9beef7694f80",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-paper-screen.svg",
+  "sha256": "82456bd0440fb4c43136963a68484780feef5a41908b07a243335f5939dba9f7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-paper-screen.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "4589df4b33641cee8d6e7e7ea8e098f145a647bd7226478ce75b2933164faa00",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "cefad98cd35a26606581ad52b618d6e4e7ce0bf447e9239cd94fb286f8a6693f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-seed-pod.svg",
+  "sha256": "57e09bae4ac8b212cb2d0bdf250f0d92b032485b2478218439e978f7f4336e80",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-seed-pod.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "46dda6efead6be07888af38715e875b91b1cc88b61ce39ead3ab650ce6c585fb",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "3b3067f4bf5dac72b19c4ee2343945e28b0ed4b8df7d1abaa7218a76cf7ea775",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "5c481f6b74a5c73ac8fed77f3ab9a9871cc0209788497b0dbb2c272556ebcb7e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-stepping-stone.svg",
+  "sha256": "c78a304ca2c37eb7eb9edc62d19a1cbb329e49ff9d6d110aaaa34ab9675c272a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-stepping-stone.svg.webp"
+ },
+ {
+  "file": "icons/v2-stone-lantern.svg",
+  "sha256": "5a77b9aef9693396589ea0d2aa85575d9638aa8e163c09ad2a0afa700d017195",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-stone-lantern.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "a05e0a185dc996301eca1f149aa1415ba807aa9831e4b257b9c7d9f55ef4b1ad",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-tea-scoop.svg",
+  "sha256": "6c76cda261b785e6ae14ed47d76c69882920a21cb3cfc299c968d2e21a03cb6c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-tea-scoop.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "0a9d0918991da2824b4c7f331695c1349cf6fcf516509f8aa8f1f43785e407f2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "976a758241d81b8041c2773898760162badb8a82c346a9ba39993ab4b3f04a0b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "3743a811d586023c72a53501c9ab0d8023ba03512558fe7d0be55cf3929c06b9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "ee7775cded522ec00828f6c467850a3017a485954801dccfff2157d6df776398",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "9ac32abd69960564ed1dabececc43a6ce3680b64360a5d41eaa2072c1af280be",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "6faf59a2d6b9f67311ff64166afda00d0500e367e9a67ec592384d5893dc77bd",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "fb54e43876b7feaebb01bcd2f12f0bfd8d9738a0fab0365781f7245e150005d7",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "bce9375b775ec85fef7da04cb401d4264e957f8d6e3428523314b5b3ec3d8eaf",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "8c03e87b914bbf24493fd9d26f65c7f45d1a93acd51da0600575b4ce2e591e42",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "157be967fba660aa276a1a1d51abc5c3723fa8aae1a3a37760c083662314a9e1",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "ec9f38a68c12f32b1fa0c92230b8d03a272bebedf758f181e18e970df06b46cf",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "7bf87e15fa02f40c81ae09411f4154e5ca17771a3acf6cc8b8cfef86f9f1d8ed",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "c1eb6c97dcc9c815824963150912120a57e32d37971b219b4cf0226f0f33cee5",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "61cc397177763daa65ec18e2497a5509027a080f24eb8164e101e936e733a746",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "412530011fb3db2ba2b22b24c273a5d9830379934501f4c75b96f625bed267ed",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "614c00267052f8ce72619c1c55d98b3148c8a57955a45804e586e0113e82a29e",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "46956a5390f901aac95c0f1adb807a9c08eff03dfec7160b7c0adea5dc833ad0",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "57feb43e25fcd132fb8e3bd4f29738a7803ddba43206c27a093ebff20f7fb088",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "99eafce5f370fc3635e7f0d12390a4fd76e66724771d3c01cca4ad9df880ed9e",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "79c3e7d5abd9e871a06ab4de014079855d3deba65fd66e9452ceeb71882abb40",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "be2739a21845824cdbd0b8701e8d4bf0f5b5dfb2ab8cc1e1aff8753b5ea6c679",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "0a8912c4c28541efd4a14b3039491c4d901b4f261335286c81f7c73919f8845b",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "20b30e3dbf2551814a6f663ea6b50bc321dac6723c23a34b9360d1a3d60eb3ca",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "1d41c1b886971d2dacaeedb1dae8f9141ef7081726ec04258e81d3da8caa86be",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "0c7fed4ab50577af8999016c782b3455f55ead4beea0c0eb45036e704811c7d7",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "a26912329efed2419752fdcd34fd51617126c9ee659ff8e5a50d056ce6af60d9",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "38d09ead5e8bd0543cbdf5055a5a1a74bc8fd2a66011c2d973c74ccbceebd642",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "d1913221467979df61008deb77ece3343fda3b1e929f33eac5ef0314f7761fd0",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "50a9754613211fecbb9f76db87550b98e58061f7fe6ef828db1e1959f2a5490a",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "6acc5241c84fb7b4ecc7e3db1494ef46d5e9afbb969dffb92eb716be8926fe33",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "7748a8077309c10b742ac3bc1c72aee2d5953db1dd858de62edac1972b78f61d",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "ddb5c9e674b7e7e3b2010ae2c7c4ebfcbcdb2f0d842204994df44a16f92197d4",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "725af6ce5884878063ca1cb74c01757f8bb66b8ce6ae03d2cea3070630d43cdd",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "19b2c36ed89ddc81aa5a428a31cab1e218e6299934a4ea1e0e23bcf87cd58322",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "8c40ce84154211ae606a87712f461a22322a64b2a1735819a42655eda89ad0e3",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "7adc21dda1b1572526b9d6c9f34b538245fae95f3b7f60d91238f4d77a20009b",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "e7310ac84fb794f76227631bede7ff978516981bf7deed26219732c955cc83af",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "3954df00a7d18fb2788181647a2584fbe568b60e51b3bc654e28298df62edf52",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "5fdcbc5b6e778a0ce8a9a497aeec7f13791ed114f3f38531eac80733264c6999",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "5eee4ae229d27b0ebe85e9c35a44b39193d371a5e5a38773a26f887010509a9e",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "2f0dd4c9abf5c4fb065fa951030b8e549aace9d24dba0c20ee845b651eb126fd",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "fda4f5f1100c31f98e66390b615393eade10280b78fb59a08833dfc43930c70b",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "85b7f8a4d6da7bff0adfb9a2684867cc206c45f1278af6815990d3be71668393",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "9a357b7cf9f1a16d98d83906637009cc4b7237efd6857c59f851fae5b673078e",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "93f49c5f9b255989f468c69ffff2bc86dca4d392c985620c635e654fbb3e1863",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "a7b09c64d8569b3b519a3f7817acc08d78059906fe8917cc7a265a9f93618de6",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "9e40ed8136fff29e43a44198f97ac6fc901a0cf9e567add76ef911dd0359b7ff",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "86bf8bbaae5980fc615a789e5bde9c47c92578dbd321e33b61bc2a8f1d691d82",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "c546d9745f9a0b6be0fc327e207e046ca207fdf79742ed5380d99d69cc3c1ac0",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "a27d1929c20adfad84dfc9b0c539963e3b7f96e31d7a112f3ae0971701fbb078",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "e1bb2996686f52ddc95d2ccffa3cb893a469c07d9a6d0c8825ffa5167891ce07",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "5fabd90d1fa77780405a2df01d7ba40880f547851b5d89ef781d3e94c4cf49f7",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "a2e00cefaf1e1d04446f6f954b4c3765a3376ceff6234882aaadfbae08cec3e7",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "1ce76ffad281c0e3761b2ab7451fa5c9bd9791818b5ad9ac259713ff39641eb0",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "4492e8644c6feed65b6225517cf701d1c59fbf3be1db0ac94ad2c30fbfb5deda",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "5f2b6cab1255732e8a74e5cf633a48409df9017f85fb766d59f7ab6e9ccd0de5",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "231e3b6dda548a49a5f24fc6cf8f5986a63ef961e34d1a2ca79545956c4702d5",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "5e3c5ba53942db82bfdd30108d25c614707b6e55c4dadc048e5601068005f4be",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-ash.webp",
+  "sha256": "f05c7d3361d3ee6ed1ac600b102e7b471a7650b9851cd3ff54eacd2c6b6705b8",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-ash.webp.webp"
+ },
+ {
+  "file": "textures/v2-craze.webp",
+  "sha256": "beb94b6654a072b9e87ea4bbc310d2b8636119c3fe738e412d83c98debf6ccc3",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-craze.webp.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "5456b8b468f3b29966c9e05515f65ece96d3f710c29e01a2a2ad2d5a45c223fb",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "1aa24e7a886085468f772de305fafc9bdd7cc1ee8daf871cc75dac1a7e6e35ed",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "f0c75fb8c741357af1b11d438c52859912e4ca42c3365c13c9eec07c9cc74943",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "acdf8b2430cd5b84c9d8f5ef25d7dc92d4c2eb6801216601d3e0fdbacfb995b8",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "971389d5f2e61076d11ab129891688202fd8435ec756a960fb7e973fe61b96e4",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 221,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "0c8c29e48022ed2c58f639950b831d625c2b754fb96892197c04d5e689bdb8a0",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 233,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "369afae99bf77c2fbf5edc9840caf2267248ce2ea914229dcedcfe15f671922c",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 196,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "e7b1b8a68adfc63789ef0a9f04ee2ab8cb0b838bb98fff52f92d7ad709facf1b",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "e84f161b5a5b69d506a6789d438dba5e2375ff4a8afd70ea2a8a55c94508cc61",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "b34f243aaabc71c087c0c60b86c6abd1425fc1f0b97c3455d779195f0a01e641",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "b16aadbe1ae6145a61ccfc0a82849fcdb049676e82ef08c96a9df6fbdf68501d",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "268c26c0a315fc8ccff76dd68215e50417ffea9a787596e580fea441501bde05",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "a045cb7cf870bc715a3c39b4e36519c999f7776182269f052a2ba7cbe4b81864",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "1095c7c7b51bd14f112ba54a383616fcdc095521feb8bd5a4760875caab535ff",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "aac0d613d3f5471e6f2b2477b91ad68bbc55205770eb447a259b9f0fbad18a7c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "16db4f640d0f840c2ce7b1b8b779ea6f20759e3635a43f70462c13af1c0537c8",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "f0b9f2bbc146c6739d6954176c98089708131c6e216a2c77468d93f35e571d90",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "2545b27d6d1390c271df6696b38bac8a7449d888df9eda5f62c7db5185128746",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "1a642e9ac025daec4b727a2692b8c6fbc9369c321aa3b5d28b7fb88d9e7eb4cc",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "b0c6083a53891f51750cbdbafcd78af9027c12ead350c1542af96b17727711f6",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "10a7a524cf4c5ea314e7367ac051ba9b5c366bf141b412aa949bfa9cbf0eed62",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "3e8cd2a98a417ea4443ed47f6335662f74e17d783cde6b2ad18ec58651b1e746",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "77e83b660ddd5cd7055d4b5ad68085f9ac854f35ff2b8c766f6e8488c151df89",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "339069fcc76f4908c5a4d8ba0c67b7d5635ac6927de5d3e1abb6118b0e85776c",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "9fdcb64ee6cd8b3a9216806c6ae14e8bb14c3844f27e653577dc9b098a86e467",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "bb8e70486448b8db8bcb6328f9bbe4098b2766cbfc0a215dc83a93dc79e6911b",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "f14025bc2ca9dc6e5290643fbc3215867b962cabb84190fda38b0337732d5f84",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "70ee7b6c5222dd770bde819bb2bf8fb2b8a2561352b0cc4cfebdf9e0685f4462",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "2798bd49843eb82993b2305a1faf78ff82c2a262c15bf73b91be8a3efa7250ba",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "81efcec0d9eea1dcbfaf3d3969cfd71e24a02eaedbbb65075db5054e60156eb9",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "b78f0265259d767b19870cc3f7a3502a11928bcca823c25a0243048b39261c97",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "4f11337c37560be13fcba8796c289a6a83b051f51aa50abf9da889f2c0cbf2ae",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "4c67e3032d289f426c249d18edb12f325631ec73a95b6669639ba46a3bfbe4f3",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "4d5335c6c8ec5e1fa019e7cd298b9202f79b9ad1e1f5d65135d28d0203b1014e",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "0d1bdbbc0d02d16df04b88d3ee9ca546bb381b7816f97d7304006afae1ad94ae",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "599bff9cfa542c2f966829d95219307100a53c09f34e7b93e4c9b4f9f461848a",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "0c66a78875411f2589943f88e7849b4575a29b865e01cd8951205463d318061c",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "b72264daf7a5e7ff843833177caf7f4bc1f9bf85d104de3b5ca67f3d58df6576",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "05381c65414b1ff85e6cff453d291866f86e128a76f45883b6a92e95f4ce15af",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "06bcc095cea45567f2f958f307142cef8775ea666ba20d574e9c704dd69b1550",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "4394761b1f66803f40a1de3b3457a15be93e40b752cecb943240627b20286395",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "6354db2a4a19545ad5f0cc1d0759fd37ebe0035e1bd733c758ef4509325e3cc3",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "4548c8b69c7a50979cb06e423f3650ac35383031cc5fcd66d33d60424170fb67",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "0ca74ac645efccc9973550aed2be30b244574b87a23621eab5b01f4cdd09fa2b",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "85274ca371b4fcc39189bda6374a12165636ddcb7006e720f084ab70a126fc46",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "e724c78ffbdf1cefdf05d7d615fff27df72663d3a70632b73cfb588c6642ec4f",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "2745c9b802f2a2862ff66259c132f46e2d561f6687b9c6d938996b97457573ea",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "8adbbd1cebcd4db10cd73afa1a11f17de99d016499e30e7471b32bac6214f7b7",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "9365b87a8638f8bc194a11fca8cc07d0af338a0bee0c391612a296191c1e8a80",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "49c8a1b04948685b4ecba150531deb7d8b84b425646b236832db3b459d4b7bb7",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "babad0000f327dd2846339b0554f0ac8f750880683cf5e185eba9c0beb34930b",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "c4a7ff3863cec2d5def003f8e62366f5576a453b742bc913126e7f585d831fbe",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "a14c88843df208938bce8d7c191ea1cea2ace501fe0e4e6cce1f886693ba2ab7",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "3316cc03d85a012fa6e3da32efd370e7f631309f54f83a971b6eb8cf42c72325",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "b3b86a7b412706c09c445dfd81eff286100e2953179153aa3db70278ba6d95e3",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "520f10af57f0c805de00b3b0bd967d2d7b90ccffe0a5af2887f4dd9eaffe379b",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "eaebdbcfaf339073a036161d286d71d89ba3b39d74652d2f1b38ed3b3e4ac327",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "7b65ca4bf2eda20c6dbf4af9ea88e113bdae7c577dc5cf051f2b64a67ec0e3aa",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "ea09123d35a3e27e449646e41a4837e21e85bc1e4347a92f18727efc55a95386",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "82c4264743efdcf52819b5b7c63694dafb7ae60537cff77f0d6ab8f5f5e2b9b4",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "a1d3841d6aacc028cecbd0ad9f6218ae82ceb0e9faf22cb2f3e9ac336fd2518d",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "ef9b184a36eae2929aad419d6bc823c3f252a903f1b9ffbc8268fc87fbfa5b32",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "88b6f8c63ac49c9055c007ff289dc7dab7957bf42489acba23046d6de537dbbf",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "49d0b48388320372e897c2e6a4fa47c4167ab9472ea2d8927250b41104e0b510",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "b7158d5d47d58ef41cd07becd7b92e471291c3a15911f4545b026b72ebc80ad5",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "5b07ab0f8e2a53efa75f20c790ea0fd927ba9481e9f783d3a1c9127733413db1",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "5cb611ae8f54dbc988817923551ef6f1f3ccb191d4df6cc5b87f2b47740a348d",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "c0bfe3cb84d13e4eccd5f6c57cf2e238e9c38a753754e9f892fc73aeb6f65d7f",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "49726f2485df6e83e5bcee5109af4538110d352fe4678b60b2fd405fd8d4bf89",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "e5295f8ba90ebb74b74eb0834b032c4386abe7da5dbbe2c5477f2a18b3483492",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "f6e8e081ebb3f6813b42a7104e1ef22cd077d1ddd7dd80e007d86c2588c4b2bb",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "211aec63bd7dcc2b0e7e73cf8d496eae9e567c096789f18b5077f26916289f61",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "9ac055cd253fcabcdfb91638387ac41e57b3f7b77666f5948b67f4f39585fa70",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "a12cff0d1f12728e856ab515400ca805971d68a4a7647328e0101db52ed56fb4",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "f137048d3f5064077ed7f9fbb5d587c7e6c687667cfe97ecb195ae8f7cd17b66",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "c789e52d70997b657ced0f787788587d7dd263a29e150f6c8ad2b36ed3849ee6",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "20ae89d822d0d939940440a87fad5ef18a862250af1c26a61915dd00aa14a456",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "1b383e2c8576989132e18d9b5f69b03f32907ff2f4389a36d7df360cf6586504",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "72daed2aad4f33df57d34998a2ed1eb2664e67d358e65a9b85cacbeb459c0596",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "a52bfbcac6a60d285d6939ff941ce97aa6b79c8a82016e0aac176dc5467f3ec2",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "ff21d885840ae045eb328bce8b741a354615095efe7f055b33edf7364b7e3216",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "b16c3a14bce353f68d7e82f6e1fe2d59ca3a4c128da568bb0854baee39200dc6",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "ccc87300b21dff8a5dc94430e4b9a17da210bf18c30e4deaf407211e7e07aa5c",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "55976a6f96d27aeaf1618d8b87d597f3dd3cd71173a60d4d8e6a87a6c81a74a0",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "5f14f0c8e12116dd931b27122b4250fb786547b71769e84b37fcabbe3ae20805",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "0eab861215eec976c611b8f3ec55571d1666f9dbfe2b5e4f7363dde83059a008",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "fcf8bc28c5638c05b53d04fcbe2658fa79f74cf1ef9c67e2203986f7eaef4d87",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "62fbbaeaec8deae180a82fab7d3a6f974342168f74c3adf7dcaef2ce1056fe25",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "52ed126fb1a5e076d239a04c1268e8df752d76607a1eed5a1521f5c3e892acd1",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "23dbaa782ffcae882f8d6cc07626217570546dee5ec57bb3ff8134c4e63c4dad",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "3f67330cbd84b615fdda62457989a3329070fd19802c2969355cf67081e51a47",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "0f5b43329dc2b448cc9eed2a03fb01e30cda69fe77d2e1ec65122c1fa0ad3239",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "95653e8ed24fd8cb5a9e0bda457ee564238a53b1c782e445b6c78ebfd0827f80",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "59148d1ae6e762529119e0fd7e01f4eb13d6f1209322266ad8777c8693946fe3",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "093b48f7796334a887d711828ed83a5eddd87f53cc285fe2cff8dc9bf3826dd7",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "663aa95ddf45554bd1f014dcd6d3862b11ed58a5367354a4c26d5c9db0ac58d3",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "4db5f624d2b3b8f61fd528c14d35a3f14ddd1850082aca689419052b1667814c",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "0634d2a5bd42b6af6fd3c3ce8cfc9bd7ce49a8b5da8cc06a4b7678d08a0023b1",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "a521538517773e05da625f6e76755d1c1109024cd709206de001e78f5c9c1642",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "79d0e33642b938745e37ec4aae00ca29bf2b1a5f3180a3a7f7e6047c313221d7",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/wabi-sabi/ui/v2-ui-tooltip.svg.webp"
+ }
+]

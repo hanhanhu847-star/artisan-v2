@@ -1,0 +1,32 @@
+[
+  {
+    "src": "STYLES/neo-brutalism/backgrounds/field-study.svg",
+    "dst": "STYLES/neo-brutalism/backgrounds/field-study-1920.jpg",
+    "w": 1920,
+    "h": 1080
+  },
+  {
+    "src": "STYLES/neo-brutalism/backgrounds/field-study.svg",
+    "dst": "STYLES/neo-brutalism/backgrounds/field-study-2560.jpg",
+    "w": 2560,
+    "h": 1440
+  },
+  {
+    "src": "STYLES/neo-brutalism/backgrounds/field-study.svg",
+    "dst": "STYLES/neo-brutalism/backgrounds/field-study-3840.jpg",
+    "w": 3840,
+    "h": 2160
+  },
+  {
+    "src": "STYLES/neo-brutalism/ornaments/corner.svg",
+    "dst": "STYLES/neo-brutalism/ornaments/corner.png",
+    "w": 288,
+    "h": 288
+  },
+  {
+    "src": "STYLES/neo-brutalism/ornaments/seal.svg",
+    "dst": "STYLES/neo-brutalism/ornaments/seal.png",
+    "w": 384,
+    "h": 384
+  }
+]

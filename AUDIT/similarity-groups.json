@@ -1,0 +1,251 @@
+[
+  {
+    "group": 1,
+    "category": "icons",
+    "assets": [
+      "bauhaus.icons.v2-download.svg",
+      "bauhaus.icons.v2-upload.svg"
+    ],
+    "pairs": [
+      0
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-01-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 2,
+    "category": "icons",
+    "assets": [
+      "generative-art.icons.v2-download.svg",
+      "generative-art.icons.v2-upload.svg"
+    ],
+    "pairs": [
+      20
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-02-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 3,
+    "category": "ornaments",
+    "assets": [
+      "dunhuang.ornaments.v2-repeat-2.svg",
+      "retrofuturism.ornaments.v2-repeat-2.svg",
+      "cyberpunk.ornaments.v2-repeat-2.svg"
+    ],
+    "pairs": [
+      12,
+      18
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-03-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 4,
+    "category": "ornaments",
+    "assets": [
+      "cartography.ornaments.v2-repeat-4.svg",
+      "natural-history.ornaments.v2-repeat-4.svg",
+      "blueprint.ornaments.v2-repeat-4.svg"
+    ],
+    "pairs": [
+      15,
+      16
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-04-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 5,
+    "category": "ornaments",
+    "assets": [
+      "art-deco.ornaments.v2-corner-2.svg",
+      "dunhuang.ornaments.v2-corner-2.svg"
+    ],
+    "pairs": [
+      3
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-05-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 6,
+    "category": "ornaments",
+    "assets": [
+      "memphis.ornaments.frame.svg",
+      "cyberpunk.ornaments.frame.svg"
+    ],
+    "pairs": [
+      5
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-06-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 7,
+    "category": "ornaments",
+    "assets": [
+      "dunhuang.ornaments.pattern.svg",
+      "cyberpunk.ornaments.pattern.svg"
+    ],
+    "pairs": [
+      10
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-07-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 8,
+    "category": "ornaments",
+    "assets": [
+      "dunhuang.ornaments.v2-frame-1.svg",
+      "retrofuturism.ornaments.v2-frame-1.svg"
+    ],
+    "pairs": [
+      11
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-08-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 9,
+    "category": "ornaments",
+    "assets": [
+      "dunhuang.ornaments.v2-info-caption-frame.svg",
+      "retrofuturism.ornaments.v2-info-caption-frame.svg"
+    ],
+    "pairs": [
+      13
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-09-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 10,
+    "category": "ornaments",
+    "assets": [
+      "retrofuturism.ornaments.v2-repeat-3.svg",
+      "cyberpunk.ornaments.v2-repeat-3.svg"
+    ],
+    "pairs": [
+      19
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-10-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 11,
+    "category": "ui",
+    "assets": [
+      "editorial.ui.v2-ui-list.svg",
+      "wabi-sabi.ui.v2-ui-list.svg",
+      "cartography.ui.v2-ui-list.svg",
+      "generative-art.ui.v2-ui-list.svg"
+    ],
+    "pairs": [
+      6,
+      7,
+      8,
+      17
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-11-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 12,
+    "category": "ui",
+    "assets": [
+      "bauhaus.ui.v2-ui-button.svg",
+      "swiss.ui.v2-ui-button.svg"
+    ],
+    "pairs": [
+      1
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-12-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 13,
+    "category": "ui",
+    "assets": [
+      "bauhaus.ui.v2-ui-card.svg",
+      "swiss.ui.v2-ui-card.svg"
+    ],
+    "pairs": [
+      2
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-13-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 14,
+    "category": "ui",
+    "assets": [
+      "art-deco.ui.v2-ui-loading.svg",
+      "celestial-atlas.ui.v2-ui-loading.svg"
+    ],
+    "pairs": [
+      4
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-14-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 15,
+    "category": "ui",
+    "assets": [
+      "wabi-sabi.ui.v2-toolbar.svg",
+      "generative-art.ui.v2-toolbar.svg"
+    ],
+    "pairs": [
+      9
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-15-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  },
+  {
+    "group": 16,
+    "category": "ui",
+    "assets": [
+      "dunhuang.ui.v2-ui-dialog.svg",
+      "natural-history.ui.v2-ui-dialog.svg"
+    ],
+    "pairs": [
+      14
+    ],
+    "pages": [
+      "PREVIEWS/similarity/group-16-1.jpg"
+    ],
+    "status": "reviewed-see-similarity-review-v2.json"
+  }
+]

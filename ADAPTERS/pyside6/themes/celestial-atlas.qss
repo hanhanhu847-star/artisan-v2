@@ -1,0 +1,9 @@
+/* 古典天文图谱；用于 QApplication.setStyleSheet，由 Qt 处理键盘与状态。 */
+QWidget {background:#142D42;color:#E6DEBC;font-size:14px;}
+QPushButton,QLineEdit,QComboBox,QListWidget,QTableView {border:1px solid #E6DEBC;border-radius:16px;padding:6px;}
+QPushButton {background:#E8C481;color:#161819;min-height:28px;}
+QPushButton:hover,QLineEdit:focus {border:2px solid #96B3BD;}
+QPushButton:checked,QListView::item:selected {background:#E6DEBC;color:#142D42;}
+QPushButton:disabled {background:#142D42;color:#E6DEBC;border:1px dashed #96B3BD;}
+QLineEdit[invalid="true"] {border:2px solid #ffb6aa;}
+QProgressBar {border:1px solid #E6DEBC;text-align:center;} QProgressBar::chunk {background:#96B3BD;}

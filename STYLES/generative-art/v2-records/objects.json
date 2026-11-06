@@ -1,0 +1,38 @@
+[
+  {
+    "file": "illustrations/v2-object-1.svg",
+    "asset_name": "三角递归骨架",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "离散生长",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-1",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-object-2.svg",
+    "asset_name": "费马采样花盘",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "连续流场",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-2",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-object-3.svg",
+    "asset_name": "希尔伯特曲线",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "计算几何",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-3",
+    "credit": "new"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "file": "ornaments/v2-corner-badge.svg",
+    "asset_name": "页角标识 · V2",
+    "intended_usage": "独立透明页角饰件；各套重绘主轮廓，替代V1低对比三角角标。",
+    "series": "古籍装帧",
+    "role": "corner",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "ribbon",
+    "credit": "upgrade"
+  }
+]

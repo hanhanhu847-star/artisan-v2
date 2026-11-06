@@ -1,0 +1,74 @@
+[
+  {
+    "file": "ui/v2-ui-input.svg",
+    "asset_name": "输入框 · V2布局",
+    "intended_usage": "独立可编辑SVG视觉样例；该组V1状态原件保留备查，V2布局单独计一次。",
+    "series": "博物馆档案",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "input",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-table.svg",
+    "asset_name": "表格 · V2布局",
+    "intended_usage": "独立可编辑SVG视觉样例；该组V1状态原件保留备查，V2布局单独计一次。",
+    "series": "博物馆档案",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "table",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-progress.svg",
+    "asset_name": "进度条 · V2布局",
+    "intended_usage": "独立可编辑SVG视觉样例；该组V1状态原件保留备查，V2布局单独计一次。",
+    "series": "博物馆档案",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "progress",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-dialog.svg",
+    "asset_name": "弹窗 · V2布局",
+    "intended_usage": "独立可编辑SVG视觉样例；该组V1状态原件保留备查，V2布局单独计一次。",
+    "series": "博物馆档案",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "dialog",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-error.svg",
+    "asset_name": "错误提示 · V2布局",
+    "intended_usage": "独立可编辑SVG视觉样例；该组V1状态原件保留备查，V2布局单独计一次。",
+    "series": "博物馆档案",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "error",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-loading.svg",
+    "asset_name": "加载状态 · V2布局",
+    "intended_usage": "独立可编辑SVG视觉样例；该组V1状态原件保留备查，V2布局单独计一次。",
+    "series": "博物馆档案",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "loading",
+    "credit": "upgrade"
+  }
+]

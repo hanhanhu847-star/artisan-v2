@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "language": "zh-CN",
+  "source_path": "STYLES/{style_id}/ui/{component}-{state}.svg",
+  "theme_scope": "[data-artisan=\"{style_id}\"]",
+  "states": {
+    "normal": "原生默认外观，不设置额外业务状态。",
+    "hover": "仅指针悬停或设计评审预览，不作为触屏唯一入口。",
+    "selected": "切换按钮使用 aria-pressed，选项使用 aria-selected；仍需可见的选中说明。",
+    "disabled": "操作控件使用原生 disabled；自定义控件同时阻止执行并说明原因。",
+    "error": "无效输入设置 aria-invalid，并用 aria-describedby 关联可读的错误信息。"
+  },
+  "notes": "组件图版的五种状态用于视觉交付。表格、列表、空状态等容器的选中或错误应落在具体行、动作或数据结果上。CSS data-state 只控制外观，不代替真实业务逻辑。",
+  "components": [
+    {
+      "id": "button",
+      "css": "at-button",
+      "semantic": "button",
+      "behavior": "触发动作；Enter 或 Space 激活。"
+    },
+    {
+      "id": "card",
+      "css": "at-card / at-panel",
+      "semantic": "article",
+      "behavior": "用标题命名；可点击卡片提供真实链接或按钮。"
+    },
+    {
+      "id": "tag",
+      "css": "at-tag",
+      "semantic": "span 或 button",
+      "behavior": "静态标签不进入焦点序列。"
+    },
+    {
+      "id": "input",
+      "css": "at-field",
+      "semantic": "input",
+      "behavior": "配可见 label 与错误描述。"
+    },
+    {
+      "id": "navbar",
+      "css": "at-nav",
+      "semantic": "nav",
+      "behavior": "链接保持导航语义，以 aria-current 标记当前页。"
+    },
+    {
+      "id": "sidebar",
+      "css": "at-sidebar",
+      "semantic": "aside / nav",
+      "behavior": "折叠按钮保持焦点，并报告展开状态。"
+    },
+    {
+      "id": "table",
+      "css": "at-table",
+      "semantic": "table",
+      "behavior": "表头关联数据列，小屏可横向滚动。"
+    },
+    {
+      "id": "list",
+      "css": "at-list",
+      "semantic": "ul / ol",
+      "behavior": "选中属于具体条目。"
+    },
+    {
+      "id": "progress",
+      "css": "at-progress",
+      "semantic": "progress",
+      "behavior": "真实 value 与 max；未知进度不伪造百分比。"
+    },
+    {
+      "id": "dialog",
+      "css": "at-dialog",
+      "semantic": "dialog",
+      "behavior": "showModal、Escape、返回触发按钮。"
+    },
+    {
+      "id": "tooltip",
+      "css": "at-tooltip",
+      "semantic": "role=tooltip",
+      "behavior": "悬停与键盘焦点均可触发；不容纳必需操作。"
+    },
+    {
+      "id": "empty",
+      "css": "at-empty",
+      "semantic": "p / section",
+      "behavior": "解释为什么空，给出一个有效的下一步。"
+    },
+    {
+      "id": "error",
+      "css": "at-error",
+      "semantic": "role=alert 或关联描述",
+      "behavior": "说明错误与修复办法，避免持续播报。"
+    },
+    {
+      "id": "loading",
+      "css": "at-loading",
+      "semantic": "role=status / aria-busy",
+      "behavior": "提供读取说明；减少动态时使用静态标识。"
+    }
+  ]
+}

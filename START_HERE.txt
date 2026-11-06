@@ -1,0 +1,9 @@
+ARTISAN V2 | 作者 hanhanhu847-star | 开始使用
+1. 完整解压 ZIP，保留 ARTISAN_V2 内目录关系。
+2. 打开 BROWSER/index.html，选风格、类别、系列、尺寸或许可。
+3. 默认每个作品一个版本；切换“全部文件”可查保留版本。
+4. 点素材查看实际原件与来源；复制相对路径或打开原件另存。
+5. 勾选素材后导出清单。JSON 是清单，交付时还要复制相应原文件。
+6. 全部预览：PREVIEWS/CONTACT_SHEETS.html 与 PREVIEWS/ARTISAN_V2_Atlas.pdf。
+7. 应用接入：ASSET_USAGE_GUIDE.md；交给 Codex：CODEX/MASTER_PROMPT.md。
+8. 实际验收和数量口径：AUDIT/EXPANSION_REPORT.md。字体、交互与布局需在宿主应用内验证。

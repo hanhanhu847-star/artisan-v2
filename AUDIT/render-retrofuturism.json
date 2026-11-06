@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "28b2c104a24d92d73e63be60d5d4adade051061a11d4dcbdda90c4110f8494f1",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "7b51dd60fa514d341da52fdac0a6f83dc98b5ec201742f282a1146a6f8db30e0",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "d659f8adfb2d892b338df4e7d9971817120364574be1fc540aa248ef2eba303b",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "9c5f06218cea65cd19d652661f69495e532586fad1ac1ff456e44b6d42280f2b",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "b82486fe3bfe3df725cfbd41a19eb544ebe828f8dc9c3b54c316271e35b977c2",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "5e40c42997f4c065308b320580cc901c452214cfb7ab07a2bbb46a80c6785c26",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-aviation_museum.jpg",
+  "sha256": "13b7364fc76e3e77acdf12305c701a4caf87fabdd8239cb413052b132ae8da9a",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/photo-aviation_museum.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "fb4061302cb289ecb501587146a887a5c7c828753d970c91dd17353c8cc1b208",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "ce0fb5a37a4022f671af9deedd6fdd7f85571f5228a29174885ac2cbe260d70f",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "a484dde76c793cda3d7d2f41d19ab75d12d89de3b41e5a1dc3d4cd0fbcaa4468",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "35823449872a1deaa1cabc98127b751051a186944bf3e76200df81fa239dca47",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "bf5c5b00006b4898f08e3c7949ad314e6f61d938116756d3303dc89d1f25f959",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "c94feb83abda9d733a82e1f5766547a883ec022f901c9ad2a5c29e11fed209bc",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "44ef8e7e2a141381a6e11461b0ee78c7deab9f9328eca3bbb0dea5878bd03960",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "8d00df47f1f41a48f99241a50a13ade28b5388fea0d3be6c9c00b840b2645c5d",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "9315d7eed4b38da0a6a586fe2b9fa4c13f2791e938a5f8b1c7353aa2d43db92e",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "c233ddd7f42a3ef79d49a26b861e6cac025f794870678bdf73f98fa855f0656e",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "207c5878be60ea97de7ab1dcc56b6d42665fada2a8254602e9ac86c8f6568cbe",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "066f73359407043a78a5482a17533be42125ae5d6e9f76291e2d130d29abe438",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "37b554c7c820f24bcfdb79b0c9423dffffc3bea6693cba3f0f1d45c5a4f9aa37",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "b1e8e2c809a3cee82ad861ebbdfd11cf20a255c11b578e032eeb62f2479c8f96",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "62b62df3bac228d3fc1af47d72519e18f83acdf0901c0af5f2bd9143fb0b00e8",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "9b76f8b26619477353a5a2faaa5e84300709686ad93c76f5e4477e34746bd96b",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "bdb3f5196e9d30df2986a674946db75b038d2fd86d6510f5fbc4b0151065bc39",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "aaf7d358beb1e602438e84ba1533d33689bb987e7d9bc507186bab031577aa43",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "00f35d11519e969bc3fe9d20bfc73fd1932c6c76b865da8e579c3e00ab628233",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "f9fb420d1b6857d1fc29520c00301cf2e5e3178356c6f21b80336cbd961c4362",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "94071f96ebd0cb82f38f9058175808cc18a448874a898d78d8cd2707b04c3a8d",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "cdde30f38d424961a40f9f322305084df0ada50c561a47881b43de20d3b7bf6c",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "879d36129b4eb6d541d6108e26f612c90b55c22df780c9c5579deade30b60c74",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "67c6e18f791356f9257f874904a7490b1921bca8d83ae5ca6cf0caaa6974df4d",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "8376d14741ccfebfadf13d56dddcc581b94430dc380eeb353a864f16cd60501b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "8c9b07546f8ef2556ce4a9a00541ced2e578159e1329618fe81062a9d4306069",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "75eed5d35458a8f88a1ecbdbd832b253e87ee7ccfaf1c8cb14b79a5ea8f010d1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "1f4b9ee89301b110771ed9ad7768e7811d82249bb330393e9db4c3c2f2f1b77d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "0e9710af9300b739e8e282be5f6fc8c2c9139b991fe0a37162ad0ce524f006a9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "36f68b928e0f02285dfe93127209021cd82fe1ecb4a6e06ffa395d6505cc63c0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "5b58eeb5fa7b51ce2345c01061368189a3b07196aba47e4edb653a27ee85bbb4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "e0f16b66bfde1b98776b0d3ed2230c27c9f89206f8bdca6d63737cbecfcbc01d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "a18af5e56afabad55c8ba201866a51706721dd4df95ad62108ffe0e359d88459",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "b511268293a13330f23f88d2bfc0a59470782dbac03f98cac62471e828e4971e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "e03ec0e17a3824a893351680b2a8edf926538b4915b4a71c3df705e93a68dc51",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "cddf19c0529ca19d257766f4cc68e6acf03081cacbe5291ebbd81140e00e247e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "ef9f0e47ead774267f8cbe0fa1e240f560fbf12be0c719aed783c7f4728a4437",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "aa70af7b10ff93576fef94ad40ab3a63a3984b97d69f4e1abe40ff5f9b551ef3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "28575a14ca6d87338b31d80a3da3ca4a2d20836aae6e51f548eedc802828f38a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "272ed6e5e5294217cebf11b26154c542fadf3c25ed8fbc86c72b1befccf77a38",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "076db7c53aff5979f9c35fc420b49d3ebb755598ac8aa738cb8691ce4a1f2051",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "7283c79400bb22c9474f5ddf83c7c605cff083f983f94594eb224e2712407e58",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "380dc76c9fbd9b0930f1085da7a3c18e5f76e28171684de11606255900a6d161",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-atom.svg",
+  "sha256": "41bd1f222bb21468ec961ac3cdde2bee27eda978f19c9c47e74c45bcbd99a471",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-atom.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "f039b44550af8f3e02f0625d365935affcee5f5deba2010371c9f0571da48f8c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "8641143cdbea97382b5d20a81f8d9bd72d2558320234ee1e5a197d12bce5c887",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-crt.svg",
+  "sha256": "fbc98710d35ed726a67f79c94109b7a590b1abdd06d2d4b23c7a129eeec44c32",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-crt.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "fc9718957179220615e7ae5d1f6f0d4aafd0c98ef7cbc2d3b55172efabefab88",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "78ddcca6b89a2b7330867e7a8015fd07b52585774706968a3a252f6794ca2e25",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "76ec11fec73b4ef71d0d46226a3c73820390940b5735644e14f129a99c4d419d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "bbce7b7292912e2a75cceaf7664ca8f4168dd41c29432faebd5d2cb967e13997",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "06d1de3b0b4351d3adf99139bc600df2e65ebbac6b256c00176a16c94082f487",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "2eacc15dab459448c1aef1321b08853fa9885f68c98940d901216d23fed149c3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "5c06eef5bb2912f4635dd60fcf68fb0fb6bc26210fe282b97f586e63c4a38bd0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "58dc17a8deeb65304aa146510e51ab2d07a895fde284df16200ac9633723438e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "ea4797f71d15e0a010c7f6dfba622692cc61c49fcf14a959f84dc149dafbe30f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "1668ba65a7f5b3d99bab715be53feb1f2ef8238300e94f75692d7ff8e3462b31",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "581fb0c6d31a349c6f8960c5ff3f6511d5de2a057f989f25b06fd1cdba5bf6f8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-monorail.svg",
+  "sha256": "67a77c838704e03f7505b3347b3c6a3e1c8cbe266136fd72532328b483c7e54e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-monorail.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "dbb84839218ced1c71ecd926d7d3f8d57cff040095d995433be89ea705c7d946",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-nixie.svg",
+  "sha256": "ddecdfdad4cefac161fd3c74a59434e3a78cfae06ef0611004ebcb61cd74f671",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-nixie.svg.webp"
+ },
+ {
+  "file": "icons/v2-orbital-dock.svg",
+  "sha256": "a2db1151a3cedc6a8d92a37e664708dc65c11ce2f4b3fc2a65c154fda53b3ec4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-orbital-dock.svg.webp"
+ },
+ {
+  "file": "icons/v2-radar-scope.svg",
+  "sha256": "abf6947dda1b0761085d57cd96d143bb1c8724c17442e551d9449649c39206a6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-radar-scope.svg.webp"
+ },
+ {
+  "file": "icons/v2-reel-drive.svg",
+  "sha256": "ed429bf1ac8dc6a07f2093a248abaa1b51612eeef4f543e89f4e563e25c338b9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-reel-drive.svg.webp"
+ },
+ {
+  "file": "icons/v2-rocket-fin.svg",
+  "sha256": "46026ceb0b12a3cb855220195d4ad93dc06ba0166a75493a0158c179cf5ee04b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-rocket-fin.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "2db9466d11a2b598b8f0fa727cda5183d08d917343ed70108cd25121648d9be9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "4a22f24124f63189654de49fa4bdb55f4c414cae744817509763855a99f66029",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "a42907fad171344c4fbd85c894b855008a5eb658b6dc8c1e9c05efebfe391e34",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "cfd1c3cee40edce1032da4e458638485c4af92f346e9db11a09a57ba58dd014b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "d2f67f3794b33cb9f90f9fdc38f4d3eb9f81268606d15c97143a93b2ee2ef93f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "bc818d040c92e0d09160cffe9f12549d84a2af7616dc42b7eab9cb0ada396aed",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "f94e31a86ea3bf81aaad8b98bebfed11e65b7c4c5047c0c5e8d288fbc19d202f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "c84584127510555c51eb2e7c22f824d21afdda9b7ddcf2af4a61fd374fdf18e6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "4de7d97e9cac6e3eed01435f5fa14214a9ae09fead105ccbba18ea4af5c5f17e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "38fe58bf407829392e47e1c6a8fc54b9fb404bd5d49b781918a3d7235f4fca1e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "3594080168d1c9c3070499655ae7dd4a01119c652020454f6e76f5cf65161bdd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "5c8fbf88261095a9702e0a364e05c4c077b7ecf08e7d7b704d059fce686cfb8c",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "f8563fbd235953992f759634bb489df803c4233dbd286ca51b3fbdaf4e223cea",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "092cf0f6cf2e534113fdd77b43ee3c7fd3d856b465d9d4a47df087c38e579b99",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "a4ecefdc93a8928ce9481eb0120e3488f363d44ccd4f9987008dd6ce38e170ff",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "e2ae64e4f49037a5d649682502080bb7114dc50e61432123ca44035c0d303300",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "2906551b8c8516669d2d0a05849292565dc1836ffe49de6416361e022c76b8e1",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "6394454b90c28e1e56aea25e135fc866dfcd08a6f91a261a9528e5242ccb7a7f",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "a156cc47d2d6cd146bbf496ccb6e5a6fc03221f29cc9243b04a728c066bda238",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "346aac9c675018965c87cc86837a8387bcd17f8e5039ded73980a93d1a8c2f2b",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "779758b53ec6647d3e2225f83f88847d9c9d11282a851cd909026fe8388881d3",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "3fae9060c737a4008c6b23ad6d9d7dd0336d03eec4d192e8ef9499fe8c8dc342",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 94,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "bf538d6afd7aaf472ef760bd06eb0f53214d0fddaa06b2744c320458a9e6cf5f",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "b2c396b34f6fdef5a0168598b6d9dfa1abe7a176bb2b94db58cc3e9ebaed0b22",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "c947ce3d28ca043de98c5e71c6a90b80a895fc799661e51cbb30583fbc178ddc",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "0f5e327926e0d8012be1220f727b974011f3bdee7e2b9c56750cc3d3436065af",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "afef2eb5f385f63347cae32d63f52ea8f7e69f54d784d25b5d1b9bd9c94fa78b",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "3a6f7ae6b2e6ceb9c2b518d8fc28136c53eb6a6c5272d4b60315510970ebf924",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "e6ffca352caa93f9d360651beceab6180c4dcca090a905ccabec2c38d151d8d6",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "0b6ccde2aa3665ba52523e535bd9caf6a9f6c0b388d7cb993b273d6087cd1527",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "c5164940eebaca84ef871e239e42bf3d7cc32bed4f8ba6e5feef5b6da3d4265b",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "980ce5702b7825fee39c65359c5f8ccaa9838e677f4ed5e40da0b7e37ecd030f",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "32a767b4731d24ef60c154399e86f628ef1ddf3443148e7b669ec28b471bff1d",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "32b5335ab58d25f16dd8e9be2f2c9b7435fd08311a6c76eeba5ac7ff7fd648a5",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "bcdc177aa7e1b95ac12f1f7cc7f65c547c71f5cfbd2e272dee3816d7120b85aa",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "153981da23097cd694a1372319b2beee8bf61bfa5e88f7ee4c70491ef1ef8898",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "12ea7fcc29eac8d75c3e482ac1dc02c3753d8c8577afb6f01bf18ab465ee18e8",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "4f9f00797f656ab1cc03eed91cc81fbeb1501aa8802251099e31add19b11c074",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "651c6bbef013a4e2473e322699e2e0c36524dbf7b8da797edcaa7020e3ff36a8",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "62455fcd619e93fc5b950b30fa7f8528d16cdcb3eabbd2fe08add38a2360b63c",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "e5880ffa29f49bbb8e3dd5e510a907faff61bcb8d9c0451be6fec6770df76d3f",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "180d1392f9268807c4155e99c0e41629f1a31c4cc8b9432c3bf803beb104b146",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "44ae79ff2b370c7ab552545ec4ca30cb9c86ccbaf899218fa98cada46b2b0fb7",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "4f3101cd06f4cd10eb696acbb152aad7d919aaeac499a8264cc757aea5108018",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "bbbfe64248e270eac27e4fe2fe3546e8b2284c530407adbf313c3a3addae4db2",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "439e33849ea01e7405d7738b262a316c6644adaed5d265bcc2694be1fc631ec8",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "fceac443bb343058b108da86b2afb39eeed3e8ea38a0512e2ad29eb846b67a5e",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "6bb27e452ff1e4eefa13cfd8b1c169deab9d10efdd7b35d2a19c1a58271e5ae7",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "e8b935c2c825012011b7b31ad85f2bbe89f28853da6a764af3a8734563f473f2",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "c371f73485cbd4820435f0f95034336d961d24056a5b7d1a4b04901b2bc42e5b",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "3d1e13d1cda2ca5936638ca0aa686696a5fdda36eb5f8a49dc6e0ec638c41477",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "237dfa17a17ae46c75a320b033173230bcfaa030b4611585fc9a3e34bc815e3d",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "8f237cfeb41fd9ca8faca9e8cb08264ec7b28b9faffec560b3ed3a97e628a0b0",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "874bbbe16fc5ea3931704df7a22b2ee265ffac2e83dc58c7bea8485c973a2757",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "8fd65b030d4fdcbfb86a2db37da5bbde4ffdbd02af541555f59946f5bdecebe1",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "d8a15dde3dd4a21d8f22d0ae7633b6b4712fece68c324c93a85b24841af3c7d5",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "5e67ff26e84fd2b31e09b0b2b6f1e3057029f68b001b98c6d3591e7f891a45d6",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "49940c63ef573466d8d7266e976a90f6684fc3a73553b56b5cf80cc253a3f36c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "a69e483c26f5b88cb448d841b273d01f824056ba1e365e02305d7f9ad1443b0d",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "f0682962df9039df72f84cd8c5cbfb0cfbfb1b4c76c9daa9121909400d79fa12",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "2283f0a783964767cc16b23a60616a0efc8f9cae0314862c8f99beb6f6ebcac2",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "b6631c757aadfed01f197009b2608cba8a094c2e2a305d6fe2c7b89a7a5939e8",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "e82462d6facce5b07f84c1888e9591f45c780859256255471ba96ce71d01d558",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "f886386061a4d2fd6e3094b2679127f211ad369eeed443e84793f0e189f3ac0a",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engine.webp",
+  "sha256": "8d09e2349a8d2fdf87d1567cd2f3331888c003dbfbc495961366c3fabd9cb072",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-engine.webp.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "ec08740c3c8119ae0e3a8709827bf0fb307f591f6f3030ea721577525a902ee2",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "6280a43fb95acdf7543a8096b75c3bb305abd7e3882ffde49a1bead3d6613a21",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "7fe95085ccbacb136477ee2f670345f67147ec735d752ee406ec5b398281246b",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "7e28fe806f77882867ae81959549236a086f67baf6fe6360e747e0defa7fd48f",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-offset.webp",
+  "sha256": "82a2d96d7de2937a2eab1a479d72f377e5dab8f1ac63fbe39be5d5e217afaf14",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-offset.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "b2dd88259aba70c3f12af79fc3f9d92b597e4cecb8548146ee22ef0c7efa7fd3",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 222,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "5a3cd9c8d3988f982557de8b40e4684a842f38dc95320a507e3e6ab9fa4d501b",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 208,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "51bf0f0101ff919f86fecdb6ad16fca0c5c9ce97682ad0644ec2b1804805c654",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 182,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "5d1ee28e0f9c8529c6c15fb96b617c257326d2b4e48fef4dd814281b206a5f7b",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 219,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "652b99be97fdac2e2aeb62bcd5225c0cbe9525de8dee06d89800e5305b8962ec",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "f22f80cbe34ac60566f8980dd633401676cd3b1fd4206744b5e3259d428cbf23",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "5ad4234ad81da257a6dd8fb8b5bac767d306c25778e21e1e2eb833f59fad8317",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "19a7f65bdb627f0b61f87d25a0c600f458c51499b1e2f7588c9fd94871c61d30",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "35a233d9cfcafe9361e8c1a4e5fa6a395e510a1f8c4cd943146b5613c7d5d881",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "8be4f9fae9a3ca8031e74b3564099e51d0bbf76d5e0c51a6f15e910d4b25824f",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "633f0804f3e9a0104de65a27ba8273bc47720d5b56428051c4855401e3174062",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "79f09de5d2ff1ffc2cc4b288632ad967e0a68b1a1652d8892e75da2820de1d11",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "86cedf53713b479325f0716823992f6f7dac5bf779ad7bfc14984c15d663e3bb",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "52a3bdcbab1999159ed35996e6d8836b7aff7a9f311486548df8b79282e99d76",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "3d3621bcd0b9c3d15d71aed4f3ab9166eb95fef24ed696e0c5a5160e7b873c0b",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "28b702b37b1d4b6c619098243c8b8fa42ca2ce9d455f9500b2fbf57cea3387e4",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "831b5ccd1fb40eae226eb01da0c5df3bfec8b734736a0b60ae203768deab9a72",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "9b1b0e1841604758a40839673494981be891ee1f7d65d56183c6f96324ade496",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "180657e66c8382a3426a20d956d6a53881e507cbfa2c3d5a9e8bd776f9490f84",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "d2d9ac1fad730efa667178550b61029288b4b1ae48e3284e794b3279e0dd9c02",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "6b2098d888f3e192480f829a42dc614aea1915d27ad00481775f316a6e2675f1",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "8c88fcf33a3c5486474b5dad42c4f9ee6afded3895fbd62aadd95dbd6500f5fe",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "90b3469aa859864eaa77d0f0fd3de21d54b62aef4c1776ee07c5e3f91e057270",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "74ac240f54c4d768d3786357b94f6c40568752eb5bee22eb77dc6b503f21e958",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "9a271f3841519bb12c4574279b5e9e2941a98e52aa113c685227ed0587eb16b9",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "7585921d8f979c1c4f350ada057d33932c9c1b2c450b1544e1ab3b260e35cfae",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "6d7f96defcb6943edd9723d02777e919e8b558fc333dc1bb63e46a9a4c7a9d17",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "6eef13e2fd0a72ce787a00e05f5c2678316ac5d86a0b5f6d574f66d208ec1d76",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "d63ea4f3a3d3e987b10a27dc2055e71b8d60cbafd418f726f370a3f50184b6dd",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "8c5372a2d05833f92b5d5b6803be736fe2dbbc84d331acc1aa23a5118cd9e426",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "9a6fd36add5a30c9a06445845441179302b6f0db035607303020deee32fb7419",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "9ae157e2fe7512da9d7c4830d73b12454bc9a2bdde38ac64b82ce2005c7e4b53",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "07a8059b2380be6019f89980a977f2adbdcf0ac77764734726225a148cb2cea0",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "a7f3d5a779530cce6a12e7b5c8bd3a14aa468db1ff45e498fe52dd0efecdca90",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "31d5cb2330868031d87f0a5ad9f529fe527637ce15187dddf51b4466a2a286d4",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "8ec50d1ece928f244a48f29225a62c36266c6055312879f223389e1271354d1b",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "4d609c96d88680fb039446617f335f5639450c6ba249fd1fe63b3f4eb3c24797",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "034e7af1797d535d6892aba80633c99c58b50d9ed218d59ea358a1e42ed8c7d7",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "96e9e99dae51e7a0c492bb41a42cc4ff15ca64c7667d7e2190c9c5da95baba15",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "20e16cfb5734a0565540f4cf427adaf8ea8ee7d904e5dd251bdf47a8b8bbee9d",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "45bd4d5f798082ace84312cbfa91408c2648da37299c9406f40097d749b95459",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "402b673f631ee6f9f9569a5c04cd79c0ad7542eb8a43eda355668fa3e094fa4e",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "bf8ce329fe26cf34580dd8cd36a0a8194a683f6663d3682e5c2d2d100f184f40",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "58256b60073f78216648eff060fac2b579173fb84bc8d32d2459f72e67e8fce1",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "85d06cd29b965e0d448b15d1d67b6a06899e108f741111d6b93c1132c1cab057",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "543c1ed59c07cebfb69b41ddbf132c6c45676cfc144b705ae4e53fa1512a33a7",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "20cf540674dddc49082a74f068f58402915e48db0f68990b3f46823729f9af0a",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "9bde5cba827fe6fcbf7649c3cd5b8c170f2747f3895eeec6431546707e155f9f",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "4106907d776920d1ec2cb3481f73ae584f63b3129031a8cc12fa45419cfbba45",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "1db74332b851355bd191352b9ba742603e461721a4722606f2945bf41b620b0b",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "976823c69082d1820197f8e84143e23f3a1dd7f8b81ff2312fe2e3ebc296236c",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "b2f1ff35999b570ea3a7868d78c331c7a7e0d4e84e0b546361b742afcd22a2e7",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "bd4f2269fcfd886affe567fc498b175bd68fa43b1b5b849176e5b50be6b7472e",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "88c74fc3a613652c654c211e5a33dade8e01948e47434837bd37119a0189ce68",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "bdccf7e6f1bce334cc0bb4bfd6e8bb7049016ea325df1092dcb57c524492cf79",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "fbc8151cdf038b28953da0f6eb90bab804ded20347cc04d0d4c97f7716975548",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "38612b75c374a4a3f74bb6abfb9905b127558bfd14826e86bda57628e06fecd1",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "e7c955285816d9a56752d761d1cc093ac252716280bad921fe40ea8484c9fe0a",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "5e9f010456ff60fef11573e4d67db94933241a5dc0c168f64cfcdd5631506018",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "6ad4d9e45b8e2782564f196f7833f08a3fb133765b00843dbc3e7489f5137d06",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "10ca4ebd82f1cf8ac1ef98930b8d20e0b3d7c327d6eac260b53cf145dfe6a6b6",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "207ba4997072512da5643f94debc34c7e1fc29ef1110b7b795a1cfc356e23f70",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "b92a3dfe535cb1080547a8101e77fbb55350a20adaccadad402cf0e6e12a80ff",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "5dcb5deca30af829aa61f83626cc39a58be4334aceeae0d83afaae73789bdc1b",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "dbbc1e925a8e844a027b3152239970f965cac8f79f545730440e5c86d83e4bce",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "21f46d6144f93ac2f5ab62e46b899ccfbce947c691e62d95da94845d16ed601d",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "f43df2a7597981cfcfa700f291bb5dce78b7a82aee62183e544c236975e63a6b",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "9e7b8606ea3e3c97301eb6495a0605e49d7a9e1c1b0590259d6779ab31b27e72",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "37d522a0c0b158deb6cca3dc942830970db9da5945712d6bb00f61c01f400f99",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "410e88f20fcc4c2c8ef24e1d8c955c153e05371c4f79c9b8d4483019b4a93624",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "4b75809e4895bfbe0350dd18ac21265f8a4f70842841a598549a3bf3e6bc76a6",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "a785749c572c66304e7e07a370f65292a440c6271ef3b50e69102c0698efa7de",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "0eec3568cb3560ad74ed6eaa0db5a0cc74b6f9323bf48ce378309faf24cdcbea",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "f51fd4710d6d0ef18afea36e6867eea109da776f04973807d8071f6fe8e2bbaa",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "3528c96e692dd084f5fb3a67e0b506df89bf44b494f7bd2875133340d65dd932",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "14843eba72713b740539c0a9c3f930c14bc5fd04ece10873f10d724af31747b7",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "7dc68351c8b1a5d92c896fe7e9b474333fa497cfab15f61fbff877557400845e",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "113b6cb5b6f18023ddbba3a8461ab5562e315375c3eb74079e26fbbdce9903f1",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "ec003a6f6ff18853a6bc58b4ffad318804909ed606f3c20ded227e775e437e3d",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "b693948f52e71e71a11cd8a2fd27ca19330b41a416875501c7acca6abf891bc8",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "ab752facf549d5a4f1b4b6ba520ac124c4c08e40dac7756e6861a7d128fb1468",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "137e6ea9b8204ec5f6ade64b1f7b7c93500ba0e6aa36b2b306bfedcda5b8e1b7",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "f24c47f13ce875c945eb46bac6c4484632c7168b27be6c4a0302100a06250baa",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "4371dd18c116c9940420cb4c3a469ddbf6be7a3dc21b234932e7f299951a3d0f",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "04ba013f16786ad0f7dde73045b19df58e0e52af25af724e027716d1fafea472",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "7ac89243b6abac409c6b7cf2c4133e6dc6ce9d6c34e15be0b0890794cfd8db44",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "4c0f0895c06b0d46fd9eb5cb00d7f174a7e73b807bf378fd605fd4e2fc2ee9cc",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "33aca7d561fdcb2eb5b85b05c2b4edd8336260a141d22e2df5bb7f7314ec5734",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "7539fcc238ec48d6bd6a5c0ad4dd13bfc4dbe91dee8a2e9a36f00a189d770417",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "d101d3ef80e25aacdc6fd3d56a6656d65aed5c4acd22805aeaf3e778c8fc878c",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "92690cc9e650df0dad18e4899e96783a006ae33017d3803dfa07ecfc7cdfe0da",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "c90dc6ba47bad003383879a747264b73a3a003e816c8537e6facb4af9c597d61",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "f0ef505ee946ef5a9df94dc5993ce34ed69c27ecbc730dda9e62ce64b4e07440",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "440994000778c86d8b580d6a28a3c72cf8ee0b32770d406f09d41c889ab45d8a",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "64d1614a05c2bdb78fcf741f445fdfce77992496536aa3390d1445ec23ab4207",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "72dabaa3617f3f7265cb9b6fc4c3a702775d7f66c15763f553d5e916088e4e85",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/retrofuturism/ui/v2-ui-tooltip.svg.webp"
+ }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "src": "STYLES/natural-history/backgrounds/field-study.svg",
+    "dst": "STYLES/natural-history/backgrounds/field-study-1920.jpg",
+    "w": 1920,
+    "h": 1080
+  },
+  {
+    "src": "STYLES/natural-history/backgrounds/field-study.svg",
+    "dst": "STYLES/natural-history/backgrounds/field-study-2560.jpg",
+    "w": 2560,
+    "h": 1440
+  },
+  {
+    "src": "STYLES/natural-history/backgrounds/field-study.svg",
+    "dst": "STYLES/natural-history/backgrounds/field-study-3840.jpg",
+    "w": 3840,
+    "h": 2160
+  },
+  {
+    "src": "STYLES/natural-history/ornaments/corner.svg",
+    "dst": "STYLES/natural-history/ornaments/corner.png",
+    "w": 288,
+    "h": 288
+  },
+  {
+    "src": "STYLES/natural-history/ornaments/seal.svg",
+    "dst": "STYLES/natural-history/ornaments/seal.png",
+    "w": 384,
+    "h": 384
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "illustrations/v2-scene-1.svg",
+    "asset_name": "观测台与星轨",
+    "intended_usage": "完整原创场景或主题图。科学次序或形态示意；无精确比例、轨道或观测能力。",
+    "series": "深空天体",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-1",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-2.svg",
+    "asset_name": "月相序列图",
+    "intended_usage": "完整原创场景或主题图。科学次序或形态示意；无精确比例、轨道或观测能力。",
+    "series": "古典星图",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-2",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-3.svg",
+    "asset_name": "太阳系次序图",
+    "intended_usage": "完整原创场景或主题图。科学次序或形态示意；无精确比例、轨道或观测能力。",
+    "series": "天文观测",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-3",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-4.svg",
+    "asset_name": "银河与星云示意",
+    "intended_usage": "完整原创场景或主题图。科学次序或形态示意；无精确比例、轨道或观测能力。",
+    "series": "深空天体",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-4",
+    "credit": "new"
+  }
+]

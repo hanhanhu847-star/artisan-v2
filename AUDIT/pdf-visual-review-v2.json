@@ -1,0 +1,13 @@
+{
+  "pdf_sha256": "e5875f6caf9cd98e959f473706b7945cc45e5ec5315a77cc27c21573959a5bc8",
+  "baseline_pdf_sha256": "8deba2d1568b8c7da34505ccf6152b7e937b63bc5237bdebac07e8929eb0e5ea",
+  "baseline_reviewed_pages": 178,
+  "current_detailed_pages_reviewed": [
+    1,
+    2,
+    91,
+    102
+  ],
+  "unchanged_contact_pages_verified": 160,
+  "method": "基准图鉴178页已完成全页检查。本次公开版只增加作者和更新许可文字，实际渲染并放大复查封面、导读及天文/敦煌说明页；160页联系表SHA与已逐页目视记录一致。程序另核对当前178页字体、图片数量与边界。"
+}

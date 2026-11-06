@@ -1,0 +1,9 @@
+/* 工程蓝图；用于 QApplication.setStyleSheet，由 Qt 处理键盘与状态。 */
+QWidget {background:#163B58;color:#E0ECE7;font-size:14px;}
+QPushButton,QLineEdit,QComboBox,QListWidget,QTableView {border:1px solid #E0ECE7;border-radius:0px;padding:6px;}
+QPushButton {background:#A9CFD7;color:#161819;min-height:28px;}
+QPushButton:hover,QLineEdit:focus {border:2px solid #72A6BA;}
+QPushButton:checked,QListView::item:selected {background:#E0ECE7;color:#163B58;}
+QPushButton:disabled {background:#163B58;color:#E0ECE7;border:1px dashed #72A6BA;}
+QLineEdit[invalid="true"] {border:2px solid #ffb6aa;}
+QProgressBar {border:1px solid #E0ECE7;text-align:center;} QProgressBar::chunk {background:#72A6BA;}

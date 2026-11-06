@@ -1,0 +1,14 @@
+[
+  {
+    "file": "ui/v2-toolbar.svg",
+    "asset_name": "编辑工具栏 · V2布局",
+    "intended_usage": "同套操作按钮组；编辑、复制、分享、收藏由宿主实现。",
+    "series": "建筑测绘",
+    "role": "toolbar",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-toolbar",
+    "credit": "new"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "status": "public-release-assets-and-atlas-validated",
+  "source_files": 3824,
+  "independent_style_families": 1804,
+  "visual_pages": 160,
+  "pdf_pages": 178,
+  "similarity_pairs_reviewed": 21,
+  "source_fingerprint": "0129cd049436e8156c4a715dfd1240925812ce09d623401d99cc1aabb7c72661",
+  "evidence_sha256": {
+    "AUDIT/v2-audit.json": "118b4f629944b678dbe622e38381db9b84f60fdb716f6597850ce49fe42f2799",
+    "AUDIT/visual-review-v2.json": "acbef8a09e2b5c4d6c20ce13ef1365a06acb2108724b22488326e049ac697ea1",
+    "AUDIT/similarity-review-v2.json": "3e14eb892e9368daf2bc511690c7e30a9274c89749e5b19b21eeb6cc92c84cc7",
+    "AUDIT/pdf-v2-check.json": "f44e19e7c9cff1d544b602dfb444187c3a32eac47400b917d3a15158f5c5f1a1",
+    "AUDIT/pdf-visual-review-v2.json": "289d4ac8bbe42c1acaba1441c36eaed5ee862483e9467d435259355ca9b564ec",
+    "AUDIT/v1-preservation.json": "192e6316d680f94faef67f021a97cf0b8cd301694e740f8a219c02c1bc5012e9"
+  }
+}

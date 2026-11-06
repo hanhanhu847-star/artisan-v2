@@ -1,0 +1,98 @@
+[
+  {
+    "file": "ui/v2-ui-button.svg",
+    "asset_name": "操作按钮 · V2布局",
+    "intended_usage": "独立可编辑SVG；应用使用语义控件实现交互，不把静态文字当作业务数据。",
+    "series": "地下印刷",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "button",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-card.svg",
+    "asset_name": "图版卡片 · V2布局",
+    "intended_usage": "独立可编辑SVG；应用使用语义控件实现交互，不把静态文字当作业务数据。",
+    "series": "地下印刷",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "card",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-list.svg",
+    "asset_name": "作品列表 · V2布局",
+    "intended_usage": "独立可编辑SVG；应用使用语义控件实现交互，不把静态文字当作业务数据。",
+    "series": "地下印刷",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "list",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-navbar.svg",
+    "asset_name": "页眉导航 · V2布局",
+    "intended_usage": "独立可编辑SVG；应用使用语义控件实现交互，不把静态文字当作业务数据。",
+    "series": "地下印刷",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "navbar",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-sidebar.svg",
+    "asset_name": "目录侧栏 · V2布局",
+    "intended_usage": "独立可编辑SVG；应用使用语义控件实现交互，不把静态文字当作业务数据。",
+    "series": "地下印刷",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "sidebar",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-tag.svg",
+    "asset_name": "分类标签 · V2布局",
+    "intended_usage": "独立可编辑SVG；应用使用语义控件实现交互，不把静态文字当作业务数据。",
+    "series": "地下印刷",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "tag",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-tooltip.svg",
+    "asset_name": "详情提示 · V2布局",
+    "intended_usage": "独立可编辑SVG；应用使用语义控件实现交互，不把静态文字当作业务数据。",
+    "series": "地下印刷",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "tooltip",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ui/v2-ui-empty.svg",
+    "asset_name": "空结果 · V2布局",
+    "intended_usage": "独立可编辑SVG；应用使用语义控件实现交互，不把静态文字当作业务数据。",
+    "series": "地下印刷",
+    "role": "component",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "empty",
+    "credit": "upgrade"
+  }
+]

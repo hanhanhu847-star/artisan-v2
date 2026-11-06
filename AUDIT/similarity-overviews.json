@@ -1,0 +1,69 @@
+[
+  {
+    "page": "PREVIEWS/similarity/overview-01.jpg",
+    "assets": [
+      "bauhaus.icons.v2-download.svg",
+      "bauhaus.icons.v2-upload.svg",
+      "generative-art.icons.v2-download.svg",
+      "generative-art.icons.v2-upload.svg",
+      "dunhuang.ornaments.v2-repeat-2.svg",
+      "retrofuturism.ornaments.v2-repeat-2.svg",
+      "cyberpunk.ornaments.v2-repeat-2.svg",
+      "cartography.ornaments.v2-repeat-4.svg",
+      "natural-history.ornaments.v2-repeat-4.svg",
+      "blueprint.ornaments.v2-repeat-4.svg",
+      "art-deco.ornaments.v2-corner-2.svg",
+      "dunhuang.ornaments.v2-corner-2.svg",
+      "memphis.ornaments.frame.svg",
+      "cyberpunk.ornaments.frame.svg",
+      "dunhuang.ornaments.pattern.svg",
+      "cyberpunk.ornaments.pattern.svg",
+      "dunhuang.ornaments.v2-frame-1.svg",
+      "retrofuturism.ornaments.v2-frame-1.svg",
+      "dunhuang.ornaments.v2-info-caption-frame.svg",
+      "retrofuturism.ornaments.v2-info-caption-frame.svg",
+      "retrofuturism.ornaments.v2-repeat-3.svg",
+      "cyberpunk.ornaments.v2-repeat-3.svg",
+      "editorial.ui.v2-ui-list.svg",
+      "wabi-sabi.ui.v2-ui-list.svg"
+    ],
+    "groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "page": "PREVIEWS/similarity/overview-02.jpg",
+    "assets": [
+      "cartography.ui.v2-ui-list.svg",
+      "generative-art.ui.v2-ui-list.svg",
+      "bauhaus.ui.v2-ui-button.svg",
+      "swiss.ui.v2-ui-button.svg",
+      "bauhaus.ui.v2-ui-card.svg",
+      "swiss.ui.v2-ui-card.svg",
+      "art-deco.ui.v2-ui-loading.svg",
+      "celestial-atlas.ui.v2-ui-loading.svg",
+      "wabi-sabi.ui.v2-toolbar.svg",
+      "generative-art.ui.v2-toolbar.svg",
+      "dunhuang.ui.v2-ui-dialog.svg",
+      "natural-history.ui.v2-ui-dialog.svg"
+    ],
+    "groups": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  }
+]

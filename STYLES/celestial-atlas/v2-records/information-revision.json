@@ -1,0 +1,38 @@
+[
+  {
+    "file": "ornaments/v2-info-title-frame.svg",
+    "asset_name": "标题框 · V2构图",
+    "intended_usage": "可编辑信息装饰；文字放入留白区，章节号可替换。",
+    "series": "古典星图",
+    "role": "title-frame",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "title-frame",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ornaments/v2-info-caption-frame.svg",
+    "asset_name": "图注框 · V2构图",
+    "intended_usage": "可编辑信息装饰；文字放入留白区，章节号可替换。",
+    "series": "古典星图",
+    "role": "caption-frame",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "caption-frame",
+    "credit": "upgrade"
+  },
+  {
+    "file": "ornaments/v2-info-chapter.svg",
+    "asset_name": "章节编号 · V2构图",
+    "intended_usage": "可编辑信息装饰；文字放入留白区，章节号可替换。",
+    "series": "古典星图",
+    "role": "chapter",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "chapter",
+    "credit": "upgrade"
+  }
+]

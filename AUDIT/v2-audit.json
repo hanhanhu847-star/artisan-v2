@@ -1,0 +1,792 @@
+{
+  "version": "V2",
+  "files": 3824,
+  "style_families": 1804,
+  "shared": 4,
+  "errors": [],
+  "sha_duplicate_groups": [],
+  "sha_duplicate_files": 0,
+  "svg_geometry_groups": [],
+  "phash_candidates": [
+    {
+      "a": "bauhaus.icons.v2-download.svg",
+      "b": "bauhaus.icons.v2-upload.svg",
+      "distance_dark": 0,
+      "distance_light": 2,
+      "cross_style": false,
+      "status": "needs-review"
+    },
+    {
+      "a": "bauhaus.ui.v2-ui-button.svg",
+      "b": "swiss.ui.v2-ui-button.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "bauhaus.ui.v2-ui-card.svg",
+      "b": "swiss.ui.v2-ui-card.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "art-deco.ornaments.v2-corner-2.svg",
+      "b": "dunhuang.ornaments.v2-corner-2.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "art-deco.ui.v2-ui-loading.svg",
+      "b": "celestial-atlas.ui.v2-ui-loading.svg",
+      "distance_dark": 2,
+      "distance_light": 2,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "memphis.ornaments.frame.svg",
+      "b": "cyberpunk.ornaments.frame.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "editorial.ui.v2-ui-list.svg",
+      "b": "cartography.ui.v2-ui-list.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "editorial.ui.v2-ui-list.svg",
+      "b": "generative-art.ui.v2-ui-list.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "wabi-sabi.ui.v2-ui-list.svg",
+      "b": "cartography.ui.v2-ui-list.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "wabi-sabi.ui.v2-toolbar.svg",
+      "b": "generative-art.ui.v2-toolbar.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "dunhuang.ornaments.pattern.svg",
+      "b": "cyberpunk.ornaments.pattern.svg",
+      "distance_dark": 4,
+      "distance_light": 2,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "dunhuang.ornaments.v2-frame-1.svg",
+      "b": "retrofuturism.ornaments.v2-frame-1.svg",
+      "distance_dark": 2,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "dunhuang.ornaments.v2-repeat-2.svg",
+      "b": "retrofuturism.ornaments.v2-repeat-2.svg",
+      "distance_dark": 4,
+      "distance_light": 2,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "dunhuang.ornaments.v2-info-caption-frame.svg",
+      "b": "retrofuturism.ornaments.v2-info-caption-frame.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "dunhuang.ui.v2-ui-dialog.svg",
+      "b": "natural-history.ui.v2-ui-dialog.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "cartography.ornaments.v2-repeat-4.svg",
+      "b": "natural-history.ornaments.v2-repeat-4.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "cartography.ornaments.v2-repeat-4.svg",
+      "b": "blueprint.ornaments.v2-repeat-4.svg",
+      "distance_dark": 4,
+      "distance_light": 2,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "cartography.ui.v2-ui-list.svg",
+      "b": "generative-art.ui.v2-ui-list.svg",
+      "distance_dark": 4,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "retrofuturism.ornaments.v2-repeat-2.svg",
+      "b": "cyberpunk.ornaments.v2-repeat-2.svg",
+      "distance_dark": 2,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "retrofuturism.ornaments.v2-repeat-3.svg",
+      "b": "cyberpunk.ornaments.v2-repeat-3.svg",
+      "distance_dark": 2,
+      "distance_light": 4,
+      "cross_style": true,
+      "status": "needs-review"
+    },
+    {
+      "a": "generative-art.icons.v2-download.svg",
+      "b": "generative-art.icons.v2-upload.svg",
+      "distance_dark": 2,
+      "distance_light": 4,
+      "cross_style": false,
+      "status": "needs-review"
+    }
+  ],
+  "style_counts": [
+    {
+      "style": "bauhaus",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "几何印刷所": 55,
+        "现代建筑工坊": 23,
+        "实验舞台": 34
+      }
+    },
+    {
+      "style": "art-deco",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "剧院之夜": 55,
+        "退台都会": 23,
+        "金工工艺": 34
+      }
+    },
+    {
+      "style": "swiss",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "字级与基线": 55,
+        "交通导向": 23,
+        "信息网格": 34
+      }
+    },
+    {
+      "style": "neo-brutalism",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "街头张贴": 55,
+        "铆接结构": 23,
+        "地下印刷": 34
+      }
+    },
+    {
+      "style": "memphis",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "层压板工坊": 55,
+        "玩具建筑": 23,
+        "舞池节奏": 34
+      }
+    },
+    {
+      "style": "editorial",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "书籍装帧": 55,
+        "杂志开页": 23,
+        "编辑校样": 34
+      }
+    },
+    {
+      "style": "wabi-sabi",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "手作器物": 55,
+        "枯山庭院": 23,
+        "植物与和纸": 34
+      }
+    },
+    {
+      "style": "dark-academia",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "古籍装帧": 55,
+        "阅览室": 23,
+        "博物馆档案": 34
+      }
+    },
+    {
+      "style": "celestial-atlas",
+      "files": 250,
+      "independent": 124,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 22,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "古典星图": 67,
+        "深空天体": 23,
+        "天文观测": 34
+      }
+    },
+    {
+      "style": "dunhuang",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "壁画叙事": 55,
+        "藻井纹样": 23,
+        "矿物色工坊": 34
+      }
+    },
+    {
+      "style": "cartography",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "海路测绘": 55,
+        "山川地貌": 23,
+        "城市地图": 34
+      }
+    },
+    {
+      "style": "natural-history",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "植物图版": 55,
+        "动物标本": 23,
+        "地质档案": 34
+      }
+    },
+    {
+      "style": "retrofuturism",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "轨道航行": 55,
+        "模拟终端": 23,
+        "明日交通": 34
+      }
+    },
+    {
+      "style": "cyberpunk",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "雨夜都市": 55,
+        "地下电路": 23,
+        "数据终端": 34
+      }
+    },
+    {
+      "style": "blueprint",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "机械装配": 55,
+        "建筑测绘": 23,
+        "管线与电路": 34
+      }
+    },
+    {
+      "style": "generative-art",
+      "files": 238,
+      "independent": 112,
+      "counts": {
+        "backgrounds": 11,
+        "ornaments": 28,
+        "illustrations": 10,
+        "icons": 32,
+        "textures": 16,
+        "ui": 15
+      },
+      "gaps": {
+        "backgrounds": 0,
+        "textures": 0,
+        "ornaments": 0,
+        "icons": 0,
+        "illustrations": 0,
+        "ui": 0
+      },
+      "background_shapes": {
+        "landscape": 4,
+        "portrait": 2,
+        "square": 2,
+        "ultrawide": 2
+      },
+      "tiles_2k": 12,
+      "alpha_overlays": 4,
+      "special_icons": 8,
+      "common_icons": 24,
+      "scenes": 4,
+      "objects": 6,
+      "series": {
+        "离散生长": 55,
+        "连续流场": 23,
+        "计算几何": 34
+      }
+    }
+  ],
+  "elapsed_seconds": 11.35,
+  "status": "technical-checks-passed; manual evidence in similarity-review-v2.json and visual-review-v2.json"
+}

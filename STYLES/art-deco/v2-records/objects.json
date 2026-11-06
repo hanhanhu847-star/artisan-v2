@@ -1,0 +1,38 @@
+[
+  {
+    "file": "illustrations/v2-object-1.svg",
+    "asset_name": "铸铜门把",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "剧院之夜",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-1",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-object-2.svg",
+    "asset_name": "阶梯座钟",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "退台都会",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-2",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-object-3.svg",
+    "asset_name": "舞厅壁灯",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "金工工艺",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-3",
+    "credit": "new"
+  }
+]

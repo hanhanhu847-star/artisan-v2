@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "5beb532ba81c0e65fe27b7eaffb6079264ea3323c5ea6e0d33a77e99878469ae",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "4a60cf03f0120ad0ad24617cc475745a503842fd10fc1c5458fc7ee759418dbf",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "9046853cdacdb98dbe2d6939854f61916ba9647f4dc6bd9d64392c3a00a9d584",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "6df1017b30082e9916de984e2dcdd0ec311684a7c4f175b334ac210d80610306",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "01cbb264607f26647e98096f53bc4e2f4cea516798f6468e75efe48131448902",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "e0f682f7a71cbab4f942ec4e4410afb2bbb2e1a3eaa12cce5d2362fd73132cc1",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-historic_cloister_passage.jpg",
+  "sha256": "d0cd2d221ce0c2b2bd03c8781aaa40527c79bee7c1cf5406e00add232e69a8ef",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/photo-historic_cloister_passage.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "a3e8cbc07b9cedaac68af8e3642b917df8795c7ef764adf6397f1946ee658b23",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "483cdf64bc9279d54a4b372d2dbe71ca6ac74b43c0b09d0f43dde04b62a5efb9",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "bc56b00063c51530d0d906786e477cf3e116b59abcc8184f0dffade5a6d91a93",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "cd06f85168da90cf9900385289818c4a17da66e73e9e6a832aa50e290adda71d",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "12ac1e561e423364167b18fb5d43fc5db95e682fa01ecdc10d34fec800b0fe03",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "d3e7bd5d05538bd5cea73d4807410f78b567e984c71ff0d42645e93a74450b2c",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "3b788d8322d95d03f489b6517bfaddde7297f080b9183301853d5fdb93067220",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "193e68e04c3f6d04c9c8ba03030c69b2317970df15406e13bcabfe41a3afcc1c",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "aefe12155a57c95ea67a4bc19bae761a84843be8dc51a3c93b4312fac9e98659",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "e167fc5cf6d4238d8cf12b0aa3aa157267240990e323a4d076f2466a873fbde5",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "1998def4adf7045a646be8f3bb4b68ea6da50a4557e003913f1bf19b10e90db3",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "ab0252a8a5429e8c4da07c3915ae285c99b3b50f592c12f61b688cfe31c31653",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "07830a39a95467df83744e39a59723b0f08f7143de89e41840d333d95bf58ef2",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "f3a6addf6a6d68dd1031b53e665abbbc2a90916205ac22ce6899187616576cd9",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "034008fdd442d05c41ee2c0d84f1906806d262a8a1d5b95aae90c92bddb0d44b",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "a85bbb7115fefeef23d2daafd8e863d9c9ba23533a8d1ae5ac2de341a324dab2",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "99c1d9a1146070c5915b58e4c29a0d32cecb1366362be0e179650924f0b86019",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "2bda1857d1885f8f43c37013d1dc3537c4184fbd902b91093913e99984382f81",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "5defff5c9511bf6313d118ae20483e229dfa0b03ec3f772c3a67958638b64ad0",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "68e5293549d6ec48b5641356b9ae05a20586cd40e34e4271bd9084dfd08f0ec2",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "da20536f00c29541b68bccccbde5fe63e04665bb334601ca7030a879d355b78e",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "e4cfa616cf6ea90c55c6913b9fda156601981504b57685122f51e4d325363b2d",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "1283539c791b4cf2c3b35e1936a94219c22c6b88ccc7a033b1969c1e63442692",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "2216c816ae3bd886f1a901282a1857009bfa49a491e64b6da3633a8babe197ac",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "845a9e890c3a19a9b1b8fe4a1d3984e55daec167457bb9dce5a8a340831ab12b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "b7f892300cde39645ad28451b2069e0ec9c1b7534493f2f064adecd5eeb10ee3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "7e5de98cd4ce699b216e0ec93120cae4367b91d08b375c84461dd8ac39bba632",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "9569f5a55ad4aa2ba8358a7231a04e3a7d202a25c2c8cc2fec0ed151913858a6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "c107db94aba733a41f42c066a1644320bbe38e0c443b56a03f83203cc7c12d8a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "abf10fd92ec6c8cf1b431b35f49f456025b8e49d2d46f9b343f4695e2d1be50a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "b093cb7efd6de0902713e8ef1badb6583080a86a8e29d2db129eca7ce26dcd0b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "d0c628d77faede3a026d64233da2b5ac17e40299ca5f6c134725173e28639e53",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "f4fe5a044ffa54dfe8f1e0f41c47c08c96078f7987537783177e806c7843761d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "ebfb37c74c2c93bfb62f8b89f4691cf9e42f1e3e6996f4f16a644a2768af052b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "d879d099b349bac16ea31bd1520fb29dcf2b0361f5f80c0b9950e6aa68315568",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "6de8deed0bfbace53295eb389aa49a00b917d4ef6151455a94381c20a784a72c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "38e26c1938d68d26747437f4b814216128c2db6ad0f1d1872aba7b589c1285c9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "e449b3bce50fc2d2479af48e7cee9f8b16d73606507a64183aaa2934bacbb7d3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "1cc6419ad6dfa22f0b2cf7605f2e4adb0d8d9c19d9ae1f81e788b0a9291444da",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "f73ba4a46ad74981a60931221d8084e2a0a0c79affd275af2f4608c24c607449",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "e40eabfad0d8d45cabb1aab82a027746c83501cd8f42fc2b10546bb4f8251a93",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "6ddd7918135170ddfb87548b4653311504ff18e2fd339f7f4259fea69fb9a7dc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "65c281eb1b4dda54db23cf76930c236ca4b822cd1b6655f0973bc10f363ddc90",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "08aeb00e7aca613880df18759d4ad14a5fbbdf152295ef2b2aa72803fb577b56",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-book-clasp.svg",
+  "sha256": "54a5cbf6f8c399cd78a66e16a19b2c371af1e05f8b4a895dba9b94615825ce3c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-book-clasp.svg.webp"
+ },
+ {
+  "file": "icons/v2-bookplate.svg",
+  "sha256": "894bd367317a2dc45d2dd3991df242fec5f39d61fc9d96a2f2a86d4cc3b37037",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-bookplate.svg.webp"
+ },
+ {
+  "file": "icons/v2-cabinet.svg",
+  "sha256": "c27da75281018dfdd8ffcbfa06bce856661ce18caba1414e62565c7ebee7b1d0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-cabinet.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "3430abc16b78eb87958149d2e68a883938a8baf227ed3f67e99d907601caf44c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "04067e42557001c3900afd28c5b2cd0a3656c1c46fac5a3a17f66ed9f20550bf",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "19a87539717605b00793fddad1cd10ed9457acf13e08e5e4b713d30f204404ad",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "220c56b8b145e8925f423a0df3d3e81b0861723361ac60d9c95ee4f8c9993f9a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "5d2f448f8133048d5173972eac3928ec9295df47eb28c561e5c8968191f51b20",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "6f51f355e1f0b8883f440c8a16fbad65bc28bcb42bec684f39bb9c899f6b57ed",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "259e2987a6bb5efbc9258e06dbf671a5137fe163e05f5322403cc13a1ba0d029",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "57f1335f581e855255aafbaee0a70c56ef391b1bb3274e7ac200309bed8b565b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "aaef7ead2618198d08725aff912c76487dc99ffa467cc2835d898bb186b5433a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "2a9e3daeb581d0d57a319cb557991325a68125e535af4a73e4f5152b6bdf0bc3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "640fb9b00d5d5f1d95c928d97b48b2f9d0aa71938ddaa579559351450bd266c6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-library-ladder.svg",
+  "sha256": "d3c214677048d66670244aad79278cdb1a65b99cd2362188b86a6c8dbdc54776",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-library-ladder.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "ac7e5ccc641be416c5aefaa97eeb0ad563355995d443e172c72c1e0046286cbc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "428f757e3b38cc7921a652c900be1633c2c2974829da6e94e6eb55073c24fe0d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-oriel.svg",
+  "sha256": "f504e98e289bc6d4afdfd5f9cf0cd8fa29b4f517da3737f43cc3eba2965322c5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-oriel.svg.webp"
+ },
+ {
+  "file": "icons/v2-quill-nib.svg",
+  "sha256": "d303e8be33431abbc2499cab844bc691c0757f6c8ffe8bbbb1ed5494331f9a78",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-quill-nib.svg.webp"
+ },
+ {
+  "file": "icons/v2-reading-lamp.svg",
+  "sha256": "a52f9acc6221fe59a58e50992aa6953ca0384c88728951898c8bb3de93c8f83b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-reading-lamp.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "920fa90cb0d815f85508e0d262cc3bc1eefa4c732bbc512c627d208e34ced928",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "4165d8382ffe498a3b7bf7a99e2cdca88c2d2faabbaa677fe0df020c9449ad85",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "fcfc1b2707c25cd1b51c2d4893f9a037bac2e296f16efc30e755d9f18822c437",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "f5632d4c46a976af3a733920743b5d1a61e0c28ee01d774445a9b5baadadfb7e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "0d1ceeb94ff0ce6970398d3fb79068fd1c860ced0858577289e665cccbda3563",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "5504d870b05c3d24bb846df65c3f3ef8384665bac6c63b173fc20de2235d1096",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "d81fa06dacb933ed846221ba211381d828b10bd1d0036d587cbd7bbe4c74f4d5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "201972ba5808b264f16ca6a8213972284dfcd71fc8955165015a1e1057ac7aed",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "cbef226ad86e79f394ab32aab5167a6811e9a47a46e8f23cf6ad8b7910d5b6a0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "e7b187c74fa201d99d2079960776125bb13272d9fdbd8bdd6d9aa245e13382ee",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/v2-wax-seal.svg",
+  "sha256": "3c7f926c58feeca60467a69466d929a8cb594aaa60bb98d7a33cf2ec087ab5e4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/v2-wax-seal.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "3cfdc789869d79ad626f0b57febcd0d3692014fca6878c879b7953aa2c64955b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "76c6ca10148cf00abc5d3aaef540b0318d6561af689e0e9ff5be4ca343a7da31",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "94f392bfe4b9636b17c0b16fdcb73165ae6814c7301adcdb8e385da8288a8031",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "75e801bccebe6aa7974ecabc6991276d5d2bdff66d24dc0e02548f8ac40d6817",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "ab042c289d9d8841ca251f06b9d69bdbeed60435abd2147175cbda3320879532",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "cf79c52b717f43e161f7e059e625376f3ba5357b1a80c08134554d2d768c045c",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "01ca6c972a71804cd68900ed969d397c082d198ea1bbfb809d0ca34bea743ac4",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "563bf27faf4a3eb208f69c60bb74bc588149c5c8eacc3980a25266e9bcc61936",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "b193314899f252d3c4de2ab4721752e8a471a73b047135fca696f78b0e024df5",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "d288c4cfe00ebc03c0ab1d48ef59a420d0dd92be78aaaa8273bead4ca8479624",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "7de1a902cfea5a53b76b41fcbc645d8ffa8861d8d8d820f024a29e2aef10683b",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "8d9655c673edf631e4b51747e085768ef5de20f83279878bb22796956631b64b",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "a1044da5059d71aa6165bc1f0477c9f4b543b7a9047c7e43193a83fd78365022",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 226,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "99ae057df1b4da183bcad7ce6b7b5997717f9f63be848bec7427ee507e2c8766",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "e607d04dddeb952e09c52eb4303c5426ce556a1ebf2ebcdecd85e70a03f71347",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "92fc7537f83901c1f6bc9fb8bc0365df6aa900ff33dfa225656535e00d4805a0",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "019983f48bb08298c82de3949e910e67feaa02f80e8b576c647f0c63399307bd",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 240,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "f012853b3de77456ef38afb1b93fb97241337a0f3a3941bcc807fc2a2030ecbd",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "7e2d83846483317694b4da3f4abcc6d5591de91079d5ac15cfa92fb6e79f841b",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "c051d2bd7f21b359c1b3deebd60c89babbc8749b508cd1f348a4a7fc191d4913",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "b6e51cc76a50c471e496eca4b6e6a0920d3f350a0456322822b6ab850dfe2141",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 206,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "72c709a61892608cdb5c8c6288f496c102898d47bfd1c3dec7c011d0652c0fd1",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "a76cb948fe00d4ed33f844bd819c0932dbcaaaf8c94dca0068d2ef6eec343f63",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "2e6260cbddffb752d76ddcd92bc692ac862c34da36afdb23a5bfdac0608d7453",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "9a4dfc4acdb80e59f5349f0f31ba46cc7929119cac65fbbcb8e8462c91bbbe2d",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "47234b33a3bf8f549a94f170679246bea349cc16fef4fda4c1ab5f2a4e562b2f",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "0cbc511d9239a651c10e105058e262470378315bd85387ed8769a9f6cd611396",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "27308fa464d9d66e44183001d9abcef3c3c0294eb017cb3a1ed56eaa19873479",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "d5d32243a485753ec749dfcff1ac13de862a73196162d14b8082953d06efdcba",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "fa264eb6b3960c13637acc6d31f6ff5ea0af63bf21a5ffc74571d45b07d870d9",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "afa71fe9a5dc214d8d4261712d090c806c196b2da23328bcf44ceb3c4d4a31e0",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "f962ca08d72c68ba1c09a4dec6b665b593a5a75e4b3271b6573222b3fadd6913",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "4f6cf21ef5ad91b743db952a94603ff2096895e743f8e55fc9484200bbc83b32",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "e7f8372dfeba5f5cbf45ddf547cb9a4ef5af2808d8a45685c45bf3a634dc8c36",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "75d9746932e6f77ef7bea0e9d964793bce4ad2e91ac91b25a1d5e398ef288117",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "c7de1d1e9a1239f40d3170f9ac55f976862474772b7a5076c0030a1e13785913",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "94ec779d0abaa24532b3aca2abd22dad08d00ecad801986e7603df2ab3558154",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "90e17bf3cc41799e7eca756364473369d540f30cc363bc3bd4ca2e0187922914",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "9e9d60030e630dfdc8fcc6b34a81df7d0addc5b8ee4a8d4212bdfaea19efa8f0",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "5e5efbb8fb417f399e87509b5d51cbd58f53c1d0bf8f57b9a975ddd38721a0d4",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "495b3c532f67778bac29a1ffe25ab841a7b3ef3657c52a6ad7221fda44b3388f",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "5b62b7a94181b58f33a67eb46fd2deaca6bc44deccd7f100ba4c84b2801e18b6",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "4acf7566c64c46014709a47ded7961947266c981acdc8533fc3b120cdd564a6e",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "fe9ef4020f40a18444466372a6c5131be97bd67dd1f5e1982398233346f57d93",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "27493b1f3cf03184927201c0aababf09d064b79cfbd41e65089e4963e01f8e24",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "c6d0f5eac2cff4f6e3f0941db0cb9223b3603424b28e271a6befb93b7de64865",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "2621c194cd97701b929842ba7d9fc012b456a465d6175bbfd6afa768c2861cc3",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "c53581cd1a60886f3fe5158ca2c031dcf559ffe073cb3989bc59442db705ec1c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "2dcc59cb27a49e09bc34831e2eefa6833fc678bcd72decafc993a6f1f767e12d",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "a5ae09008f320fbc65075d1fd98db3f14f71f00c83a0e5d74e71b7aef584819f",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "d813af0ed2419a624a04bc14d02342a83b7d376c5758e20c090c9096b82cd9d2",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "63728b095d1b98de4af40e6fe6fc3a0b50698adf8e8c600c55e043067deb061a",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "09cac52ed0eb9677e0c149b8a06475aa746eccf619ff8061c4a30972b5d1895a",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "24c978658f7b844d8546a69832173e777c4dccbe81787bad54928d7b7fd6e5a3",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "b5af9eb50d98734df65d1f7a9f1c0d7f9905d70d43045954df3037317b03dd1a",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "e74845e4f2e60a5832e28e6bd57819eeab6bbfc95704063ec12b7e199d0b370d",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "3eb815e6939170f60c6aab86460f6af14690d439ee33f96a2b5ccdac5ed10020",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-marble.webp",
+  "sha256": "176a82caeb7222caa01f3995a578d23e14e9eed5ed51c9612752a34f2c6f6664",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-marble.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "d8995681a9899a75516483d904062fa3c374863c45e30ec587658dd2b82c6057",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "63445d4e2d58da7e680891449cbd6d1bbbc024e30d44ea746fab6982179cd076",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 222,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "5b3376213f65cc18593df00f65ed07701cceec0c093f5355bcd290f2834f5e10",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 229,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "b5301a9c4e9ab834334bccfef8753c608359f08f4a374f156e3c16cf82c8e125",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 185,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "c5f173b1154d00542b7fe182ba7541891bf82d12337c1b5fbe121f3c0259cd93",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 220,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "2d8e3a13b3954f2f3e3c3475115919218a5c7f40e6c7a9497ca9b3ab99680383",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-pebble.webp",
+  "sha256": "8983e878383f1d4c42b1502b671d8e377ac8483c889714c10ef4b3283f03373b",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-pebble.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "6faa40b3913432f54709895dc5111ad8a9320043b0a4a7c97b6059c7453e46b9",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "16632ce8e64b5c59e207b167dc944f89d3971cd1df0bc2d08a29cc15dc96a749",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "b6309c3f779e9c7debb67450826d24e50b57bfaf686615dfd2810718754cc973",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "c265ea89e7705d17fd9514c278c715d6b6cdb7a4c69462b9d99c141eb5b6716b",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "5b19475526db4c27ca2618001b8669f1c9a2ec6476182fe59df1c01ff921dc4e",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "419244c840d1359a8ec6ef9b2ce20ac76ada5b5a18c5ebd59d5d2bb326b9039b",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "ce1d10243c982b9c84c7c2a26c87bb9e81888bef73c70af6c93ec859a18306e0",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "85f2743aa11eb68e1c925af69df27470e472776d22379458df9109de9aa5cf40",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "d9c77471a50b43d380d8b57c506fc0cbf229952274a0c015b5ec668fffb1a89f",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "61d9a5375259a609297d145ce135bdfe4f8be81c04dd9b0d72b7d2e949f67c19",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "6adfe3880e151b5cb57c71485fd6bbe7aad2676893e21e632c48c103ff539eeb",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "cdbfb359941cedd87618e256197b0551373b956de5babc94256e0600e745fc02",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "9636ae745b990fca277d34e8d42bee553b3638c857791e75599ebce7d1a9b7fb",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "09b28d3083520c3a4da609e71aeb9dd4a0b8ac36ed45129470a467180a48626e",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "4a58c626cf7b9ce636399146112184f5cda86ddd7e86a31432f78fcb94f73b31",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "db20240866b5044a83453f1f8335e14ab4e85bfc115827f108d4280c25480456",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "f576fa48ad3f6967e8edf3192073b98bef6830b4d62cd2e39154376c89068aff",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "038ac279d7cef0757ae528ca8baa7c95e5dd106b48fe9544715006975d28c045",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "303da0e70c3becc7de0088ac333446bdc2367fb24fa1552d9d74ac8d03e1d0a5",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "bfad8a5dae8e88cd254148f1bfca64c50ba2a679b5ff04226b19595dc45203cf",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "a42ed81c7076506e9e7a5f064e31e9987a4d7dd68c3fcb52a5a32d003a919349",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "6f14009a0fd04c1e9b27a23948ddf2343d1c8bf8e139556a8952d596cbf627ad",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "da89d252319bc922f7c2ad9feea4e3ab646b3ea155370a8f2795e73aa8b4dffc",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "e94c9869b473a94d211dba2e445c4866634380386fc54e90b3cc96b01ae5b6b5",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "5398c955ddbe889b97631b1294ff428d6623ffb86b5d6570736ff53f49f863b2",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "d583b53eab2b963fea830f069f3aee401783c0e5894bf0f43f88ba6051281a70",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "648df3cd10d9de727647b8751fe8081ab7fb4bf4bfb3cf8de0210cff034937e2",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "708ae505bdc0d4992b7473702a84634bffed86ab42c57d9a98967bc9fb3ccec3",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "3d4f7697dbc2d4257567feb7de60afdc81121d5cb88a5f38c30f2103a1c179a9",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "873b60349f59e9eb4c90865e56fe3f80d0fad8b299f72c7d0987666ad494007c",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "c4ac99e1b32e88aadb2e6e53e544e5b75b04193b6d2e744295d8ac867f2e55c6",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "98eea791e9963c63e95dcfb1580c772f7be4644619b5d4ab0fdc1f8c0f5ecef5",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "6d1ba962cba57891402328e26c0907231cfe8dc9a645e42c11f8ba6fa23ee7de",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "ded0e73f4a57d68e78a565c73fc2c11d75447b8f02b612124ca1d14a0e05bf75",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "acfe3c2ad405aaad054c3185aad98947e393afbcc83be56973e82a1bd4693abb",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "c11e8605b269263854a509a72c7c96599334652e55c23356de2c1e25c5c0b4d7",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "a6a5d526097fc8bd863581662be5da8f88679d7a55f4fbb393c6198773b9fc80",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "435e6e304934008a63bdf4428ea30f3cbba98c3c782ab2b27269459cf1b584d5",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "6f7e5be1ffef7a18d77c74f7fd8ce1f5c4c588b82881b6a792f86952952e85c6",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "991d0801b560a92e8c401af4d5dd96a035e567bf51f1538685b684d27f2c4b8c",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "04350b92f92a0af99a2ffcfb4e86b4eea6868ad14209c1c9c8b9f94bdc564b07",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "7e3c48f6bed318f7ea0417096b3f1d2e7aaa89e5b5586c73c586d3ebccc9a984",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "965308a3322d31240ba92fa06e1b33c2efd05b24bf669781aca4f8756ec636e6",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "8435dbceadffa04eebcbdee68468cda905ea9dc7fb3292589ff70e3595c99cbe",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "e8d823235fcce32be426a754a85c05d67013b5e844e513dd695a665a5d8410ae",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "717f8c9751aa9cc80d83475e10bdf2a4aada7ec7b8ceccfc0aed1a3126ba775c",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "6847d59c8ce5c7b912cf83f22e22b58f82ab3a619f17c3e26c4e548e8ebfc9f2",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "759448e621dc133b0613a8235db7cc5254f08bdfe07e32717b1c3ad25630bf95",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "02b35c272a567d651158010d70457ae6d627a778ac54658fc2333b1ce7ad3997",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "74625910ae54e5b9607b512da05e4855982da584911e08daed07325f6856643b",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "2352336f7870fd03d80fd145eb81755c938dff868a6368765051907bfb7bb5e2",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "0957d0c953cc210859156cda6d55b69b07e0c692392d5fa4ad252c62c10ff324",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "8859803370dbee888036dcd9d224f2de2e390953621fb4249d3171cce676338c",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "a55221bda9ff558a41e3299fe57a8d72f0f54d530fa604b322e46ca38667bf1b",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "e4e9c9318d6c0306bd973cc1463f689a7238ffb9023696d70005d0a0a208b9fa",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "e515f37c594a6926ad89458661c3a0044c918c40c43fad27e2f50735f71d3be9",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "07f8708f3177b488410491a744a00982ca85b26dee9d569ea46240b72c83cc23",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "c1e78d2413d139017a492a963063b36cea0ea593b98ec45647dca741ed1cb768",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "81b5082d85e2507f35fdc8fa45c6f0bf96c6f8e93af92184d16c6ae90d2b38e7",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "bd37e1bab17852c2dc93795584bc7a23c9859b3de5be428704c11ad457c6d2d0",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "19603c5813453c50d5660437a7fe48624324fd5af3e301e748bf37f631bec762",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "1cd5072db7c8bd8970eb168406ad4a37a5fce56ce9f62f199a2ec6c38c0cee66",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "dcda60a903bf63ce8c6b0fac7a46c67b6b040fb4a0013d3fdebbb942ff37e882",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "1cc888882218c95496506d2301d985610ebabb1686681bc0e44ed035e109cd3e",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "91b2b1c3dc4a57a849aaebaa653039661e209a9c8f312081a893cb0a84a45523",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "00ca7c7aef27ce45534aa33328d58f5e49da340bd6b6dd6638626e63df06fe92",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "092e7c852d283b917c70c03dd196f220a0299f32732557c3917e4da02bda8cc4",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "4512e0938be78f8760991678fbee0d2753f004c8a27e14e0fc63bf7bcd5c3578",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "ecbef99dac3567e342ec5f4e9629694629392b22b66b180b8bf572cbef62540a",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "de687bbb9b89dbce2484a0f20079e21797d3c845202df8c4b065798373b40bfe",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "1a2b3d409d4209210d7969dc4f07ff109ec74c09bcce8e87fbbf507b6a4c23e7",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "d0757e6c1f0c8bd860b74db391401b90622fddd136f3e9d16a0337043971fa4e",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "585cf51f42987db0e92ee7d112d940bf7380222040308b76e3636e69213c1e17",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "90bb8c695208307ea2617fda929528cb6f26b1d8ce5aa512378932dfcd1a0496",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "cd6cf93480ff0f188bb6459f227220399669b861dea6bc51d2851d21cac2a31c",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "f1b766b9a450bdd9834e78fe6ca3e3df22edb07a248574f025b55d44226eb546",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "cebb78f6ab079d5c9ea01654310f7c2b2debb64db7125ab98d9011c5ba05261d",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "92336075b131597328ba7ad6e4a854f6f722ab5a8ab7050629da6b33a20782c8",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "6a9c195c7da798813c6e6835eb0fb4ec38787f839b8dd6ee7ec87dc867f749e6",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "e6c4292c0b5a0fa0c0031a0f1d256422f0f8f3013c0611eabb6b4a37833f0c2c",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "4c2015d7ff2837478e23c03299015bbb66a6f830ac79febdbeb9b48e24bfb09b",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "713d68a509bf10c26f9fbb9de0413285399b617cb33392c074e0509e125147b3",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "a46f94d262bee74817ee7527a4d1263d4feddd7ad4be3181cb33c10bd1722523",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "66e19a71812036b904b1c3eecacc9721ad35882d64891e2630f108e8de627d0f",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "229712e10996e73e0b6f3dbdb5cf49559f9414302b3767dbae01c427febf0125",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "331a7c6a10437fd7e00e586e295118399ef57076975f7e77673406404234bdfb",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "66a5dfcee340ea3f800fc49482fac28ff8b43ea7a3a53fecbda8e0bb116c435d",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "bd0412b0699a2c1f4b7b54f3f344a6af0d3de549ab13e73f33fab33156c4c2e8",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "7ff9c645d449fadf55bb96729175548f9cb390cab42317e95e7d9ed3beae84e9",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "1676ad4e72bb3cb4fc908cc9f0791a99615e1069bfdafb38417839eda6863f5e",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "1d40b4078eaf1530458179b0e1de1217489691ba08e0e6547d698ccb3aa51cf0",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/dark-academia/ui/v2-ui-tooltip.svg.webp"
+ }
+]

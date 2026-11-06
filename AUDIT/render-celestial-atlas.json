@@ -1,0 +1,2502 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "47a70675b0619b3abfcb0d652998954d3d469480ac9fda97be0a1b96a8caa16e",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "5ca8ab3c7ad7a7d58103c51a6ca0bd1fa144224af7f90d05e53b46a00c773f32",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "e371099475f0dcd41632cf1ba3273bf1653327f16b7bdbe3e580beb6221e35b1",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "e45f98856a9df66d4c08c41c47917c9ab1212041ec80a687d080c24c8ca68249",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "663cda9423400f434a261be9777b476aa4e17d6dfe8d3001d36622cd6b30ab0d",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "cb7a38e30c34cb2da9a22b5f78b63b431377c917deaabc8bc71a2deabb0e5642",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-clarens_night_01.jpg",
+  "sha256": "0eece1f9c4a29f5885cb4a5bbde4059f8fbcff0234ebfa295930f3b3a00d00f2",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/photo-clarens_night_01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "2a150d90c207b239beb90f6e941e32f09ec3da30d0ea2d16bc9890c3986df5a5",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "8b2a31627d9c0f28cb060ca10eedab7896632314a584688e6b79af28b20845f1",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "c1189d282322471e5caf94aaf4c645aab038d043ef616297efd959255e9e57bd",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "b6cefc9eacbce1cb53a273b3f00d8d32b1f16f450c6f971ea189bcd864ed09a8",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "a3f105ca4ee61fe26dfe686175de432da05165c9f26873349c8f0c7a92e2ab7b",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "00edbea447aa15cc1aa1614bf4b3a0231273801c1bd137b5167b70449a09fe55",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "78c8a26422099e1a5127f3a1effa645d2352ee94348e2e959c66d1fd1a7e4316",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "476008868646ba4de612e39a11081f923ed217fb4576f309bf9c6d3503cc9433",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "836882cd421c3419e6589579fe4d89e74bbee3ea1ec4851fc5580f8aae699d57",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "bf92d1ccc8cee57ba745ca4d9533c406290089abfe6c78e0b40bae9d8b2bc5ca",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "a5318817309a20ed1d5990420697a63f2be001346d01986257c32ede3579f11b",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "11d66b081e4f694dd6acfe5ce31199323e0917231307e14d54770195afcb352a",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "7840a1dac497bc88bbd2b1643fa8200a30da1ddb30ee811edc1a2c4588667784",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "0e7962008c0127049f831d4e6c8101e3564da86aebc89c5117ead21f045660fd",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "c538c9546fdb8e1188709186496b9c22f53e3de2330ed9ac0da74e104e125038",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "541caa091192f02749e4b162d1a0b421237b6a8350eaa0bb9a28179e36cbad10",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "898435ba3458c03e558a04d315465ec755207a128ac95417d40a8ee7c8e86828",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "020c6a59fe8d9acb6820ad6b40bbdb3a12e61a09a59789cad904ccf67bb13f2e",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "60b1e6d51372e675f4ec05cd1f32ea341582265833396704ca9ac859dbc9c731",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "1c409820976b5040823394ac5bafa8d0fd052759f8ac9701a6e379a605437bb6",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "c227cb721bbd49d9b0867b2077472b2a8463dd5d543d3c867e33a718356f1858",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "ea42652b15ddff52766b5aea73e4415fd7b1240760f8d1fc69882fc8cc574cb0",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "bb2c7bfbb9b992f33a19e536f5cd1e8bb222c5da2008dd14391cb85119778b7f",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "24c33902a57d9a10d10414fc59d62f4f86b777e0c2a70a701728180690c8c96f",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "9c63417d916b4e5677104faf7d1346072867f8fc1707a078020a2c4b6794ea9d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "2f8f1e89f436b9c87a9024d70ff6229f4b01bd78fa7e4dac467b8571bc66fcd0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "7dbe4a767e09fc5125e91488406dccb55bb4e72ced769cd9a1d59b68e11b5a5e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "642b2de7bc974a29d6b6e1ddfe60840c3266192679c5755d98d20d23219b44bb",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "ca263e07589211e1c6c26971fe63247232b631a4daad2558b619d9bc5bf9a998",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "b04210eef2e554711650a44657615a28e933ae40f5888bd5c2c2eec9a4a5ed48",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "6024a29b481e4ab22aece996ed5dbbbba4714b4e816a7aefeafcb5650a1584a9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "89e10525544fcba03fde4c33348eec1dfd840ffe95b79810b0c3a70c7619cdd2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "e0ee9ade9d21dc74f3f93a16b5d491af5192d471801726e65fd3009b57de9692",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "3f66473087c15f3757eee3622599a05a5ac67a61fce0c5bcd9e4991dbc1c2e2d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "00edf8b56f89fb6d9f9f139f1803e8430cfc6cd1166cfd8769d66ad3cc40e515",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "703da4f1bb145547f02674b03f94b6a34cff2d3f7b090a764d17e8d570fc6ecc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "7c09bab323e74b12c28c17969415130a19e8305ecbc21f6c4cb6e444fc8bb950",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "c624f3e5efbde90d9464540ead97ec9c8c2e07c7b4be9a99dd59f423e3a1514a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "cd94cb70cabb7edae8bfdbc04fa91a9fc32ab95c8d27ee3cd6e3af89c8da31b9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "3a01590a356edb1fcb531bb26fe19ad63fd854fc1a4aae3ea9955e8e3399c2af",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "e54c66861685e3267cd44879427d6b3f236fcc85da56c5df61e4a0392ba32a71",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "ce2f663fef619ac0f31e449aae23b81951f0c7099eef484a110762269cca80f8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "c3bcfd991f53d4a16508dcb5f7250bdef026f5f84f24d7f08562d3f324decaab",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "b7b02f76a39059f2527f69a304422786731e44c6f23903fb63d0eb475aec28e3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "e33b0cb1a25bee72d15a3805d7c254893684f7e52430682fef212d59a5bad7af",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "91e9b5839d98ea1dcee322e31ea126c61a0e892a7755afed12bee2ac6c19613e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "bb3e4a7b288f808d056ebb92c2dc1024ec4c8beb99804f9c9cefac9ef83412ed",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "10322e7e199d526c82e6a66a65e8644a66b1c98faef91bd5a6ad595f61612bd1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "509be6a1c5ba5211e9dc5498c8fd36ec96ad93c9167e14bcdad3243da1581af1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "cf97f7bb04f08a82d214db090afdee6e89e345f14899659232bc4c639979f36b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "0d9e821448f41cf400967e9697eb5c1350ba4caf144c9a22849981698d3d07e2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "816fbf19f43932801b7919a9d5f3de8768c1bb0f97bf6c1ccd17d59b0abbfbec",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "7876eae927a8ff2cb2237ec3436f89ec20ee2c2ed1e9bbba0a76cf20568a4f55",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "9c7c7e7906646e7659fce128987d347ea3502f49cf5e33a7d1625c662615821e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "d8a9e29d87f85387754c4e3069fdd18a137b69f4dce9a45f7f237b7730f22ae5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "ae29cd656cbf962634cdca81252d17f3964d85104b19447bcfaa50a7db887f47",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-meteor.svg",
+  "sha256": "3c3927735e81f33d8b9a8f63972eb0c384c4ce6fcd86685c5ca8f99503aad032",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-meteor.svg.webp"
+ },
+ {
+  "file": "icons/v2-moon-quarter.svg",
+  "sha256": "e8b13c8b522f871b7119888daadb72dc2262296a27ea704ce1044f428d144df9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-moon-quarter.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "280b74160c81da4cbd776cff84b3d014421a0ec1e90744a6a8cd7597b3dab23c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-observatory.svg",
+  "sha256": "143007a461f84fc52f80dac8c5d992c8ae1f19081ce8ea3d6652869afa0b2375",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-observatory.svg.webp"
+ },
+ {
+  "file": "icons/v2-planet-rings.svg",
+  "sha256": "93868ca69eef5277f167efab80f17ba9a289e1315315f4e905506abb279938ee",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-planet-rings.svg.webp"
+ },
+ {
+  "file": "icons/v2-planisphere.svg",
+  "sha256": "c25f0eecbcf963cc0669356e2ad7addb83c90d73d0c0fc1b565a47010ff18755",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-planisphere.svg.webp"
+ },
+ {
+  "file": "icons/v2-refractor.svg",
+  "sha256": "f25bf53e311c14b8e57217d83161210ef00991f5ad3232c0ee062c8d3967719b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-refractor.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "1100182b1c04efaafd02772e53cd9f19a9fd7ad183aad428e7614e3fd35087cd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "4ec40fdefe7c6d42ac055c909a93f490ce4e104a66c026de7288e9f2cf8fca18",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "cb531a7b6161212fa3ba31752326690dc3ba39c9e193c77b6bc49676ff4a6c0b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "88f12fe6de147c2c70e77e5c1535615d5241543d94401ab94334f7473882c27d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-spiral-galaxy.svg",
+  "sha256": "528bbd87011c113d63e9b6a24e1dded856003d1049e7613e314fb2deeac5838c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-spiral-galaxy.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "bee451fd5e128b773ec3c7fa60d5db2e28de494c754d814574efa72579e65ea0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "0aae25eb2fa9ba0b555a21a9689bfca54241282328b2ff5fc8e81fd70299b5e6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "73d13c0c8c8773ca96032ca0055db4d4a3274610b214bc1cfb295beeef0b15ec",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "800008b05427c40278bef69e0246d009e5f6cae2fc5ad0a027bfba1d298a8174",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "ec0dd067d0daafd22c285167425aaa7a2d895a7a9d2c37a3bb508b5c709009f4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "800b1a132785d55fee250000c3b9b5d64b75d5948f962498b18e41f99e22cdb4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/v2-zodiac-ring.svg",
+  "sha256": "fae6f6a1d88e11c0a33a49c9512ec1ccb7da99c8916357a00cbde013dd6ddd2e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/v2-zodiac-ring.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "273d3eb9ae264ada50c4e5fccd4022f5338953477b8c0327dcb62fe0cd61d3c7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "126b97a4cd5ddeb234c15943947b838554c4a5d34f08571c784dc8a124727e12",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "9c35e28282628edc9955fb130cbb22f5cebcb1c23b460a850db90986884e66c0",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "5cbe16588a66498ff502bf928766ad910110b13b54eefbc9dfc9188ae9fcf329",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "9c748a1f4a3328cc51129c2ab2ac3a4e2f66ef2997f70afc69e6d0edaab537b8",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "df6078c17fe916d6a9ade8dd1864810544916cd19d120bedc1e8a9e0cacc1f57",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "0b43944917946693a60c19debc3faa532ea82aa9861079471425df9999b45f2b",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "3f97aa0374259f45c396510ed201d3a39ead72e85106192a91ad927375d2da8c",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "81b5f8b24896a28a319389caf175776854e587f3d24d0c2a63ed535955982be4",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "6ecb4938739d75d1132c53120f25886f8a1eab4f82463dbf6ee0c4a49c7f4f95",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "e3a73d3f65ed8d48c249ff0de60b57e334eeb8083b7e9a6006f98d027c3c8a90",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-aqr.svg",
+  "sha256": "adc7c1f81c955a7a19f53f91156e694ec0bcf467bbca520ff1202b9490cf65bf",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-aqr.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-ari.svg",
+  "sha256": "af219ee0cdf7861a2eac50692a3056b5c5536d42776a2434e4c174ace2cf3b90",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-ari.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-cap.svg",
+  "sha256": "0c70e9b7ce9668e236d0773c48c1ec16f81f597065bb9b63019735d254d823fa",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-cap.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-cnc.svg",
+  "sha256": "9cdace6a0dd04fe72e3b0bf9c3a91aff6817db5fdc51121834159e43f8c2d852",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-cnc.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-gem.svg",
+  "sha256": "4a8626c534dda7d50747118bee20db6c3dd446e7b2789b10eeaa7dffab086536",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-gem.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-leo.svg",
+  "sha256": "7de38a1be6b35894ab8157561df35f28bd2ed0611bdf7e83482adf0e3e569b76",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-leo.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-lib.svg",
+  "sha256": "bb68e881e372ca60c9a6fcd880995b0afdf4641b38c1972f8c8f7275f205dd4a",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-lib.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-psc.svg",
+  "sha256": "c6cc03ac3ced0d7f7e0f1c5afef96c6b76b00310e68d1740e8bcb3b0e35c6791",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-psc.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-sco.svg",
+  "sha256": "0a6d1b95b1a642e50834c6e8dd2a65243fa0155f6cffaeb0ea678558f137f845",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-sco.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-sgr.svg",
+  "sha256": "3bb1828b7c8e303eeea66e2905bee9dfcdc7d7c02df8c0f7df56725069f93c88",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-sgr.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-tau.svg",
+  "sha256": "27e8b7747479b0f80bb5caacbde48a4ca5054d140c89c4c5814d8af8e176aa17",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-tau.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-zodiac-vir.svg",
+  "sha256": "28dfffb835d196dcd064e2fea6e5643dfd9307476ddbb8aaac420e917b683ab8",
+  "width": 1200,
+  "height": 900,
+  "format": "svg",
+  "alphaMin": 213,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/illustrations/v2-zodiac-vir.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "4b94e0d6142535429a95dbaa1e04f868ba74deb55699d5edbab52995c99f2908",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "da5a3880263d15158750b499a6f232e5d9270c9d0ace665e7490c655f82fbc7b",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "55be79e51d0bc89dbc43de7f8855325de743017894d5ebbfbd3438e58dcf7ff0",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "17054028182dbd45f615fe05c873ae0f54d571a9b5071546c9fd7e8a40ae7963",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "bb5fa82f648bdef8ea77b0e2669c70d8295aaac512e34f417a98766ce0e81466",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "2f07b27baba39489b4ceb812cdadb4015d23b36d483746ae34ebc01b9fc618b4",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "219b29acd02a69f83dbd0d192adf2f1551be48799457b17f6dfde38eab0702e5",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "d49692b73115f43268ab7a19e15ec6767a6d827150a3b168c23f40568c4a0066",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "c4bdaff9156c6fef6a6cee7b164d0637865f79b681467b3c8e91787425a29323",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "d919c6cd9d1c4ce4ef3988ddf050e5f3fd44a2d28f2a9e67c14a20c6e7123310",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "b9433013f3056f9f673a851764f8eab598d7184fe5ba3d64bd00d01fedec53e8",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "b3071fd488fb00a8c686fb4b1023336f82bc023b353393ddf20e7bfa496f97c3",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "6a5f11adbd13fdb9a715d9eacd7c8452f51845a98456acbab788c293bac45723",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "68394c8bb72f17796d6c454f273ccda631c484c664a30f3cf73be7eeacd47644",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "0741881d7480656bf26abee03f1a2a7141dbd3934dddd846fa5646d46f8c6c19",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "fde02e0442d8721ac0050e742aeecb4bc4141f5f21b46f21fc4eceffa610848c",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "7ed80ceb6a40b7bbc8faba9a3904732cae1b4f43edf007999ff6f752fa0d18ce",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "37f49737ea4a688884f5aed507ad63e0c9df3162d1dd24ab5b6e89e8e2c106cb",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "54f40e4bb8569a553db8c5badc18e6521d404d081ebe90af466a18027e37a918",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "7ce595732d8be647e8cd7cca84cc85110ae7efd1b2e4391e2b5374ab081949db",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "901160d88bd8940eeadfd2eb6c1f4b97269a54ac20526adb61e85e20b85f36c1",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "3120ed1912703c8cf594d741a8ed79df54534204c278938f217a69901ff55c83",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "52f0c074a4cfbb30485a1ab5172bb9cb4d67660fccefe19d587d49b978d9678f",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "b0e6297727793207d26577958da8845532067b71626db337349a4dc5e93fb56c",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "dd0d270cdb2df9d5aab68bd8074ccce973f7a285d16e1cb45a141bd8c8b810c2",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "ff05d704fd9316f76d51bde9d519e4061f6f449c50cabe02ce671020fb39e576",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "43b8266a5af569f0e11d46a60f7799a53152faa4a878069a1f2b936881c1f8d1",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "4c6176c2a6c83e67f99d32e08073b473cf4dffaf38be68725a4ecd524425df32",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "cdf423bd3c9b7385c26d313eafef592bae9ff6ab7e38d7fd29310b4b556153c6",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "95e69853c10bf71a8a693b4185e97514ab73a8a535fbcb95c09d13f412b6507b",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "3f4bbb2e95dba68662873dfe64147aef45be1795e05663716348f94e41035ded",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "1cffa522a2c4e2c68f51f4ee4020537d688f1d713ff5e33c95d7ff25f1ce217a",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "11281a5db60c21959053449d8cff3d1c63cbfdadcb555e827fb0b75717669509",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "ef6b672f5ef814542a56ee4836d42323d44b09783bcac61a98846aeca8d7fad1",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "edebbdf83979b00900d537735bcc42064a0c8bbc1c000e6fc2d9e0bc9ac779b0",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "8bb4d0caa146796b65371cb873f5a909065734ec98340da6782594ffa172a7e9",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "1344be6f354efbcd7fa6dae5f384f22d6e8fbaa22420f1811a2b1a3ed914f07d",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "c242a086220360d665000294dc33ca2c34cfb306153a9faaf2ccf65474041957",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "18f03376f26a3eef572cd8040d3b3dd55625da7d3ba3736fdbc0a75281bdb4e1",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "5aa3b8f92ea18cf2c43ba8a5212d4283b8a0d492e17b824d2565b0bd9bc098d7",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "b0fbbdbb69f2224b57c692a2d326f04b6fb254b022cff80a3bd3b43914346b4c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "deb50d8a1ec6c0a86202fdc94c3e8cedecc9e5185a22d8dc04adabaa16def2a9",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "153a628b3560140699c2cce68c917dcb595b563dbaa1c5444106dabbfa2925bb",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engine.webp",
+  "sha256": "636ad07639964e16801c320046c2db95ac374505ffb1dfe0fd43b492a7e29d07",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-engine.webp.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "3c01338d1b8c8fc449da08583fae44c576e79f180349ac1bfd94604f4b6de8de",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-etch.webp",
+  "sha256": "4a87871d758f72ab117696fa544a5703b331d4cee555a020c85e4db19b5ffbfb",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-etch.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "5a426d875ae038922037a10919bcb89f583dac9d247420e020314699d89a4489",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "5ca5cf9c720511a6239f8a3af3977fb142d5330b048733210bc96562271f5728",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "0fdb9bf0d4a80bb03aa7bd98ec9c0f41ad2b7c5557615ca1728aaeb44338d644",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "ffeca01cbfddca5e749d9a5283fa8e8f933f7a28816fd5092c167467f2e3c359",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 221,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "267212e53e61c8f635dc593850e7f1aa3ce67de87d18b01c2c10d34395ab4990",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 229,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "7ff326e5a071d3b6efe76bb20fc86c1852d540f91c68c98879ac52398ed83c83",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 188,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "59973c9fce1fcf965f02da6ad5ab07db78a026ec03b2449e0c359c0371163768",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "045805224e2d2873d9c27e38578896e0ddd6dc2cfbc7b9cd2fdebea7329af4fc",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "9fef0c2aedec9dbbb45848920957ed8fac3aa12496856cec124849e9ff00fe0d",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "4e7267b6a2f2809648d15ffee35b7b7262cc3e1ac262275fc1742b6ba288d52a",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "b9aa976ab1dd2244e5dbb5cdea4fdc48ba0d03379215ff5cbdbafed4ec8141a4",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "e3812f60a5ecc504185eb3347f959f71c74961b3a3b698e26294dba5e47405c5",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "003874c327f06aa725ee22261d262643baac7421cb9365dacf1225685c5aafcc",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "6dec6c915bb7c98eadf09ad1d8044611984868f9ffcfc4dbeb7a9bf2e73a51ba",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "94e63cad654ef75e9edc4c64bbc77371ff6cace78243e92d07a46f3db93d7491",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "d0399f80890be17ec2fb8c243b03c130a785192e00009bca3d10d64f871ddcbb",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "a355cf71738d63eeccdab994365127af4e61ad9f18c41e59d8619095064637b8",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "f22da510d20cf7d15621d13d308e09fa53b1f7774582724c78499525d1ef546f",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "1be228f4d7a55f2e7a96e20431cda9feae8bef974793030acec1f75012fee4ae",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "3525f4008e8a74a0fbdc4268620a3d104d135b4a65fd2d85b18bc3128cfceb3a",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "7dfc5ccca267d3c852d8eed4c6eaf3dddd0b5a9aef38c901868f099e5a98a80e",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "e37a08859cd675395371516200d654e6861c70307bcd0fc1906a0a0e4f813814",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "74e248e0ee90103e115d153eed6ef1d582377f07ebd0202441fc198d53e3535e",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "c5eedaa89efd9d99ae43bbbcde36120e0e7a6920b3ea1b0c4b9fcb7fbd1fa03b",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "fefeabe651be20146ae61fdb47921b92ae9e88fc181ca3d967c9f1759f0bcb0c",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "89a73d3a3a11c275dca8126e28bdc0627212dc7e3ffd053d31ef049d5ba3cdff",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "5421a1273739f115e569c79cc9bca7ad41b740aaf2b30120555fce07522c8078",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "99928208b4076d622798edfab5b15be3569703cb608fe4acb8dae863dfda4e08",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "15dda7788e19ca8e978654866526f82aefc8b7766d7e86a5a2977234a80c3b7a",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "1d942f1c42b733e2e35c22778ea1abbd1ae20e4975d056ca411eaecbee21d7b8",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "81a49685fbee2cdf422bf6dd0462226d979cde95d2781dd19afdea21f1e5ff61",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "9cf730a76f98a769bdd0eec134366adf8e9c864ddd954eba990b0202a4d8f58c",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "aee761f14d10dda4833595983ca3e9a58ab5b6dfaaaf06d60a577e0ef9ea8de0",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "599a27ea96953567ea1e8c2bd71e7def53b595eacad07dd9a6a74c7f4535f77e",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "5fdd08b27749e097b11d926a539d3187d4b20d299bc3227457d96af753494a80",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "21d6435abe5d9b4941e7a2a8f6e0e4d81383c7030da8995c3b7bcdb1598b5d4e",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "9881f93fa1adb919adf824285ae2bf2704f66a269a795c083624d94ae23753d1",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "d48430da77f224841d3f72b9716c3593ab98b92479c9bb672109a69e681e46e7",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "8308485ab667a56c13cf79cee50e5b3a2a2db3a6000331b0364760ef1059b26c",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "c2ecc272087215ebcfe8bd5f5c8b2752f8189e38f3ed962ea41a30af81022fbe",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "38ff05da0e211c18a6abf33b6c7a97b6685107f0eb4e45e4c9c6080367a06883",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "463076f93ba62dff35f46f7cc6cb86a39cc05fe0a07a7b2c5149c232356363ed",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "43bae251c37600e652481495fc68c070ac000df5b82a3207b311fd365c35bc54",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "cdddce7d7d711abd58e0cfd936f30a588bcb8ac01f8a8cee4ee9b9c907e057a6",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "63ab4e3f0826f9f056854d84c84ae72c8abc836918aaa6dea4f9228cc99d28b4",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "a20e4eea601ad2dd9be22be4e34399daf1024469ed4a437c9cf37cb8e3769445",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "59d83a23c90fa04f13adf39d63b5378295550984c6a1e5bd0d7d473bada9851d",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "d6f3028a083a06f2279a2c5045d631ad2181bfc15a8e763f633daa4b20e0d723",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "d91f841b8b0f8023dac1893615ca0da96f9646b6a1c0ef983a403806bb9e682f",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "5c1af3746d351008983bdc5fa8b1818405913f4f27f39435dc8643839a42957d",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "9f308e045e1ce27cf24bc21850b751a80a785480a7e04b46575c6c033f82d935",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "4909fe2adbd4bf100cb9679be1d4a63ce7ed2e5dadb445a6eaafa609c71afe59",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "2f5610fbcbf163ae52aa1adc525d6494bfe8a2d9d22a2f4e222fe72463abf4f0",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "ec85f8d18ed16ace8eb38cdf581bb7a34b55b23ff019d293a3c7d3db87e6de5d",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "ade01cf7bffb593870893aa00e5e3c07275d24ca19b7df4276e44740fcf6484a",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "0bf12334b39c18ace2a4588455f3fab33218acb7f57dec7db875241e46c1863f",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "ac8bf0aa5c97eb6dd86531fbb7df7afe4a96cf7871d6f7ee48a1e2a28a918a48",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "babb9fc9d1b0338b11abce9e1c4a96486ca9df0ba612cb497b01fff8c3cf8831",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "6cdfac3fc08aa9a2dc2978fbd13d8c0dd5e288070206719ffd364db8a0d30315",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "d672aab1b3e2212067d0de7028d6ddda2459a61180632fe43a53f7a4bac5ab3b",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "0c26fdd02fd852a72bad19e87002c1479bb4fbe7cbb562a77b96072222a32dc1",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "f30f7842f09006a49d8ea5d010c424bb077d329cb68adc000f01fe3cdc9a708a",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "bdf5a87314eeec2d722d835c33fe5bd8f730dca60c1e9a12ceca80aee2a3f9ce",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "87eb7c85d87fe71c4afba85332604ff9e4aa14a24f2a0468f1ec20507ec611b5",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "db11ae8f26ecc03f90eed03698259a4740380ccc48bed72b7e9b8ac5a8162ec9",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "65374f28d3b9b50248abcf21f69d9eb3c8af9bce760ce2ca18ec9f2c34df23be",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "7376cf24ea335d42ca5645b3112337ae409853bd19e7547859c12d01b477427b",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "dba2e4817890dc2a3ccd8f093a31f80b3e0cdfeb4f0a48b1848a90223cd46934",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "d2cef4e641e7e1c7df6e026bc9f1fe42157459dc4430c909177281b63ec4430c",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "ceb8a739dd0a20f6503b0fb206043b73d0a71b6d1edbc13a3d8e2a4499f2ae07",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "804151bfc545b1fcae0c1adeecc233ec631a13cee8e1957f75e940b89e5269fd",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "4a8faccb512a42955a1f7406a8255b5aacce129e6e609bd9c3d4f7038dcad94a",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "ba0c5603bde1d7b6c39e8e85d4e0bae9b54a1d87c084700b59bc510a5f9c4fa0",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "2d551e0d843a0decff62216bc0abb46d72b03e1634c10324af81addbaf79d1b3",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "ef526b2faa2bebbcf8c34839ff909003d8323722be175d0860d5e830410e6622",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "d0a50ab1cfaff08e1de660c192efe3a38b9f8dbe435d1dfa8076f63f5f2185e9",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "e736bd9701dcd96489510c7d08682e916e63f7c0e3b9ba695b90b25d3461ccd7",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "d236aef3ce76b4ac88762fe8039c7458eac04e84e00fea54ea0672edbabfb2b7",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "ed999ff54fe6b44a4bb49f6f58ebca97a4d63d9ad533a03726a04d78b2f01afb",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "99e39d1a54b7d30e443a18025420f629be83b5f4273fb96057eafb24ff0d2263",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "540cfa44af1e7a7910d3317db22a8cc62c546d509c2215fecae583982b9fbda0",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "7de033b235373805f291a234c797ac366993643b74efef770e27b7651b1f703c",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "c3e73f603effbeaa5bad4a887bfccd82fece43179d36572d2c81f98c5a3a573d",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "6394189e779a30c2e44d0c0f3105ec50bf65ba6ffab52daa7289bcf7922b0ee8",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "071472061875cdaaa87017ec89deafa5abdadb08f6fb5af3728f0c1317a573aa",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "f04554e254e97e0b9f869c165b157b5b4e53700729a5ae9c7181ab837449c3ba",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "99ffe61051933db1d620ff9a06558ddb8bc0537da0796af82ef7491e7b43976b",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "5e781d4d946b04ca72a798c5b05d287af25dea3711d6c35adf11fe077a870f8d",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "3844d5147fb5b6ba71a6f558d2350d921748dadbf134f83b18a670653686bce2",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "7b872caa266b4990ee1c871adde52fff7a914c95c4cf37d9390b37357624697e",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "879dfb92c09509c13865433aefcc06a80088c921709c0fcca41eb519ca6e5ba9",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "7e56cf4ed965ca533f421c0d1f428644faecd090abedf823cf776ed508cffd99",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "39da98b51534f0302a2bfe06bd2ea650ec727a4a597b81f643f09b64b50a7e7d",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "e20139e2802f3e5a8f7ff42034507e50e78018af08e49f9a9807228385a70912",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "7ac5691a80df4ca2b098cb0041030900b05496246189f4435f9cc509b9485e5a",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "2cc4ae4b2c9c0b52aa43cad172807158afe23f60cf1d0295da5cad7f00907464",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "a06d1132b1f219f2dd7040bbaa70b7bda5c4d29ecbe1c105dd8378c7200c71bb",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "dddc43c0060ab8d87d861175b0e9b65b3ebcf427c9f0006afde4560415f793c5",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "e66a89ac168937210c5fcb5421c2d73cba7be288368f8c65919369403c241ab4",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/celestial-atlas/ui/v2-ui-tooltip.svg.webp"
+ }
+]

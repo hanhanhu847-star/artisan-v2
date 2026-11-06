@@ -1,0 +1,290 @@
+{
+  "bauhaus": {
+    "style_id": "bauhaus",
+    "colors": {
+      "background": "#F3E9D2",
+      "ink": "#202322",
+      "accent": "#CA382D",
+      "secondary": "#265F80",
+      "highlight": "#E5AB2F"
+    },
+    "font": "几何无衬线；标题黑体，数字等宽。",
+    "group": "建筑与平面艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "art-deco": {
+    "style_id": "art-deco",
+    "colors": {
+      "background": "#182D31",
+      "ink": "#F0DEAA",
+      "accent": "#D8B675",
+      "secondary": "#4B8380",
+      "highlight": "#B66951"
+    },
+    "font": "对比强烈的衬线标题，正文用宋体或干净黑体。",
+    "group": "建筑与平面艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "swiss": {
+    "style_id": "swiss",
+    "colors": {
+      "background": "#F3F2EC",
+      "ink": "#161818",
+      "accent": "#C7362D",
+      "secondary": "#606E71",
+      "highlight": "#B1B8AF"
+    },
+    "font": "Helvetica、Arial 或本机黑体；数字采用表格字宽。",
+    "group": "建筑与平面艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "neo-brutalism": {
+    "style_id": "neo-brutalism",
+    "colors": {
+      "background": "#F5E7BB",
+      "ink": "#191918",
+      "accent": "#F96A49",
+      "secondary": "#C8A3D7",
+      "highlight": "#E0DB4C"
+    },
+    "font": "窄体粗黑标题，正文常规黑体。",
+    "group": "建筑与平面艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "memphis": {
+    "style_id": "memphis",
+    "colors": {
+      "background": "#F8E4CF",
+      "ink": "#232047",
+      "accent": "#EB6580",
+      "secondary": "#39AFA2",
+      "highlight": "#ECC34E"
+    },
+    "font": "圆润无衬线配等宽小标，避免每行使用不同装饰字体。",
+    "group": "建筑与平面艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "editorial": {
+    "style_id": "editorial",
+    "colors": {
+      "background": "#F6F1E6",
+      "ink": "#282923",
+      "accent": "#AA5033",
+      "secondary": "#798277",
+      "highlight": "#CCBCA2"
+    },
+    "font": "Georgia、Times New Roman、宋体；元信息用无衬线。",
+    "group": "建筑与平面艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "wabi-sabi": {
+    "style_id": "wabi-sabi",
+    "colors": {
+      "background": "#E9E2D1",
+      "ink": "#384239",
+      "accent": "#936C4F",
+      "secondary": "#788675",
+      "highlight": "#B8A280"
+    },
+    "font": "柔和宋体或明朝体配常规无衬线。",
+    "group": "自然与人文艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "dark-academia": {
+    "style_id": "dark-academia",
+    "colors": {
+      "background": "#292820",
+      "ink": "#E9DABC",
+      "accent": "#B99562",
+      "secondary": "#869279",
+      "highlight": "#9B5450"
+    },
+    "font": "Georgia、Garamond 类衬线与宋体。",
+    "group": "自然与人文艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "celestial-atlas": {
+    "style_id": "celestial-atlas",
+    "colors": {
+      "background": "#142D42",
+      "ink": "#E6DEBC",
+      "accent": "#E8C481",
+      "secondary": "#96B3BD",
+      "highlight": "#B07B68"
+    },
+    "font": "经典衬线标题；数值用等宽字。",
+    "group": "自然与人文艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "dunhuang": {
+    "style_id": "dunhuang",
+    "colors": {
+      "background": "#EBD3AC",
+      "ink": "#593E32",
+      "accent": "#9B4D39",
+      "secondary": "#45867F",
+      "highlight": "#CB9A51"
+    },
+    "font": "宋体、现代黑体；不使用缺乏依据的仿古文字。",
+    "group": "自然与人文艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "cartography": {
+    "style_id": "cartography",
+    "colors": {
+      "background": "#E9DCB9",
+      "ink": "#433F31",
+      "accent": "#887044",
+      "secondary": "#628B83",
+      "highlight": "#B97B5C"
+    },
+    "font": "宋体或旧式衬线，位置坐标用等宽字。",
+    "group": "自然与人文艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "natural-history": {
+    "style_id": "natural-history",
+    "colors": {
+      "background": "#F1ECD9",
+      "ink": "#344338",
+      "accent": "#67835B",
+      "secondary": "#AC7850",
+      "highlight": "#C5AE76"
+    },
+    "font": "人文衬线配清晰黑体，图版编号采用等宽字。",
+    "group": "自然与人文艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "retrofuturism": {
+    "style_id": "retrofuturism",
+    "colors": {
+      "background": "#292541",
+      "ink": "#F7DDBB",
+      "accent": "#F38B69",
+      "secondary": "#80BCC1",
+      "highlight": "#D9AB61"
+    },
+    "font": "宽体无衬线、黑体、等宽仪表字。",
+    "group": "未来科技与数字艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "cyberpunk": {
+    "style_id": "cyberpunk",
+    "colors": {
+      "background": "#121E28",
+      "ink": "#D8EFE5",
+      "accent": "#61E5CB",
+      "secondary": "#F26988",
+      "highlight": "#E0B668"
+    },
+    "font": "窄体黑体、等宽字；中文回退至系统黑体。",
+    "group": "未来科技与数字艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "blueprint": {
+    "style_id": "blueprint",
+    "colors": {
+      "background": "#163B58",
+      "ink": "#E0ECE7",
+      "accent": "#A9CFD7",
+      "secondary": "#72A6BA",
+      "highlight": "#E2B877"
+    },
+    "font": "等宽数字与无衬线黑体。",
+    "group": "未来科技与数字艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  },
+  "generative-art": {
+    "style_id": "generative-art",
+    "colors": {
+      "background": "#F0EBD9",
+      "ink": "#232E36",
+      "accent": "#396F79",
+      "secondary": "#D47B59",
+      "highlight": "#9BAE69"
+    },
+    "font": "人文无衬线配等宽索引。",
+    "group": "未来科技与数字艺术",
+    "motion_ms": [
+      120,
+      200,
+      280
+    ],
+    "reduced_motion": true
+  }
+}

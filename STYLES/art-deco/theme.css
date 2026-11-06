@@ -1,0 +1,2 @@
+[data-artisan="art-deco"]{--at-bg:#182D31;--at-ink:#F0DEAA;--at-accent:#D8B675;--at-secondary:#4B8380;--at-spot:#B66951;--at-on-accent:#161819;--at-radius:3px;--at-weight:1px;--at-display:"Georgia","Songti SC","SimSun",serif;--at-error:#ffb6aa;}
+[data-artisan="art-deco"] .at-panel{outline:1px solid var(--at-accent);outline-offset:-6px}

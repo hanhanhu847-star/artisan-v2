@@ -1,0 +1,260 @@
+[
+  {
+    "style_id": "bauhaus",
+    "slug": "artist_workshop",
+    "title": "Artist Workshop",
+    "authors": [
+      "Oliksiy Yakovlyev"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/artist_workshop.jpg",
+    "source": "https://polyhaven.com/a/artist_workshop",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "5270ac6538233292774989824e81c94c",
+    "file_size": 5156645,
+    "path": "STYLES/bauhaus/backgrounds/photo-artist_workshop.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "art-deco",
+    "slug": "dancing_hall",
+    "title": "Dancing Hall",
+    "authors": [
+      "Sergej Majboroda"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dancing_hall.jpg",
+    "source": "https://polyhaven.com/a/dancing_hall",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "cf78870f26ef3197b3b92da1a910d880",
+    "file_size": 41980471,
+    "path": "STYLES/art-deco/backgrounds/photo-dancing_hall.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "swiss",
+    "slug": "glass_passage",
+    "title": "Glass Passage",
+    "authors": [
+      "Greg Zaal"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/glass_passage.jpg",
+    "source": "https://polyhaven.com/a/glass_passage",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "313d7906c0cdb417fdebb29816f853b7",
+    "file_size": 7789595,
+    "path": "STYLES/swiss/backgrounds/photo-glass_passage.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "neo-brutalism",
+    "slug": "parking_garage",
+    "title": "Parking Garage",
+    "authors": [
+      "Greg Zaal",
+      "Rico Cilliers"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/parking_garage.jpg",
+    "source": "https://polyhaven.com/a/parking_garage",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "4663e389c24bf71301d14fb77ea8a5e9",
+    "file_size": 4534254,
+    "path": "STYLES/neo-brutalism/backgrounds/photo-parking_garage.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "memphis",
+    "slug": "colorful_studio",
+    "title": "Colorful Studio",
+    "authors": [
+      "Sergej Majboroda"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/colorful_studio.jpg",
+    "source": "https://polyhaven.com/a/colorful_studio",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "1074a0a8945e65f6a5acf6825a5fa9b4",
+    "file_size": 5656728,
+    "path": "STYLES/memphis/backgrounds/photo-colorful_studio.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "editorial",
+    "slug": "art_studio",
+    "title": "Art Studio",
+    "authors": [
+      "Oliksiy Yakovlyev"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/art_studio.jpg",
+    "source": "https://polyhaven.com/a/art_studio",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "d5970cd5d83de13b15eebf6a596e791b",
+    "file_size": 6073262,
+    "path": "STYLES/editorial/backgrounds/photo-art_studio.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "wabi-sabi",
+    "slug": "mossy_forest",
+    "title": "Mossy Forest",
+    "authors": [
+      "Greg Zaal"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/mossy_forest.jpg",
+    "source": "https://polyhaven.com/a/mossy_forest",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "3e11675120c96f7998c0a8d0cdadc739",
+    "file_size": 11070548,
+    "path": "STYLES/wabi-sabi/backgrounds/photo-mossy_forest.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "dark-academia",
+    "slug": "historic_cloister_passage",
+    "title": "Historic Cloister Passage",
+    "authors": [
+      "Elvis Posa"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/historic_cloister_passage.jpg",
+    "source": "https://polyhaven.com/a/historic_cloister_passage",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "a232266c10c81eb52605f6cc6c030611",
+    "file_size": 25200648,
+    "path": "STYLES/dark-academia/backgrounds/photo-historic_cloister_passage.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "celestial-atlas",
+    "slug": "clarens_night_01",
+    "title": "Clarens Night 01",
+    "authors": [
+      "Dimitrios Savva",
+      "Jarod Guest"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/clarens_night_01.jpg",
+    "source": "https://polyhaven.com/a/clarens_night_01",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "5a34c8096bf1f3b18ff3337f08c6fad1",
+    "file_size": 55659242,
+    "path": "STYLES/celestial-atlas/backgrounds/photo-clarens_night_01.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "dunhuang",
+    "slug": "drackenstein_quarry",
+    "title": "Drackenstein Quarry",
+    "authors": [
+      "Andreas Mischok"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/drackenstein_quarry.jpg",
+    "source": "https://polyhaven.com/a/drackenstein_quarry",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "712e4aca1526d3da56c233d2f02f5963",
+    "file_size": 48532888,
+    "path": "STYLES/dunhuang/backgrounds/photo-drackenstein_quarry.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "cartography",
+    "slug": "kiara_1_dawn",
+    "title": "Kiara 1 Dawn",
+    "authors": [
+      "Greg Zaal"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kiara_1_dawn.jpg",
+    "source": "https://polyhaven.com/a/kiara_1_dawn",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "4589b5be73ab249d7b1f259bed5e3379",
+    "file_size": 5694761,
+    "path": "STYLES/cartography/backgrounds/photo-kiara_1_dawn.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "natural-history",
+    "slug": "epping_forest_01",
+    "title": "Epping Forest 01",
+    "authors": [
+      "Andreas Mischok"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/epping_forest_01.jpg",
+    "source": "https://polyhaven.com/a/epping_forest_01",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "747962484aaf957fc114b0eee8bc07f7",
+    "file_size": 12335521,
+    "path": "STYLES/natural-history/backgrounds/photo-epping_forest_01.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "retrofuturism",
+    "slug": "aviation_museum",
+    "title": "Aviation Museum",
+    "authors": [
+      "Sergej Majboroda"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/aviation_museum.jpg",
+    "source": "https://polyhaven.com/a/aviation_museum",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "4c56fc79f44b908a0b542507ae89b6ab",
+    "file_size": 43616799,
+    "path": "STYLES/retrofuturism/backgrounds/photo-aviation_museum.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "cyberpunk",
+    "slug": "dresden_station_night",
+    "title": "Dresden Station Night",
+    "authors": [
+      "Greg Zaal"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dresden_station_night.jpg",
+    "source": "https://polyhaven.com/a/dresden_station_night",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "e698f3737dc1fb3ae1ed4984a11b8f8f",
+    "file_size": 5603105,
+    "path": "STYLES/cyberpunk/backgrounds/photo-dresden_station_night.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "blueprint",
+    "slug": "aerodynamics_workshop",
+    "title": "Aerodynamics Workshop",
+    "authors": [
+      "Oliksiy Yakovlyev"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/aerodynamics_workshop.jpg",
+    "source": "https://polyhaven.com/a/aerodynamics_workshop",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "ebcc5d51e09d0aac40decf9c5e8c2485",
+    "file_size": 3693686,
+    "path": "STYLES/blueprint/backgrounds/photo-aerodynamics_workshop.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  },
+  {
+    "style_id": "generative-art",
+    "slug": "mirrored_hall",
+    "title": "Mirrored Hall",
+    "authors": [
+      "Grzegorz Wronkowski"
+    ],
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/mirrored_hall.jpg",
+    "source": "https://polyhaven.com/a/mirrored_hall",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "md5": "ea8d9106bf136d097629d08a80c9a1cd",
+    "file_size": 55710476,
+    "path": "STYLES/generative-art/backgrounds/photo-mirrored_hall.jpg",
+    "modification_status": "官方色调映射 JPEG，原样保留"
+  }
+]

@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "4cd891e2fd9f457e634400bf2d9ac6c0d647048b21d7cda3846a138abe44e5cd",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "bb1471cff63b9055b26df4e6a80cc90eb5e19e6f419d44f4f88c26d398a51c4e",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "dcedd8adb44145cf28f82d70a969f22eb99688dc19e53c7fbce493c3a178b4eb",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "97ebe42d7462e7b3de4ff45a3d23875c57eaeb1afe39f5b480dbbb3e5d96b0ba",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "149f3d4f4cf3ddb394d5e6a609ef53ad1f4cf4efc0d1bd1d12e6dcd17242290d",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "158588e9e865875f48be0d7fed668a2f4672ad78dd5a6f472eb0d5d43c0f4d16",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-artist_workshop.jpg",
+  "sha256": "3d1a24d3255246fd53a3eeefca5b30dc0540c62406dd5be93ada1912557f61b1",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/photo-artist_workshop.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "3afa95be8936c9d6364863b68895d8350fd16cee6fa9e67d9d61cbf4143b8930",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "df4cacc2503bfbee80a0ac84d17aa784149ae9da62eb58ed558b56e0b69feab9",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "3f4cd03e9eed5a023081effae2734a89d76e35019ecc179cb0ab96614d7190da",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "c69c62ca727f4979f5bca1fc15cffa96e33b5a225aae5842d97cd71527243998",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "0b2a5cdb2466b49ad336695e107d87d41f3f3a417572400e5851b9263e29d620",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "353373b387db19c41af48f6e09d9b41ef6fc34216e7c8802924a3f9b2bd7e6b6",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "05f0af702e4087e9892099a43ede82f9cdc3caf42b0b4bd4eb2b7ea24dd54dfd",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "12368a16e7a9efa86a4df4f47ef6676febe9fc5d50d12bb08391c92e94a0eaf7",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "a2a30883bb0ca8438d5de69c444bc891d30508f81f427d9869948799e79c23de",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "a79848660164cdd54a13992f36e2f39bcba46acca89da94462b81af4f5e80e12",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "d23028484b00b4b177832b59a10b92c2593ac29805ec78c6960a6b95ebcc9a2e",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "5a19a07a9e9ad10d7037ceb08ca779166894bb05748067483565eedf9acb0049",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "805d4b2d15c762dfe60cbb3812e906417b0a762e7b9d3a2c17b9913448d7721b",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "14a3b4aaddc025f9450b655e09a1a62b06de98ee2d349f1eec24aded6563fc8c",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "d4fc8534f4494e9f75c6b73cdc287ad54ee282a9ed19edd6476cd2223bf77e3e",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "09446c3a08319b200a6c070898557d201ba0d192e060fd41888d011b7ef9b03b",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "acff2d55e2f9c4af52596718691253540e180908d16955adafe2653146ce660b",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "f2b5f53ac6768753097a0edc04d3113c9ea789fd9acf621629b64bcdf515a1fd",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "249246b3ed6d04dfe911768138cfddcacb0d793be27c37c8d0b49d0abc12849b",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "045764c1a52878ffcaba2d8ece4cbc2aff03db671ad9e69a18b35f1783a06f55",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "26625ec00dfa0a7df73e77cd8ca154a7c4e4bf258aaba0651910ef8217569a2b",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "9e74adec2b35f6568564bb8bad7bd925eaf8b4de77298b7cad4cef5c6806d28e",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "367f7cba49fdff9332198b6bf787c9552bbe55c01891f7190f8bfc04bec71a19",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "b3e50ab4d629b15dc046ba7b5ac305099daaf7b2f98aafaa6b3ec74d1cd85a13",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "563e42ced8697b1957ee9b216f1293e20b07613f0696fb82be3a938fe5140987",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "bddd02e675b6e72b88c92684629a98cb83f631016f2c0c05557df7212dadee2c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "122426f3eaedb6df3e1fa9298aab5c7b05b9569aa9f004565d4061bf96af196f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "b50f17c162f3926f34a8c7be119c0d38b158d5b8e243732005c7427522c20a79",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "4044124985f02a2a609bcbb9ce69fd3ee626a5bda9d12b2b44133e86be145664",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "8109dc44c3485c9bb6f620d1d3adfbe0d923eacd21bcdf1dcfd97c91233353d1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "e310aa2634e037cda141b434cb37c90ff05c91705632f58453dcde6823a583f6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "e5733ac83eef6b334bd1183913a1a87bcff9331617d9ddcc6f48b62ba4eabc14",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "a57d0677a18fe36a1b776cef849519518fe258e701a7d4f5783ed6ffd05e4a56",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "e2f33790f4449a26917b07e3f160649fcff1f39d0a06b514d6e6969695a3989e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "3887151e095fc7245a2510228370580e3160d939148eb24d5ec827899d7e6712",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "fecde9a0f90083837383a28783be4998a4ee637d74c1dc5d5409d8ffd503d615",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "8d86820744fa725b70177083f2afe7775ba1c331db1a8077d25dd5840bf0dcba",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "9c8c136f65ec34f1685345b8d1ff4f4b0394c033bd7ba382cef777369bf3d735",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "9457175abebf769b570121369cdf801e47bb01c201aceb9e86330a51c9b7d446",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "07797d9009eb92b842665b6b8d9b5c58ec3725f6814b1ad30b8b0f894f7323fd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "8d04dd8f03a353cc5688b2b9cb9c26b0e0ddcadd84556606b5eb6f29015a04fa",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "8a8a43610ba40e5010641d30e9bad444c3b31e2dbac864a381f99c3f3f32b3c3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "589a39f2e3708ae91fca559e712153fae075fa369c4b46ab102d2784f9851406",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "0f0ccb465ddc114ea55414c53a5cdcfcbb3a842cc174ca449c7aac2fc140554f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-cantilever.svg",
+  "sha256": "6b9c231b78ad07d0e1100adc036392a933d321fa74519b2f63120d8e68cb305f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-cantilever.svg.webp"
+ },
+ {
+  "file": "icons/v2-clerestory.svg",
+  "sha256": "82932edc900e1885e645522cf77af24d893f1d5f39f6e66214f90537125d5e60",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-clerestory.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "f382840d3354eac1e76004458f56dc11ba886f4022ae02123155db85f5558d0e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "e83b096f3a442522f7656cd17552a5287ab8521a31a29b34c2a7f94255052606",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "c1fcb283f2a96abf171e25e676e06db0a83eeca2dd9870865c73002f1f839a62",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "46a2e897853eaa1fdf3fdb3c2dd0fafc6f404b74c4c405ef381066271b832d51",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "3f801da914a0baae049a9f705b2bd94ee2ae1abd0a0a8a550f6ff8289ef5bc51",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "c7c7c12ec3a02c7ae2f60c820835d7b1a3a2677cc0d6df62c5e15a0f22db934f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "44abf6dc4c6e1b1a113808cfad3f7e3a4d9f349d11db407ab421d9f86fe5b505",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "6f2e5e2533d77da8dc44dc3affcac7055e18f714b307eb9cc6b646bf49ba11c8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "82d436f4fd2452934efb0e71f12c6263abf159f56abd822df326184f32504e30",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "c7f40440b081d9ff57aa32d36a03b6390435d63bf6187d25ed987b4730971dcb",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "a05c68e53741121db36634e5a40ff4e8b4cdb52b12f1845d682af348f59ce243",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-kinetic-mobile.svg",
+  "sha256": "b60f5f18046d8ffee966da1064da0b9c1eb71c04b0238e270235d0f98db19c8b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-kinetic-mobile.svg.webp"
+ },
+ {
+  "file": "icons/v2-letterpress-roller.svg",
+  "sha256": "5e90b218a21d487014caa08c5e05d918a1c5a96c58ba9b64d89234403cca9b29",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-letterpress-roller.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "f6eb53919a5cdaf858963a810a128f0aa1d62840e75e0e967ef3c8f31b232012",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "6c687616094dfa5011cb6db3d67795dff28187859d4e2ba8ecd18c1f81af79e2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-registration-disc.svg",
+  "sha256": "a900bfd9d7de6ff86f49b16e5348af46220d587d1c97b6e5aeef31843c88971a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-registration-disc.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "81e9987202b9242eeec32ec59a4662b351ba1ee40815fcb18ee7c607ada4d5d7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "2409a8a37dd8481d616947b4184ea784d0f65d36618385483830141d03b4a6a3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-set-square.svg",
+  "sha256": "5c41a73131706ed2cc6d44049f9eb9f89afb75aaaf4c9221495334fcfae860f3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-set-square.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "06700f75a33612ba805d80ffd03993e1971d5c61aec739a5dc7ea0053f73d9a2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "f9539dab94208eef3134e636e3ea7b301cfb0257ae8a82b12f8af8cb82fd9062",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-stage-mask.svg",
+  "sha256": "6f8e46c368c519bb0eaccc61361418dab37d58493b352b988cfd854a687d6a10",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-stage-mask.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "aef6b9160d1b8ae82347be59ecae66969e81f50a7badfd23405516e2d97362c5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "0c3758f98dafa2840cc8a96287b0dda1f4feff001741a61eaf5c0657f8974e2f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "be3f598d7de4020e3802f696433dce3b71f9a43ef0fa17e24b37fd8277491ccc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-tubular-seat.svg",
+  "sha256": "911538e5132736089f4aae66df485de0d415daa6131c81cf9c916a1f10609f00",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-tubular-seat.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "e5bcdbe14ce13d30b21716a4843637d13b5572780376fa16e83ded38ee2f4c28",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "97a9c9d2748133e146e3147d0124cba9a758abe5e6902abb8340f9eeee195af9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "776ceec559806a386a5c87da26f639f800a80dcf05878fdd5dde73349918cda0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "a4f6b004b76763948e19eb2a94fce21428d4bd2e25ac3a120b49d9f6115142b5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "e54c6e246b1bd02bddf84cd3a6a6a27ba27a9ca3d7abb464c0179c23af99aa64",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "fc814da5f0c3c28d58a1bc7f661b4910a11b2b252b95704f2c797e45e46dc3b7",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "0a5fdfeca0f8d0355a6d37248a25202174dccae73a06422f3e3d1b344a000f5f",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "8757e37b70538e1a5492d5e0edd5c6e53bf3692a4fea3c5d891e9edd89541d6e",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "bb8af69980bd2447302a4c3b113180261edd46a9553c6574f1cf02f742c654e7",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "9887092fe043ef42b1909b2018bdfb37f343e6a1bd9b7b048591787a3da96740",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "01e150b17cc2b40dd3fd60244db7fedb908b5a5bb63912fec6d77f31f78ea8c7",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "f96fea649231ce46f55e25670a43870c85588248d40cba5e7045bbabd817e791",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "54e65f1cf5aa01553692f6dbcfb49730826fb6ff2e3bcb413e24c098711859b1",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "ae05093276156a7350bd12cadf84bb5978b687773657b8257318944d0d011aa6",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "f933045399c42376c1ce0178dccc59bed82fc1d1f0de11fe89bd193e49c43f3e",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "69cb61320fb9bbfb77a09aed10bcbd6f3b1359ef3fb1d087fa9470c1158369cc",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "d5fd424f03ca0dc5743748856299eb8c7da738fc097a8ca78eb019de25c39314",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "f6912f2d35f117cea593174aaf048e2aec59ab0b0ec8e976aa17c9a7028be0b9",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "f83ed9dc4e1552bde6e7cf79ec215696f8e27111c2778f78b4a56f6273d10f03",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "b6e03207543b3c930e035c3be3bec587c9022be3f8c5f26aa05dbaa3a64cf102",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "a6b9c4d90f0ccd27bfdcc4b257e117ccf7941c74ff89350699517d6c8bf05724",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "a7f5c172440caa934bfbfd837638d1b7b06fc9f4fdae4c4efe11c8327de3b89f",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "9d26e5fb81777a50f7c5c32c2e1808a8644183a306960da0c28577371c91b3a8",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "9a268bf3ce262c4fb34ce920caafb6344f85cb66f619fd9b44a2f43fd66efff0",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "3f9fece229322a61a3389844536216ca6d1db01ac7317e71747c0cf374a07de1",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "defff8064489a40dd00ebd5c73a7676ace2df815f1c577427dad2d826026a8ce",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "a6a2921b6a307267b682b224726488498ddb4665ce98bd16e721beee702a907f",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "e1ed4d71d11f67aec56b6a3079cc2eb00680e0f2a2b2555f941031c027be53de",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "acc6b6da5d94137d11f89d157ab612aa5ffc627cd624ef3cb7f2002513e4fc96",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "2200b3ebb1debe239ad4e327e15ea3c778fa354c195053c9e4a57b887026e82a",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "65f66fedf6de28cf082efcd896792441f15e2c0a85e5b28d26a34200dadefae0",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "abcfbd7d066023c4fabc6f4aeae0b96503332960852b54b5d08c6bef10ab7bd1",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "5009a976501304e6b3c3031d86ae759bd2ff1c15a9f0fac7cfdddfc728521e20",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "458b7d287c52f4be59a9a4561eb1601a3ce6bace1bef032163ff404a882fca0c",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "4517f3242659721846599410c628d6a1930fbe6c68dd1e45b7c4726f5b278a0b",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "f7cd764a2c8ba88a2f31da327ef0e1db6c8a318cb00e43378919efbf90f76686",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "aa53241022f925792d869d4314ed3a7d957040b44c429e67ab08acc0f222de86",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "c1d36c8321c582c23b8e236cd53f1528011593380855b693e36fd469bc2cbe5f",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "232296df4eda9c95dfbb9afcd4fca54d457862db778fa862dd7ebb0fee59a307",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "e14f790bcd4e33e9d4765ff1d0fe7a1047cf5a9b828f6a9d7c35a70a861561f3",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "9fc463891c94dea10e7601b030e3877ce135d837f5c41ff95deb8636a16f7c58",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "ee05c6e7f7d72fddd8141b7e51794d469e1300416b40c13f52b92a53a5a72d22",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "342a2b3a764102b8a04ab69a3c33076129e805c2294d7773c77e1fffab5955fc",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "094ad9b4eae90d8d32db99a1152943ae115ba7193119b3891dab141647a3a2d1",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "8120eef8849a5a4409c51a0f39f484c3cc8f7f0f8774a88e3cb11495d15a6e9f",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "eb6ad9683cf7523670bdf0aa682c166b22da548b04a0c85e2495bcded14ab216",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "814fe102dcb58f2d6257a0b9dbea50e9e995d88c49796907e7681e0dcbab2070",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "b322d9b88eaf969e4c5eed94cf013429653c8f89fd0922bc6c5f23d7de212e81",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "65172fe1227787642993ace761fb85c79ed22e608afa2b056f9690af89cab720",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "855d3c0abda6c2cf81467503143b380a64089d0759c94412699780321bee1478",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "43302ca096d59e5cf91f489c6a3165e465c1fcc57a517e7f569691d07e3c45e4",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "7768b1a769a2328669dae425a54bc0714c0044c9727fec0a1a5262bbb4d7d739",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "3cca8edb092efbb3e7af303fbb2c0953ae3688ed64860039482b341d27983d34",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "1f82f2e4bac284883e35fab06328655cd3cff494f45352320c124f706ed15bf3",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "ca8d4ff9052a42aa203b20892351940a71e291a3fe7f2f5206097266c1e1a78c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "d63a923515ac4d6a76c0f1f4078252123a89f7e8b730a39c1ed00d6f4bade1f8",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "64aa75c650258d94249217f4a4cb905f30c05612c56ca9b2f30bed10451b2ed1",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-enamel.webp",
+  "sha256": "f397fd41a5cfea28a5ad72abb86fce345e8b785ae6d6f682c080d1768d3b12f4",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-enamel.webp.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "5c7e516e336ef44cd3810f098edc37d622200b68092f8991a9d49ad98170d470",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "4251a4439e0bb611f0c29eccdf41f996251691e677f133d1b70e843e1f4ac841",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "c30f550d416d319dc9a8ce20529ba6e96b52f285fa5e78711a9170b51e255f8b",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "8c57b3e2bbb7cf125dfac1a8037057b15bf776ade98143a9e42844346eb1af9d",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "5f00fdfb30bdb98106506c977081fd5c2322ca240f2aa0d77402e6bac1c9c5cf",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "351d35b21d7d8e408b2e7c490e50477ce85f6e89673cb2eaa8a2ed669ee80970",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 229,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "6325cae588427c65a3969a12b93d17eabb7b537542332aa0e6801d9894c09291",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 179,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "83439d74e22f8eea85901eff89a6da1900aad332e9472d52ff883635c31d94f7",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "ddbee7de532aff979b1b93b215fec43cdcea568be6e435c974dd97d72b9b0740",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "bf54476511d903acffaa6b29ec37daa420b7e1efb8c645be2682f137f96f847e",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-ply.webp",
+  "sha256": "56d611066e0bd7fdf541240ba9f2a3d2a247ac00d04f24e243c6a2945b9d6716",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-ply.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "a37c0c4650860e469c3cd386d16335cbf8d09e19917d601c6ce65cd7883008e0",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "a3803128acfa69ab4a8bd83d66b09c76b950cb7a41932c867db632c4094980ef",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "33b4c3d4939169565e50fcf6d0a091a3af6738f919f58411eef658f8aa58e59c",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "a7ff0eb36e54279408a6a8e73ff8a04312c3cf543bde610bbc816121958492a4",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "38b09d8b976eba623ac68d5288bc8b8293b448aff55ebbb64cecf6c84c9db4de",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "97e48c6bcfa579e85f061eb479684ca0707cc2645b03663374bcf3539df9a101",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "f70ce81f14487fdb1c1eac5c0adf5b116821a694db704a46e63957caf1475a81",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "723657b13329b32996c36fe747cc2b02ce3a298b3de08a7ecc007aeee9582ff7",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "a487e5d472cd9c7b2b85b66c7a5a70e9ca7dd9d7e88e1e2cc88728ff10c2f238",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "371f6e96b0b5359e8c86358c399b5291ef5cca17ec00cdd4771b8c6b2d70dbb2",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "5613ef8e97a29cebfd5f224e487191f9552e172c73e2d67fecf3223e976a11db",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "c47f58456bf1c2ebf14ae008feda9880295571402fc54dc7da493267522cd8a0",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "ecbcdfc1a94daf8aca7535f4331f5846efff97d83620598bcff305acfb92622f",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "a68d5616bf6ba70190cec4244416a5edc6126754a81782dec3fcc9a7ddb40fa9",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "0c8c44851bf0442f39171a2cde97b62012c93423e55f175b1ebe5d9abdac5e33",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "5de186e14c1e150a042535496767aba7ed0a6084759e42e11e0503f1b469d520",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "a13bb09ed2ada4c4c729fd78c437cc0bd8ee410414af3a76f89be93eabf5c0f9",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "e0887799443a46ee0d142d2538b7618e0e081949c33cba9f5788e6d7300757e9",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "7a2d06acc0bcc40c26c2efcbe26dac08d304b49871d1c96a880d22c15381f258",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "96a52a631f957934efbec0e5296a3aad71ab63145e0b9984e8c58d174bb9a952",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "23f63879ab9d8db5527ea57f97d210f009e90032205c2a1418f9333d97c68cc8",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "abaf29831dc6af655950a8235b4d09b3594b8cfa52d953b31e96d42f8e5ef4c5",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "4c4514862e940e9cf506a1330f6ad7906aee588e5dbdf258fc030a3256bedf3d",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "fab01b8629d457170bc3a3d126134b27a8696d0def6c8b4b92e326f2ec0c7bd4",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "da00e250c386eab49dbd5fdef4246068205440b3448d4b74a20fcc96d6851b83",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "de6c8681d02b563afcf16f280b963be1317ad9b1f167b82ffd50142d4a83c43f",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "ac96602f442ab1e26b290e3dfc6a66456e2e238d48300a0f971e787a25771381",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "3d9afa972f275aeeba968990898c505e24af5bc938e87411c17357cd9c230b3c",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "28701f19955e928536a0a53e9f5adffe1bff3aa0c0fe587d99c4f95759b2e564",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "63b152b6c882eb38a30eac9f6fcc8195e544fd67ac448df31ff9a4592f8cfb03",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "a0d0619f71345a2035ffd1c63b8abbdf51156d8ec75b99d696cce9d95dea0ed5",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "b107b3022a5f61b3ae444feb82aefe397875384f7f4fa0a88b3abc3f2402d097",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "160d44a95bea92c9cfba64717030dd67d053a0be882fe15905ec12624e9538d6",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "64990ff6e6f76cd1cd64d932c7dc96cb3b3081fd4f1cba2768369e9995f3e628",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "1692a384de5555b82145ac58c26fc78c4accd1522822d1491405d1c3440d3b0c",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "a57854284ba4c5fa207b4b12ae6e2f02b25b4aa920536eb0e5661047a6768707",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "f2b8119bd9cfcb49527d5ecd987ed336f82c1f4ab429ac2305b3cd1d77385925",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "58345060c3f6685bec73d9cef8ad30d9a34abb49bdfb90729502cdef2acdbeb6",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "f8757500a0445e63caa5bb21078a233321e763147ddef9ce82c9a7b2c58fbdd3",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "88ada3930e10f4c8cf8105b7af52c36b4d4c4fc9d0c7a6b9fbfa2ddb20d8dda8",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "93b1bb86765e38d299c1d38e8e24abb88ca5ddb1dccd33864f7c134b254ce7cc",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "bd0a65122c536263ec2abf77a9f734f815c0b5ba7e525bc819fdbd164ec37a43",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "b55551f5a17697552938a8a2d6aee12e68a98a870743d5570b77be7021edfaf7",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "639dd17686e8af3a823a8758f4006f4f409b7d30fbdf7117710f1d358fcbd2f1",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "5c82b5917eb2d10b60b368996c53ad65ea752610bb4c78066a40466d44f4e85b",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "0bd2496b600e0a05eae7f00a4d97182e68357b0d3c01bb6a8610080dce947925",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "0e3175ee9eaa4e1c8ca4c57e4a11a6481cc6af000cf0067ea38fd666083edf86",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "b19dbc57632430b4548e69c1e3bb803baf0ee91f7fd6eaba0e072cb364afc231",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "a9e95063c24572dcbf62c054564995e9346af0199469cf6d8e519447b90bd178",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "2c536235722e954ccdfe88d45ba142019059fb99956107bb8dabcdc91c7a225f",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "267bc9594dd4e371a3893dbcf1c2ccf9b4736201ee6fbc3f581e81de3c77f617",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "c991601393f881f803b00cc843ba70de742450652cc5d01b91535a03bb070a1a",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "3cc0033d3562300ea01e9cad417789ad8990388bab8ae60203eba470faca8a80",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "1aade25c4a4ff5383be15579f8bac2461692a44b1f1c4c73959a7121f6271a48",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "b3ff7bfd3954f2defbd179b94db2301efc4c867056d884fe245184223222f891",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "b1d907843d9ccc37e55adce4f476f7605c3b4d283af829c3a425f6e29dc8770a",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "3977eb7b84491f8101692d38fc6524b6e272318492c1d20658cad3444ed63f48",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "390fadd190b72804d424f97eb39b0da9198571d3bb73f9cd2c72405821ffe718",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "72ddd1df2cad5c7d47c4b455b012ddad837c6664bcde5159a8b0127a33273d6b",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "6eaed596595605f5fe14e1c6a6b5d6b058be86857d7de99b9a3c5efa8b61301e",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "94175a3578cacdf7147509659bf8e98faa38306b874bc91bd97a4a1c675ed634",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "5baa973edb4ec99c2babef0e30c16d7d5d3f631a649c8bed69815d4517d0e815",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "022ef7e3080e9d50a7fd1e73918489db1b75daa81c0f9e3373a853e32a4c1444",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "31bb77a4c26be6f9b04f663185182878236a36a3ccbed2eb623b9da660bfbf23",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "ded940a7f67188cbfc5922c9ff42c00380d9cdfa0b2553b93f5fc942e06e17c4",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "573652366680c4bdf46287b90e2d3b50397c188ef0797a7eed4f3a533a66c6e6",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "c76b8e37d46bdc0bd5227b5a170a5925dd287f8ccd2f326cc1af2b7263249734",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "b07927af095e15f79fa0967787ae9e1c999c600f9edccaa74ef51a2453edf40a",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "644e4a5d264e04138a24c54521869f3868445d4fb45e31af30f7c399f4ef7cb1",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "d77600a46e45424e1ce60e9972dcfc9dbb8b4f8699972f9b3d34e1880441adf6",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "4a8983f1abdb12514f859fedd0b97110336645faa73906f547d6817901606fc6",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "4708c9749690708a819b8ef9011a751eeedd6691c065559f15bb33783a0117dc",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "5ff32bf95d137d3ca78c70b6afa00fe7c301238ce44048bada225c5402a4f600",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "45b9517c93041eeb9e2f3312e1ee2882b811acc36db5ecabb956068d234ca36f",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "5825496a5e72f9ef878b530581f18f655ee3bf1a44d79dd7277e99eebb432ff6",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "35079415d0de8bc4b8f192b53b705ace0ed5f24ef0bf42fe001af0ad790eb1ed",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "3b243dd4625e3919f8b10042c02fae216563a0e364fc31c7f6019d7a78c5ecc8",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "5aa6d32e565d93be4bede85d4105ed2a18c8d94ed1b1ea2c7c41a72ecfc3ee17",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "8ac675cb285a491137afebad328b525ed838b29450f5ee7771f7c3e76df26dae",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "08dbe05bfab6b4bbe7fe0d132d30428575b910ad876da29564db29d2852a8146",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "b22c926e2658c2827881f4eb6ea29d301244f60d899f34130ee7e08ee96db10f",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "1f59714d3fda97be8b1baf289d6f62bdca2ac21d77e23ac0d0bcc054b02c001b",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "5fc3134693bd1f701865f548e5cc36de1ba16c66b3c41416a521505c824ac569",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "7fce0f4e65ae8478e24a2518b08a0f9f25865f3e848e188ade5b4feda750d8cb",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "41e09ec225e80b410305e91e06eab9d5132656209c70d5a36e15779d79fd5ad9",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "fb9ad1c6363fb091819863ca087ed05e7bba9c35f0caaa4efe17651bc7d74bfe",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "152b30c7bd6bac11791647fe57985617f7c11d3a026af8ec0be8dfb372fcc801",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "b458919f1107034bc70a9f1ca533805233d8299bcb5c5d97ed42b1082a3195d4",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "8d1811627510cfe121864bf4b7b3db2c72758cf1163fb0166ddfb45ed55b4a59",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "0bbc74692c78232bb36eded32f56b6f50d83402f3140c0add97a1e877a1242f4",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/bauhaus/ui/v2-ui-tooltip.svg.webp"
+ }
+]

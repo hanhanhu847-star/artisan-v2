@@ -1,0 +1,1923 @@
+[
+  {
+    "asset_id": "bauhaus.backgrounds.solid.svg",
+    "file": "STYLES/bauhaus/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "bauhaus.backgrounds.repeat.svg",
+    "file": "STYLES/bauhaus/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 10.5625,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 21.565625,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "bauhaus.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/bauhaus/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 21.385416666666668,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 224.20000000000002,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "bauhaus.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/bauhaus/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.018229166666666668,
+      "threshold": 25.489583333333336,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 115.58125000000001,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "bauhaus.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/bauhaus/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 22.733333333333334,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 39.897916666666674,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "bauhaus.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/bauhaus/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 12.872916666666669,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 33.57083333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "bauhaus.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/bauhaus/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 103.30000000000001,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 103.49583333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "art-deco.backgrounds.solid.svg",
+    "file": "STYLES/art-deco/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "art-deco.backgrounds.repeat.svg",
+    "file": "STYLES/art-deco/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 24.065625,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 56.371875,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "art-deco.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/art-deco/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 45.81875,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 355.8,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "art-deco.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/art-deco/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.026041666666666668,
+      "threshold": 31.42291666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 60.71458333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "art-deco.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/art-deco/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 29.22916666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 36.825,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "art-deco.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/art-deco/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 26.556250000000002,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 43.44583333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "art-deco.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/art-deco/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 142.16666666666669,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 142.39166666666668,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "swiss.backgrounds.solid.svg",
+    "file": "STYLES/swiss/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "swiss.backgrounds.repeat.svg",
+    "file": "STYLES/swiss/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 55.984375,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 37.45,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "swiss.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/swiss/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 49.331250000000004,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 230.60000000000002,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "swiss.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/swiss/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.018229166666666668,
+      "threshold": 37.6,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 69.27708333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "swiss.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/swiss/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 31.32291666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 29.489583333333332,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "swiss.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/swiss/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 19.997916666666665,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 38.46666666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "swiss.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/swiss/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 102.38333333333334,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 102.60000000000001,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "neo-brutalism.backgrounds.solid.svg",
+    "file": "STYLES/neo-brutalism/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "neo-brutalism.backgrounds.repeat.svg",
+    "file": "STYLES/neo-brutalism/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 24.46875,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 23.909375,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "neo-brutalism.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/neo-brutalism/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 7.085416666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 334.20000000000005,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "neo-brutalism.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/neo-brutalism/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.015625,
+      "threshold": 20.595833333333335,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 38.331250000000004,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "neo-brutalism.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/neo-brutalism/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 33.41458333333333,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 33.43958333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "neo-brutalism.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/neo-brutalism/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 9.716666666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 35.208333333333336,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "neo-brutalism.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/neo-brutalism/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 126.21666666666668,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 126.52916666666668,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "memphis.backgrounds.solid.svg",
+    "file": "STYLES/memphis/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "memphis.backgrounds.repeat.svg",
+    "file": "STYLES/memphis/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 6.206250000000001,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 4.90625,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "memphis.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/memphis/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 13.660416666666668,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 288.6,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "memphis.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/memphis/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.013020833333333334,
+      "threshold": 20.585416666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 42.989583333333336,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "memphis.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/memphis/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 28.22916666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 28.233333333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "memphis.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/memphis/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 22.504166666666666,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 41.958333333333336,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "memphis.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/memphis/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 132.8166666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 133.0625,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "editorial.backgrounds.solid.svg",
+    "file": "STYLES/editorial/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "editorial.backgrounds.repeat.svg",
+    "file": "STYLES/editorial/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 20.846875,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 12.887500000000001,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "editorial.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/editorial/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 11.59375,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 251,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "editorial.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/editorial/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.013020833333333334,
+      "threshold": 18.354166666666668,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 66.32291666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "editorial.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/editorial/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 25.731250000000003,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 27.1125,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "editorial.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/editorial/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 13.066666666666668,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 37.15416666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "editorial.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/editorial/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 102.93333333333334,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 103.17083333333335,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "wabi-sabi.backgrounds.solid.svg",
+    "file": "STYLES/wabi-sabi/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "wabi-sabi.backgrounds.repeat.svg",
+    "file": "STYLES/wabi-sabi/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 4.112500000000001,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 13.765625,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "wabi-sabi.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/wabi-sabi/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 12.925,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 251.4,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "wabi-sabi.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/wabi-sabi/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.013020833333333334,
+      "threshold": 24.462500000000002,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 33.3875,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "wabi-sabi.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/wabi-sabi/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 26.137500000000003,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 26.177083333333336,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "wabi-sabi.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/wabi-sabi/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 11.179166666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 35.33958333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "wabi-sabi.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/wabi-sabi/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 108.98333333333333,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 109.22083333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dark-academia.backgrounds.solid.svg",
+    "file": "STYLES/dark-academia/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dark-academia.backgrounds.repeat.svg",
+    "file": "STYLES/dark-academia/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 10.859375,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 21.462500000000002,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dark-academia.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/dark-academia/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 11.99375,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 358.6,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dark-academia.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/dark-academia/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.013020833333333334,
+      "threshold": 19.7375,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 44.514583333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dark-academia.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/dark-academia/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 28.087500000000002,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 28.106250000000003,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dark-academia.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/dark-academia/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 13.841666666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 47.57083333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dark-academia.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/dark-academia/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 126.95,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 127.19583333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "celestial-atlas.backgrounds.solid.svg",
+    "file": "STYLES/celestial-atlas/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "celestial-atlas.backgrounds.repeat.svg",
+    "file": "STYLES/celestial-atlas/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 18.171875,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 11.9375,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "celestial-atlas.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/celestial-atlas/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 15.064583333333335,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 359,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "celestial-atlas.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/celestial-atlas/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.013020833333333334,
+      "threshold": 26.677083333333332,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 61.27291666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "celestial-atlas.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/celestial-atlas/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 32.93958333333333,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 35.12708333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "celestial-atlas.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/celestial-atlas/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 16.797916666666666,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 34.9625,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "celestial-atlas.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/celestial-atlas/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 149.86666666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 150.15833333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dunhuang.backgrounds.solid.svg",
+    "file": "STYLES/dunhuang/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dunhuang.backgrounds.repeat.svg",
+    "file": "STYLES/dunhuang/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 9.240625,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 10.853125,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dunhuang.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/dunhuang/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 12.318750000000001,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 235,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dunhuang.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/dunhuang/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.018229166666666668,
+      "threshold": 16.360416666666666,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 30.552083333333332,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dunhuang.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/dunhuang/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 24.418750000000003,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 24.464583333333337,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dunhuang.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/dunhuang/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 9.772916666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 25.34375,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "dunhuang.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/dunhuang/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 100.73333333333335,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 100.95,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cartography.backgrounds.solid.svg",
+    "file": "STYLES/cartography/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cartography.backgrounds.repeat.svg",
+    "file": "STYLES/cartography/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 13.790625,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 13.746875000000001,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cartography.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/cartography/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 12.633333333333333,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 250.20000000000002,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cartography.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/cartography/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.013020833333333334,
+      "threshold": 20.010416666666668,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 69.68541666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cartography.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/cartography/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 25.8625,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 26.5625,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cartography.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/cartography/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 11.989583333333334,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 38.62916666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cartography.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/cartography/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 105.68333333333334,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 105.92083333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "natural-history.backgrounds.solid.svg",
+    "file": "STYLES/natural-history/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "natural-history.backgrounds.repeat.svg",
+    "file": "STYLES/natural-history/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 12.265625,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 3.390625,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "natural-history.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/natural-history/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 14.008333333333335,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 251.8,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "natural-history.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/natural-history/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.018229166666666668,
+      "threshold": 20.172916666666666,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 46.54166666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "natural-history.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/natural-history/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 26.079166666666666,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 30.525000000000002,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "natural-history.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/natural-history/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 13.387500000000001,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 34.63333333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "natural-history.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/natural-history/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 107.33333333333333,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 107.57083333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "retrofuturism.backgrounds.solid.svg",
+    "file": "STYLES/retrofuturism/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "retrofuturism.backgrounds.repeat.svg",
+    "file": "STYLES/retrofuturism/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 6.946875,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 12.262500000000001,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "retrofuturism.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/retrofuturism/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 14.714583333333335,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 365,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "retrofuturism.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/retrofuturism/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.015625,
+      "threshold": 24.231250000000003,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 89.025,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "retrofuturism.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/retrofuturism/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 31.9375,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 47.90208333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "retrofuturism.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/retrofuturism/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 13.86875,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 44.47291666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "retrofuturism.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/retrofuturism/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 137.03333333333333,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 137.32083333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cyberpunk.backgrounds.solid.svg",
+    "file": "STYLES/cyberpunk/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cyberpunk.backgrounds.repeat.svg",
+    "file": "STYLES/cyberpunk/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 5.53125,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 11.506250000000001,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cyberpunk.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/cyberpunk/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 12.958333333333334,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 376.6,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cyberpunk.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/cyberpunk/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.015625,
+      "threshold": 21.208333333333336,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 93.26041666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cyberpunk.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/cyberpunk/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 31.602083333333333,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 50.40208333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cyberpunk.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/cyberpunk/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 18.745833333333334,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 43.425000000000004,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "cyberpunk.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/cyberpunk/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 144.73333333333332,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 145.00833333333333,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "blueprint.backgrounds.solid.svg",
+    "file": "STYLES/blueprint/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "blueprint.backgrounds.repeat.svg",
+    "file": "STYLES/blueprint/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 29.196875000000002,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 30.712500000000002,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "blueprint.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/blueprint/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 32.675,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 379.40000000000003,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "blueprint.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/blueprint/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.013020833333333334,
+      "threshold": 40.456250000000004,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 137.61666666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "blueprint.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/blueprint/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 32.08958333333334,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 55.791666666666664,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "blueprint.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/blueprint/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 21.24791666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 56.85208333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "blueprint.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/blueprint/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 156.10000000000002,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 156.37083333333334,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "generative-art.backgrounds.solid.svg",
+    "file": "STYLES/generative-art/backgrounds/solid.svg",
+    "width": 1920,
+    "height": 1080,
+    "x": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 2.5,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "generative-art.backgrounds.repeat.svg",
+    "file": "STYLES/generative-art/backgrounds/repeat.svg",
+    "width": 128,
+    "height": 128,
+    "x": {
+      "seam": 0,
+      "threshold": 16.015625,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 17.3,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "generative-art.ornaments.v2-repeat-1.svg",
+    "file": "STYLES/generative-art/ornaments/v2-repeat-1.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 9.029166666666667,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 272.6,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "generative-art.ornaments.v2-repeat-2.svg",
+    "file": "STYLES/generative-art/ornaments/v2-repeat-2.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0.018229166666666668,
+      "threshold": 17.954166666666666,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 75.375,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "generative-art.ornaments.v2-repeat-3.svg",
+    "file": "STYLES/generative-art/ornaments/v2-repeat-3.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 27.25208333333333,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 27.28125,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "generative-art.ornaments.v2-repeat-4.svg",
+    "file": "STYLES/generative-art/ornaments/v2-repeat-4.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 12.775,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 44.81666666666667,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "generative-art.ornaments.v2-repeat-5.svg",
+    "file": "STYLES/generative-art/ornaments/v2-repeat-5.svg",
+    "width": 192,
+    "height": 192,
+    "x": {
+      "seam": 0,
+      "threshold": 100.73333333333335,
+      "ok": true
+    },
+    "y": {
+      "seam": 0,
+      "threshold": 100.98750000000001,
+      "ok": true
+    },
+    "ok": true
+  },
+  {
+    "asset_id": "shared.patterns.alpha-grid.svg",
+    "file": "SHARED/patterns/alpha-grid.svg",
+    "width": 32,
+    "height": 32,
+    "x": {
+      "seam": 23.5,
+      "threshold": 38.6,
+      "ok": true
+    },
+    "y": {
+      "seam": 23.5,
+      "threshold": 38.6,
+      "ok": true
+    },
+    "ok": true
+  }
+]

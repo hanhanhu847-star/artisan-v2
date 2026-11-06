@@ -1,0 +1,242 @@
+[
+  {
+    "file": "STYLES/art-deco/ornaments/v2-frame-1.svg",
+    "sha256": "4325a6a9d59ebfc492ad9b428d7a021c99463878e7e5d5eb4c277ce2764d5d5b",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/art-deco/ornaments/v2-frame-2.svg",
+    "sha256": "ecd568c90a92537accaa326390b2a6a03710298cd22e7496d9a8760d89152977",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/art-deco/ornaments/v2-frame-3.svg",
+    "sha256": "a244fc1c02513928d8268e9a18d4ab736cf59b23e64b2adf55def08b6c423014",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/bauhaus/ornaments/v2-frame-1.svg",
+    "sha256": "5009a976501304e6b3c3031d86ae759bd2ff1c15a9f0fac7cfdddfc728521e20",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/bauhaus/ornaments/v2-frame-2.svg",
+    "sha256": "458b7d287c52f4be59a9a4561eb1601a3ce6bace1bef032163ff404a882fca0c",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/bauhaus/ornaments/v2-frame-3.svg",
+    "sha256": "4517f3242659721846599410c628d6a1930fbe6c68dd1e45b7c4726f5b278a0b",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/blueprint/ornaments/v2-frame-1.svg",
+    "sha256": "fded59d8d085835fcf81b1c19d16a67fb52fb2d6568827a7cb6e2cd6ab7f31fe",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/blueprint/ornaments/v2-frame-2.svg",
+    "sha256": "4253d22a2526e79085f1a20c434072d293f673408a2c2cc20f5a147b08301ab8",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/blueprint/ornaments/v2-frame-3.svg",
+    "sha256": "70ccb6f78cc9b855f316657079757f4ae0e87f4a4aee324cb6087254d18f80ac",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/cartography/ornaments/v2-frame-1.svg",
+    "sha256": "d83b5110135c214f0c978331d9d65d9b71e7b57e734e363a8459d623a0093e06",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/cartography/ornaments/v2-frame-2.svg",
+    "sha256": "38213118496281a617d79d43dd01f9385b922c7f337fc996128298c0f26ec230",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/cartography/ornaments/v2-frame-3.svg",
+    "sha256": "77786380b8ed271e1d372c4ed159ab1e0d302fc77cd3288dc2d6aa59c8a97399",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/celestial-atlas/ornaments/v2-frame-1.svg",
+    "sha256": "54f40e4bb8569a553db8c5badc18e6521d404d081ebe90af466a18027e37a918",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/celestial-atlas/ornaments/v2-frame-2.svg",
+    "sha256": "7ce595732d8be647e8cd7cca84cc85110ae7efd1b2e4391e2b5374ab081949db",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/celestial-atlas/ornaments/v2-frame-3.svg",
+    "sha256": "901160d88bd8940eeadfd2eb6c1f4b97269a54ac20526adb61e85e20b85f36c1",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/cyberpunk/ornaments/v2-frame-1.svg",
+    "sha256": "1fdae51905e1f80fdb51fdf285e9cd2495977cb57d24ba9e3dcf9e284fb9c082",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/cyberpunk/ornaments/v2-frame-2.svg",
+    "sha256": "2aa0455c7213424eca9ecc462b5861524ba180a5c07d2ef33f3c721f9a3aab58",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/cyberpunk/ornaments/v2-frame-3.svg",
+    "sha256": "db178422a4836df05dce446ab560314ed5abce2db38798328a4c28ec59094584",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/dark-academia/ornaments/v2-frame-1.svg",
+    "sha256": "fa264eb6b3960c13637acc6d31f6ff5ea0af63bf21a5ffc74571d45b07d870d9",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/dark-academia/ornaments/v2-frame-2.svg",
+    "sha256": "afa71fe9a5dc214d8d4261712d090c806c196b2da23328bcf44ceb3c4d4a31e0",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/dark-academia/ornaments/v2-frame-3.svg",
+    "sha256": "f962ca08d72c68ba1c09a4dec6b665b593a5a75e4b3271b6573222b3fadd6913",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/dunhuang/ornaments/v2-frame-1.svg",
+    "sha256": "8e48adc07f519aa3d44bf5bd57a420fdedce205af08fcfdda3047fddad6c97b1",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/dunhuang/ornaments/v2-frame-2.svg",
+    "sha256": "178cf5b35c298e013b1734f86078942bc1f5bc5f6fc8e45e7c8f92856407da49",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/dunhuang/ornaments/v2-frame-3.svg",
+    "sha256": "d990e6f30d6b4af7ea8db0a46713c7f55242b28f6e5b1f7dbcf373caef43b5ae",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/editorial/ornaments/v2-frame-1.svg",
+    "sha256": "832057d16ab84d678fd1ace575fcf0ca16a75055b016d82d7f01b775091350d7",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/editorial/ornaments/v2-frame-2.svg",
+    "sha256": "828af9ace6aaf7b10578d1497c32433c0f31f69b6dfcd2d0a4c4a4d9b31cd230",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/editorial/ornaments/v2-frame-3.svg",
+    "sha256": "a1b7a89813fc3cfcc6b5556b42f5acb3ee1acc62451a639423dcad5154eeebdd",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/generative-art/ornaments/v2-frame-1.svg",
+    "sha256": "b9714660728d44779ed3bfbe378ebc8df89317828b4584e36f2b06981c12b523",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/generative-art/ornaments/v2-frame-2.svg",
+    "sha256": "a577deb8323b6878373616987de965d2e1be9011815e2d8dcce377f01ed7f644",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/generative-art/ornaments/v2-frame-3.svg",
+    "sha256": "d595acc443efeed0e9e1cbbd43356df05f9d050f92a5218cb122830b22618c37",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/memphis/ornaments/v2-frame-1.svg",
+    "sha256": "a67507a668888b9fe03379fddde1d7cd623a4ec505bbf4a9f2f20c562f53d02b",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/memphis/ornaments/v2-frame-2.svg",
+    "sha256": "1ca518d45ade38fd8ba7f060a5f1a7200de5782fc48c45ba9cd7c3af321e633d",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/memphis/ornaments/v2-frame-3.svg",
+    "sha256": "fa41ca0da0ca900f9a7d50792936d6c149fbc790c81a5f2287c67e0e1f4d6e72",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/natural-history/ornaments/v2-frame-1.svg",
+    "sha256": "7be9062b9070206aa5e821a3a58b8d3125f9d92bbbe73f9c9cf668c73c5176e9",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/natural-history/ornaments/v2-frame-2.svg",
+    "sha256": "4d7e4729330729ab42487a26d3ba2ef87ac63885b1e5673813a8f93a058f15bd",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/natural-history/ornaments/v2-frame-3.svg",
+    "sha256": "8cb4f2693d89efa9ae072a59ca1887ac3cc6a6389e6bdeddd824c581015c216e",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/neo-brutalism/ornaments/v2-frame-1.svg",
+    "sha256": "c825ba30c18d63932c37d72f2e7938e2ae38071a2d6b4ab3a0afd3ba64300893",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/neo-brutalism/ornaments/v2-frame-2.svg",
+    "sha256": "18c090973dbd61d319f6a09939c61a2e87aa29c6fc7c0d061f3085ac8bda23d6",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/neo-brutalism/ornaments/v2-frame-3.svg",
+    "sha256": "eca93d2cbeba43474c43b7fff73a5cc4975f157f7108be3c9a779d1e45b70fa0",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/retrofuturism/ornaments/v2-frame-1.svg",
+    "sha256": "62455fcd619e93fc5b950b30fa7f8528d16cdcb3eabbd2fe08add38a2360b63c",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/retrofuturism/ornaments/v2-frame-2.svg",
+    "sha256": "e5880ffa29f49bbb8e3dd5e510a907faff61bcb8d9c0451be6fec6770df76d3f",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/retrofuturism/ornaments/v2-frame-3.svg",
+    "sha256": "180d1392f9268807c4155e99c0e41629f1a31c4cc8b9432c3bf803beb104b146",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/swiss/ornaments/v2-frame-1.svg",
+    "sha256": "551a59db5d8eb0732f393f6b453edad4382f8b833b088ae1eb2a1f7c508d46c5",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/swiss/ornaments/v2-frame-2.svg",
+    "sha256": "f34e3eeea370a033650c06958c0817d7cd9075247e5319a7136d34f73b7a1bfc",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/swiss/ornaments/v2-frame-3.svg",
+    "sha256": "b528bbe365119a62d40ca79b517e756260734a94934f99d4d37a32289e1741d5",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/wabi-sabi/ornaments/v2-frame-1.svg",
+    "sha256": "19b2c36ed89ddc81aa5a428a31cab1e218e6299934a4ea1e0e23bcf87cd58322",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/wabi-sabi/ornaments/v2-frame-2.svg",
+    "sha256": "8c40ce84154211ae606a87712f461a22322a64b2a1735819a42655eda89ad0e3",
+    "apertureMaxAlpha": 0
+  },
+  {
+    "file": "STYLES/wabi-sabi/ornaments/v2-frame-3.svg",
+    "sha256": "7adc21dda1b1572526b9d6c9f34b538245fae95f3b7f60d91238f4d77a20009b",
+    "apertureMaxAlpha": 0
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "blueprint",
+  "zh": "工程蓝图",
+  "en": "Blueprint",
+  "palette": [
+    "#163B58",
+    "#E0ECE7",
+    "#A9CFD7",
+    "#72A6BA",
+    "#E2B877"
+  ],
+  "history": "传统蓝晒复制工艺形成蓝底浅线的工程图印象。这里的零件是示意图，不是可供加工的工程文件。",
+  "form": "正视与剖视并列，使用投影线、轴线、尺寸箭头及直角坐标。",
+  "material": "弱网格和浅刻线；主轮廓线宽大于辅助线。",
+  "layout": "主图占三分之二，角落放信息栏；引线避开交叉。",
+  "font": "等宽数字与无衬线黑体。",
+  "ui": "直角接点、标距线、分栏题头；状态同时显示文字。",
+  "use": "工程类界面、原理说明、科技展板",
+  "avoid": "装饰性标注不能伪装为制造公差或可计算尺寸。",
+  "combine": "结合瑞士分栏可做技术文档。",
+  "title": "传动轴图板",
+  "motifs": "侧视 / 剖面 / 齿盘",
+  "source": "https://www.sciencemuseum.org.uk/objects-and-stories/photography/anna-atkins",
+  "no": 15,
+  "group": "未来科技与数字艺术"
+}

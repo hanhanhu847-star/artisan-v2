@@ -1,0 +1,9 @@
+/* 博物学与自然史图鉴；用于 QApplication.setStyleSheet，由 Qt 处理键盘与状态。 */
+QWidget {background:#F1ECD9;color:#344338;font-size:14px;}
+QPushButton,QLineEdit,QComboBox,QListWidget,QTableView {border:1px solid #344338;border-radius:3px;padding:6px;}
+QPushButton {background:#67835B;color:#000000;min-height:28px;}
+QPushButton:hover,QLineEdit:focus {border:2px solid #AC7850;}
+QPushButton:checked,QListView::item:selected {background:#344338;color:#F1ECD9;}
+QPushButton:disabled {background:#F1ECD9;color:#344338;border:1px dashed #AC7850;}
+QLineEdit[invalid="true"] {border:2px solid #8d2c27;}
+QProgressBar {border:1px solid #344338;text-align:center;} QProgressBar::chunk {background:#AC7850;}

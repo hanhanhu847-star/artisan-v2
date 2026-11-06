@@ -1,0 +1,50 @@
+[
+  {
+    "file": "illustrations/v2-scene-1.svg",
+    "asset_name": "群岛与引航路径",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "山川地貌",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-1",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-2.svg",
+    "asset_name": "山口地形剖面",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "海路测绘",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-2",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-3.svg",
+    "asset_name": "港城街坊与码头",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "城市地图",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-3",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-4.svg",
+    "asset_name": "三点交会测绘",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "山川地貌",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-4",
+    "credit": "new"
+  }
+]

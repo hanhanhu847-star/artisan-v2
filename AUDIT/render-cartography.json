@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "991407748375ca75b18266cfea0327cb4316df7640b73289d134e619498cffaa",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "a944a9fee0f60c4f5b0d46c9e0e1d778731ff9cb9b5ecb8e591e8203a04ff4cd",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "6e0be6e88f2c5646a8cee78430947eec8ae59974e8ec8c3dccb80a2ff8b40867",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "facb9d98f8c5c4d78dcdcbc5ea1db00ea20e4e86091782e4e1de6a7a7ad7e18d",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "f5c4e4b43722c4e035b8bf7babb94d9d427b7390c05e2a7d435d4d6de118c547",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "71811924e24793bd0d9a95508ea51b56c02bc1841dd0f2962e0728ef6eaa4a4a",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-kiara_1_dawn.jpg",
+  "sha256": "57b73d1e8e36c2d1e41cc2a0f8e790d57c8ce391fdd808601b160e2c53160226",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/photo-kiara_1_dawn.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "e7e726cd1455f0ff71353484f7610bd4d5af802456657259182dff64dca131ac",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "1378b457cdca784b94b5bb3bae7d2cd4d3c2113225721133369e6a986c9cf47d",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "54f8b83f272df4628879fe56b3d2cc65845dfa9fc29f42537b2ba2379d9d42c3",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "2ff29e0e93d434ee4c98102e2c40fabf361ce8577dd64caab46580f954e64eb2",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "eacbc2444d10ef2c785087f6cc25042f08960c9544941dfa30e5a0f23355ff1c",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "58fb16d4aee917a42893cd94eb23463f85162baed9ab9b20a602ddfa645b6442",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "25193c42ede69e68b9ad636e606c4b39e2b7e488cceeb3c545f9fe1510bfbfa9",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "9947ce4664e59ec88dc972ae12db0ffae0f95be60a6bf8273d4ca7edaf02254a",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "ebfdf283dae15c1f0d6c791b6f504a02feee8ea213f4f6231d5a1ee0d4e91d34",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "5bf5a640f0b73163c35f5c2cc018a20cdc5d5b4d1b6f7a6613ecf293dfa791d2",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "5ad87e16c9e7ea3b4dac7b66c9819119d72c981942eb9ea58e5a61bb478a0434",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "f39397b701673c940ba6b04951ef9daa4203b222a5c87521f2d5dfed64d72534",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "dbbf9a9af14e286fa99b6dc48af78618ec97caec8da1a42396f0bd4165b96aed",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "ca745e09e3e10c0609783a91ba7813bfaa6014216bc07c4857604c0882100281",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "4183b6d42f2eb246ab59ccbf54b6a655ed004ee2834b1b351a5af75260557f69",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "5883529f783aeb4b1185e48f1390e27f8fc692afd2b701a74b79cd16a8cf5a1b",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "5cde04170221d924b36d10da20a34ec2dba11ca8edb150080a42b8b26d0b591a",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "6a40bad796f7297bc9d56cfebfa8d6271e4dd7991e7c3a031d5a515f5e7fc652",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "93353229c625929c669906d6b331820826e56e3ee0dd1ac5b41fa353828bf2c1",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "1ea4b76eb5a670ee9b2c7aa1e6f480c472c21ef8105b8817397f59e82f786586",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "9499491922db9065a5814f0ecaa4cee9eed7d7bf3afbb63d5bfa85743bd991da",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "f755edc6931c7304cddb9c665b8ba558a4d76b42e4bbb08034d92e43c124e3b6",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "18a4be314184830ae8e402cf7d3461b02b905d1d60bf5b974e70523345e6dd05",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "cbb337d6fdde5f8dba0de5e819a7bc3068f2c35ba06f6aa100fb071f477d34f7",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "54c7fee002318985f7f501af422b6153e4c743bda1b4fd5f5fa689eaf557e53e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "d0fdb26bb0b72cf45c4167915642b1b52348c7b45efe63012f8b2e236d703cd8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "e8c3c07f8fd295a5b86649e66895654b5dcb0a0e821d7dd2948a0f612cde552c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "4989bc44966293b114dd4b97d887016a6c2d216f2870343b2695a8f2035feab4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "c5bd065be6f14f58229197b63087982ec3535849f684b489daa82a6d3a9845a6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "00a3bf9ae68800ce6e8ec8177932f729c64c370abf6f8dea8f350b305b2ee95d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "8d76aabd39c36c831b68430dd32be90f7c4811ec1cdc061ace80ea4a5dc29638",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "076f1b67b37edd25bd15e5ea90d908b9a4a3933e50f236dc02a0a531990759f9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "33275b76e7ea0633b07b92e3f295b48bc9843081b22f2311bb51b96ea68c39b5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "b3050de062b1b9e8c5639cd7c12c9791d302fc3d3e75afecf2f3a93ba931b549",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "c529bacf5643fd281c15ad6fdc1332bf43926226b2439a3a708aa90b79647ed1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "49f62152c15c4038e29cf4ca8e399c0f3decc781aa7bfb70723adfbfa65b56da",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "0848b375b49bdc95263952bf5098ebd09d4e4c542d7fed5b96d79122a46cf295",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "f9722f69332302915855b1fe59e943d69567a72d400ac765adbf5e37534b59b3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "4675a533a637d8f7079631e6390fce65d5b2531eede93a88f3684b51aec51d01",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "1bd40d787a342c466ea8a464d1455e11a917473f55229403fa4238d7523ffae8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "b8d8268a74c15a9df86a4093fd3103ae5ec84340863380da6d31988715aa3905",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "ed3657b623505c49c22fadfd6e01ab7dae8294fbab6a6ba59acca2849c426111",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "9521d32cc16c8f7c92de5d58061c4994d0de02ecf505571c31dc89395aa72735",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "5677bd850a7d6d6bd2b05cbc37b9f716e9ff0576c2fb177cabfcad63989a5ef2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-buoy.svg",
+  "sha256": "04bae348c6082b17625c33a58ff3e143400b9e08dee93614d03eb1a096c8633e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-buoy.svg.webp"
+ },
+ {
+  "file": "icons/v2-city-gate.svg",
+  "sha256": "a8a52e5704d23d713720ba80843f0b51b56a3d4d3f62ad1a03c7d20def9e532e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-city-gate.svg.webp"
+ },
+ {
+  "file": "icons/v2-contour-hill.svg",
+  "sha256": "2a131c4af5318a348a26d5c4a604d5b0b6a85a50b88bb26b3c83b17b7dfa997d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-contour-hill.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "e30df01e78afb394ec6f30e08f19bd480c7032823e0e05d3b05df7b7c75d5566",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "cfdece16c4568f8cd0e22f12bae30db2234c8ff943b11c09b92b97eeec3b9098",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "9cf8a40842da74d7dc7849a1a9e9b9cd2b949c0ae448f7b15eb611a912f3ba3f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "4dfd393395eef9cdd0281837917db5dbc9d345bccc592effc5537d7f5524586f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "f5757c57bb4fa6112daa7d7a9bbd591aab51fe375dd76ab3a4a7439e62b1f20e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "3ad18566787931eb84db9e9e443163c9cad37063d579290d19cdf70189053c91",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "fed36073591aa5e80d7bbbc17c7f81353345fe406abbb3464c6537a2d99ce7e4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "05118a8b8a86e56aea35c41014d450abef2924c987351be9663a801a182355c8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "a45e71c67d548a511042f20fe41e2dd86435e9b8a865a1924f077a029924bd92",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "9f2b9a3f7302b2c5311d0f5cb83c3d6e2932e2a2860e69d96a3715373272a03f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "a6ce7b08047165b671763e8df64ac593a6189a017c54c360f59e8cf108e5865c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "74d3f11b5dbebbe8fcad0ad60f44341a827431a40e56a79db35c3c88cded04a0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "81f8fd113e540ea6e855e3d632d70b73b89c7c73e40974ea856d7d4d06db9d7c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-rhumb.svg",
+  "sha256": "50ebe477a4a8ed9a1d487c1f091c6ccaa4638460e2a057a7d5151eccfedd7c4c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-rhumb.svg.webp"
+ },
+ {
+  "file": "icons/v2-ridge.svg",
+  "sha256": "f7ec4ec0fc561c64b0ed5f4c92a741eeef59503700325944c396a10a2fea1087",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-ridge.svg.webp"
+ },
+ {
+  "file": "icons/v2-river-fork.svg",
+  "sha256": "7ddb677444f83ec1a9fc01a6c2a25e60fabae12d8a7967ab1f93681df9791b56",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-river-fork.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "ae0a00a3a762e2ae18dd24f84ff620115ddccdf19097a49f54077f4ab2b85f34",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "99210134aab6051c9d642ca72764468fdefca684753637ed1918556ce3f2fdb9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "5348877f3a0bf0dd97f65990b98f61c4df18cd454980a9ad85af6809551169a7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-sextant.svg",
+  "sha256": "9883c84c439d9a5d887dde29cc1301c7b98c0b803caac93cf1e30738fdb103e1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-sextant.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "a41e9c94f63ade31ec90d1844e35e2b563decc1f9cbfa77781f3a82944fd3aad",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "7c808ffe1cde0b7699aca46207ce66be6ec6b00d69a4b68dd82106e6a0d319e1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-survey-chain.svg",
+  "sha256": "d8be1d27a0b8b961cef270ac61fe897c6cfed83e6dd8936e90589aec981d954c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-survey-chain.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "208eed3d904a93317c873202d1ecb9191507a89e727f96639a74341b18f8729f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "0a0ad05726f0606ee55ab58cff8d6267f2143e69e1c56aace410e83ae72bc6ae",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "09c4f3109db83b4c35b476f483e3040e9616eeb5a0cbb284a3fcf1b2f1fee742",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "74a8005f6728491f761bdcf04121df9edebf542745988c222b42d6f62cc8d9c7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "09774f7060b78fa4878d95384c6fc16f576bee27896fedb2643f2f576f8dd0ab",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "47f92669a91a80c0b8a827872176b19db65bd3d9b2810e38fd481505bc86c2fc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "3f6fe1455472e8282feed5239ec50497ca0127ee37376c5b25f3c14ae5247b9e",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "2923a0c8d58c5cdc180efc954905eef32aeae67b0f44afdd288db9eb0332842b",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 237,
+  "preview": "PREVIEWS/v2/cartography/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "b1fd8d7580b090f2dfeb578fd5d755db4f5248473d0e6d3bd8a8dfb691f09d38",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "9f10fe1920480404a9ad9aa156f07b361d63a4b5dc8d6de7ee3c9aec2cbcd352",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "494ac4f332c0291351dfa9b948e994655e468a403c1d6aec465223c023cfb51a",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "3b0353715ba0efe109fb0932285afb46b4461864f2f1c0c93bf853e0a04d36a0",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "cee9f2a6ffd879832793218c0f3db8a42d5a528732b85568175b2d0ed5e5ff75",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "c6872ce1c1cff98800ce065d4e6bd68a9a32e8159673dbeb1be450fcfb1a8f14",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "b0c0b83e716cc4bf67ba4da86487bfd20f798c3d2a72fdc637859286612b2e59",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "c7fe93103048db5bd018cb056502cba47447a8897e1a79cc397e8b11752d9a8a",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "5308567e43ac73356e58a061278a8ab7c0c42f6dafd24e3a09c3e03e730ac657",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/cartography/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "1bb4fe08103e20615e8ff013f259bc6f680a69d770556f730d9a673009bc2ced",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "212bd2f57d79ac57a4544342abf473fe8b75f64faaae277302603c850cc9eaeb",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "cb97db8431d64ba6b0541ddf4f2af68973414cde34483fb5d5c89be7894b03b9",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "5e9830218cbef4553fa468aa1af36e2887b2b5f99fabd14829968819a4f4f061",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "db361f4a69226fbe3adfbfd26f926254fe7fe98ff02b459096ab04e5c6b5ed48",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "ced27841d07d8763bf818dc4def07e432bdfe7a5bb28e18082213925a6fca86e",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "dcd2a5e2afb66a4fdc3e5b47505df6d1d761710e5d013de896341759ec6829e3",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "ffdbad93ea47214f263b42d7ba6a9c33c5e6eece50aa94d5bfebb2f4cf66b0ed",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "c224a316933e6449a28a9dbb64f40a5246985394ce0bfd62e8071a18d7b9067d",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "49903fd2d05b8175ba9dc9e8518cf50ae1554594d89d962a2ce1fb1ffe97eb43",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "3b452e2add4c84f1ca7a2951dd166b69bd24cc9e68cae31db0d73c9b86f020e8",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "690bedba40a51a1522072b1ff5ff115ee123680281cc80b8f57bb1b6454ad562",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "cfead31e641575da6784e63bb94df267f3b3a377cf2c87074dc5d55c48cf9b29",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "828300795bb85a756b560d2fea15bb5eda0899a2802178d7dcf6af30e7f3a38f",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "52e8b96c7f7a0702c83a426f4e869d5c54cd9c9bf591cc81da65c082dae9de1f",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "92816396f7d26f66337d382c94d7cb57085fad371d8d5b3361de3a52ed57bd22",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "0e1003c052a0e4db3aed8b74c38079f5aba37cbe57c9a57fdec0d1d3a7d39260",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "d83b5110135c214f0c978331d9d65d9b71e7b57e734e363a8459d623a0093e06",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "38213118496281a617d79d43dd01f9385b922c7f337fc996128298c0f26ec230",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "77786380b8ed271e1d372c4ed159ab1e0d302fc77cd3288dc2d6aa59c8a97399",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "9b485eacb928915646174c157f24140a205a860ecd5a5d05fd71d4f3f06f08b1",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "0bb4627f199e34a6bd7d13898c34cb46a7aa60964462fd63a605eb9f9feccbcf",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "0b953f501ce6893930529dcd94e83d24beb0967a755c629052d2b482f3b5ccac",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "aed9df349f27b8588867008a88fea6480d45ed57320123f5e4915bc095bd82d7",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "91f4f30f63520092b20efda8ea1316c77d8d238e4004fc2b9c0703d5d6db9c45",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "1d624fd528bd17a4ec1e433c90fd478b30efe04cc610acaafc6cd76d2ed5b699",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "a95562f8a454988a685f18a055e7babd73670273f2ec7e9de90208279ab03756",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "0e4cab6e63f79d02e1a1350c375ef0709f2d054ccb2ae1f3a0d2f4f6a7af3e35",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "d118532bb124d9390b63053ecaec47c0ecaa035d3bdf93c815a9ed4b19a9e56a",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 235,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "4cdec8afb192945e357eab965f4b9b2e9bfbe058a142afb298b5c698cde3de74",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "327f90bdf7ffdc27fdaa006a00a2121ab98840af3e83ea7dc03d0d9898dd098e",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "203ac73b5d67662feb87518710b64249f004fb238691aaf728a9551ad0b7199f",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "c3e0fc2dea73ad2f180d2f091ceeeb021e7ec7a039728330f15c0d66825bf55c",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "efd5c1e89cc59d7a1bdb0db9ab0bc34ac6bc00d050cda8320b2ae6dd10b788dc",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "26d64536d3ac5a7e5f05be2d0cd5b0c5312600003b1bfd76667d49f4c5fd9a0d",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "763f5583eabcc6005369fd7761cfd17185c7361bf5631df521eafab786c51944",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "e5bc95160a3b38a7cb5b1bd6d2b65071de6eb7802fc203a473cec2bc41ba074c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "322cc192ccf9e0441658652a8f312be45dbe1706fe9db9e87dd90e492675e28f",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "10ecf91aff1b6201de2a0e05f5e81e865f66ac9434cb7008af8a445e5af19d92",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "9df47a8861e7a6787938f75d26fbb35997243d58cd201fa8a66e4ea6eae44707",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "4d3306a81f80d25fed69068d82f270356585f893f1b576dc004063682a0ceca8",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "1e731ee73624eee08e9c809b83445991c5cde7e115875fceb640bbb277d6751f",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "91722556b7757ca1559d43980ddeee52ffe4b3c4526d7abd79224bfd577bc96c",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-etch.webp",
+  "sha256": "c5967a1fcf5dd03ee19396939e2486eee5d1917864e1e42faf9d6c1363a691a9",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-etch.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "fbf12ad1e8f04bdeea181f9c77f447819f8075d4c4e30f317756c726c6ae9753",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-fold.webp",
+  "sha256": "82125d8469c1b849891154930cdc8e37588bc5099d93c1ae19ee2a047fd2c4f6",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-fold.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "578d1d68720775580b3554d5d7bca2e8e1fae1ab895ff0e4fcfe234bd1db0391",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "50e6eec27dd0ad64b336d9d2183d7fa7572e3ccf24e569cd0cdb3fe98279d264",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "5aed36a4ec7c9f765c969f5455daffe4b2c5a37966ca6be7ec855fbb42b9096a",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 224,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "3b28403f51a330dd7c144b91b48a99cfbafd1391d555fb1824d6057f220e94d3",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 218,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "cc7f4340fed00f3efc1616ccde6bafcd5d26bc4c85c669027c2d2554aea0544a",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 175,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "c919e6b56c49da88f1bc926fdf5e58556d4aad85d40e8ea0db461c64d663cf6f",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "aa6049f33c0410415e80f1e630ddae0918f4576694af77a7ab5b01d4b82866e7",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "cb69d73e8bbab8ee3866a7df963c30b029518896f55f8a9680e3a07d11cbefce",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "f7670f9a2661985b8780dff2c3c91fb4750d1662c0881443647908086807c1d4",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "eb2899af2fe94270984746a12363a2e407db90c7c70b484c76eb4add38477262",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "35ff3336b841069f948b53c80ed79315528edd66211142be38d454eb5428613a",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "25f4adf1e7ac74869ce9c3c5d8205c00b1a35e8421dadefdc308b83a97eb8d95",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "d38f48185613a84e322576a1bc9c37e07a1e65a20cb64e26bfd15c3b3bfe77c1",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "dd5a770002556fa844690d7df7cb2e2ab7ccc552e78c3d13c67a003b97d13e6b",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "3f8585e85761d427eed4ec1e1cf0933d0eae5978a8e60ff68c1a79230a30adc2",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "219cec9710f64557b729ab1536f899929f98f5f2c908c03c5efa0511a5b94a61",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "a5da494580fd8fef5cb9842181576841f721aadcc4108b34ada7786e2a06eda1",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "2e82e0cf6c616a6071cde310b10dac5ce5c0d306ad7c6596d89d26ff043ee6f1",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "bcded4e47c01d8570704be2ef7e85fed0da09d5702674e4ed94f9a41e32785d1",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "6706d2acb0794745bda13eac975676135ced1adb9d32d29ad66708223aec5224",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "3d16fdaf6d214a9c40c0834f08382df41e718ba5fffda7fac38f09372af97161",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "131ece8fb6f410f0c63fa980398be113824eef61f389b64030aae0e66916c52b",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "fdd4d1961c7d87bbbbab6d003479c8bdef1c208649facfd79b388d8e82f22673",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "6ad6218147e70b881567c47ae86e1fc2de22b9a9a35ef796a392154874d16159",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "448df7de761e08a97299590932c6c6a8c0daaff3df5cd10acd734ef112c06909",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "296ef0185bf3c9242fa89a845b2d35f9ca75f40b686c14c67fd5100f81590d6b",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "4f4191cfc3d75e41b4603fb133efc9cee8ac8c1f594744a10ffd6ba04e27f1fb",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "7f056bbb75a1a5124cd4dbc9f0634f46b2be5f59fa9b5b6fa6300454aa52fdaf",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "348487d4fa391d8afd5d88c7f3176d680311d2d48e971497702039abdf8dc538",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "1bde07034d2e6b1262b03c79b3433b8407a6c7fbe0d9b077e9fb1dee732a4a58",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "8101edf7ec4753ac99dd4192d6601587d120690fb890b9f0c69089b49d17f2cb",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "c168963b34b3af2374aab6cebb982e3b4a47f05a4b204fddc02c28f5b4846297",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "c4dfa72af8c2a27556b06e88410da30ae7f2f1c7b4822731fee5c98d62b35106",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "6a9ec7658e5f150a72b5e58f58dc396c6e355657cdb9bab835e242a756efc3a6",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "558d45cfa58d1a7c5ab958620004a9fead72b5ed171bdaf8ffb6f4b7c68a92ac",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "d3059ec0b0778f31b3f0360335e5a7a610883b628f253be8b7cc2cb4dfb3d66c",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "107d854d152e03284609c2dd751522648b77c34db9d5ac09e8b135645ebe165c",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "a8f1a91c318f26f469a19e8c5c3c21ff75814619acbc99975ac657ca218daa33",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "88aedfc5bb1b530364cf163b624fb2cc5716b7d2129658744998831c0254eec1",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "dcd56c82a0f20a1272444b0c21e8873f83f7b5ea05f1112f79410d3622e68462",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "6f22fe2e92df4efc8fd5e5daae0ff50dc22ac41d6dc3597a8ef5750bb91f12e3",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "d90c64eb538d0dd4208361eda8b9efc70853fd1e4b40209448e2cae3d9fc3551",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "6598992a18bc75266b52c72697a633a22d94ec47b1e442d7f8795fa3b3b2813f",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "8d1f75a7bbe850b3ce7b34f92eac19442eef5d1bc368295c35d1dfa58f0f7723",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "efc3b020cc2ea69906a6506936404b4ff3f0175f72b4e95fd9ba1bee06da3072",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "d94287dc29c9a11ea48a645243cf3f0218c4d503a1aef78fee9a7ab65d2f42d0",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "69969a1b3a827fb86bfd9e5c8cebb13cec224f1984b80f5d468ccbcb8e0eb031",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "4e4febeccf0083027a8eb6bc15fec132d6d0769cc8df1f4791d309f4a1f10b3b",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "feff138bcb95e5a9e1b62a6ff1cfe5fc6cfc75fb23d73539d534caf42e3ac0e4",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "4ccc083b7b23e24e89f1cdc80ae332d0fb43256ab4c4c41aa09800475c26ea41",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "c2e84424675d4c0cc1e3f5ebd54b02c79d8abb10fee31cdeedf73b1194c6731e",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "8c4c2dc23ce3b7335aa3d1a09074fc8b2e4ade82861163a4787db5ba98e4b093",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "163b7d558b2a1ecdde19964b50095591a427814a3b0d22300569338d9b353b35",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "ded0c15b8600cc63c315fd2240b4d97dcd9c399a030fa4d49f0a15a4b5dd6d57",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "54aec81af48432a8c7ec4404b77d9b17a91f5ec14e0ab428a818ba94573d492e",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "8792a6a92b356b67ef5684646abce94eccd4d8a35b2c76734a0963d5b8f6f8da",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "54599e87dbd46fd867b087b77657eb0264efe9afd061fe97f15bc19f7cf68be3",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "85bc22223500d986d4d7172f556e69b85b9a577d11cc8029551005114ba4d0cc",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "35e34a6ba4814e506c2e363ced12311d0d32b96da559787085e143e29e8763f1",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "5a77781254072be4a12fdb1b70fc547c66f1304e2de49e8891c40ba8e5ca37f4",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "897d6618981cb60f9ebd46b1253c62ff8eb977386a145abfcfa481972b3292ef",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "72208048f07c3bbc2c123b194d0b9281ec775aa04dc8696977bb16500ac449a0",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "8cb0c92b325c86411ec536c01a1c70532e2caf3c648aa94ae7f0dfa6f5b6f8f2",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "a3934a777903e98602092324d2e791a9c9123e7e76c9460aa2b27ccba6c952f8",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "35b9454b6d6641c4b6b628c3ea968fe8acc0266ef4b875c520e5704e5fd6e011",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "6659a5901815fd7bfe3c4d2cfe78a11f5116a40c190f3685ea90ac5fb5b76cb7",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "d6b744d0882890bcf58d70b455dab11e3e491f190979c03765a37d4ac80e66a0",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "028729e4ab3bb197ac181892dff4ab35a426b60230ad07c9f583abd6fafc38f7",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "e03709fc9d10ef39da4bb77c1831d6129cece9688fbc7a5afc0834434eb66a65",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "b2d22a9f7b55170187813c9d29ad07091c1ed6fded6c01bac69f5be6a5848463",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "b686ade3e60eba8b703eae336179da64fece3a65cfac8d3a737cc42a489125ab",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "9dbed6a8e87d6cb408f4ece26d7a68da741d7ef4da6f9afe72f7a3dac8a6f900",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "3a295d3541475a86c9b97bc2d81e928f22c5b5d9a090a451fb018b75ff14ff18",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "12a48d22166075bcf116dbc61c1b0e41fc06e610e95fe21f47b417b526401122",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "57754330ca7df72f0e168f4109591c2472f242603307258b5449dc4567290e15",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "7d7710dfaedfeac9dece2a03af6c9751ccc366840f9c16a1a2bcc2b929dc9aec",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "3b18a48cc07801e7d3cb79061d3c73055963820a609a69418bb3c6c66089240b",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "da0d0c8a50f5f27eee13b7946024d2cf382d94840dcf99e2dce926fb8fc47f74",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "fcf1d376265da18fad39cbb85a422474e1e45f008d0f45ccded219b3cea40961",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cartography/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "4aaf3670887ea8dbd91302502a155f24812d02941d0d6c8f7e8bbce552d1b428",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "2243be127ed579773c91c082cae72a92b1da8a50ab4b0cc728af6d7dcb713a32",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "c196d44a0a11f712983af53d9bc8b4417b3845d9c13e39759feb221a0c920bc6",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "5893961fe40f4a0c20a767e608d6346a2564ab1fc4189fb97b040ab091a67953",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "5fa8628d4230de1573bdee0d7eca39d66a25c604f063b23eef0aecbe95c88b91",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "92bcd3791350aadba8fc653f3646b8430c414a2a698915f5765420c829ff0849",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "04402616f859f7eec54bb6536f24170b0e9dd6e043208c56b93e803c407d572c",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "bda755cab26beed119603fac1e31d5385add19d3dd7bbd6f89d8008c99649a32",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "12f5beee9902ac37079aa7dae96189da13658ec88051210ab1b54bd7bce41a8c",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "14a0da29cd4317463026eebcf9bada9187739b70637e84ee70a14df89e38c1b1",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "80977e406d2634e248c23c9c670415281c3078b0bd66c76aed220a78076f6782",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "cec2ef92cf22e25aa2fbf5555a2452cc003b29fcfef43d23407c66728e267a20",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "eb14de0e07ca6b7d04e10c2db34fd4f900b4b8de41be2480b0b8210a3eaafd72",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "b4544a9d7ef0849713d4ab0d64a8c7b6fbff56925cc4ec6cb673b09e0a33e08b",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "6dd4f26a4d1fecf44abeb21c8c4bbfe66cbc24edd61d6d1b32b281c22ee7b9a9",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "7b7fe00905a7fed9bc809577dd0cfe08f9741b6e013c3897a15b35501fb86148",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "696d5860e2d598d47e785cbf9a54c5f1ad0747c3eccc1ea7870292c7dd72002d",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "04c42bc5f8cecc4b25555ad8b877469bd9ad44cbf7a1af414c7f2682d7e543d6",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "4a48bb302d05cd45259f1d598935517dda9c4a2265d4c2bb757ff0c073bd1ffa",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cartography/ui/v2-ui-tooltip.svg.webp"
+ }
+]

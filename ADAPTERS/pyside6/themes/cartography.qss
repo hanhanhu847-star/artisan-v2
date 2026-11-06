@@ -1,0 +1,9 @@
+/* 古典地图制图；用于 QApplication.setStyleSheet，由 Qt 处理键盘与状态。 */
+QWidget {background:#E9DCB9;color:#433F31;font-size:14px;}
+QPushButton,QLineEdit,QComboBox,QListWidget,QTableView {border:1px solid #433F31;border-radius:2px;padding:6px;}
+QPushButton {background:#887044;color:#FFF9EE;min-height:28px;}
+QPushButton:hover,QLineEdit:focus {border:2px solid #628B83;}
+QPushButton:checked,QListView::item:selected {background:#433F31;color:#E9DCB9;}
+QPushButton:disabled {background:#E9DCB9;color:#433F31;border:1px dashed #628B83;}
+QLineEdit[invalid="true"] {border:2px solid #8d2c27;}
+QProgressBar {border:1px solid #433F31;text-align:center;} QProgressBar::chunk {background:#628B83;}

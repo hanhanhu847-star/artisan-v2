@@ -1,0 +1,32 @@
+[
+  {
+    "src": "STYLES/retrofuturism/backgrounds/field-study.svg",
+    "dst": "STYLES/retrofuturism/backgrounds/field-study-1920.jpg",
+    "w": 1920,
+    "h": 1080
+  },
+  {
+    "src": "STYLES/retrofuturism/backgrounds/field-study.svg",
+    "dst": "STYLES/retrofuturism/backgrounds/field-study-2560.jpg",
+    "w": 2560,
+    "h": 1440
+  },
+  {
+    "src": "STYLES/retrofuturism/backgrounds/field-study.svg",
+    "dst": "STYLES/retrofuturism/backgrounds/field-study-3840.jpg",
+    "w": 3840,
+    "h": 2160
+  },
+  {
+    "src": "STYLES/retrofuturism/ornaments/corner.svg",
+    "dst": "STYLES/retrofuturism/ornaments/corner.png",
+    "w": 288,
+    "h": 288
+  },
+  {
+    "src": "STYLES/retrofuturism/ornaments/seal.svg",
+    "dst": "STYLES/retrofuturism/ornaments/seal.png",
+    "w": 384,
+    "h": 384
+  }
+]

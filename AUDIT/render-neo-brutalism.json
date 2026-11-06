@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "fe0fce6dbf391d93d0185b620c9cdbd8a716f6c7ed64b03aba3226d2a0a7b7d0",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "4c4ba6c16891cec99ac137c83c0c490c58ca747ed44427104aefc53d12a6e790",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "1f56d87141befcc4d2e0918e302c6d4bf3aa5965d33e484c76917fa2279c44ad",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "9c6a57ebd60cec3e076e6eea7acf118b1d1dcfc77579be73e6efb6b1c4dfef21",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "12b3b5fa71c7ad486ca3885470dc0acd555df29a732f896496546396a4bf9944",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "1782232b220a402820e9c9cf825ca7b9559c36412bfd2dca78ca837e4b099ae2",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-parking_garage.jpg",
+  "sha256": "2d314eee3186b4310e49f6171ccfaf75cd62a15dfa71352991d8556d7fe592de",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/photo-parking_garage.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "ab468739993a0b403a3ee0979bfc7e14a669596482daa137522a1c1812453d04",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "c8f38a9c125cb87e86d3daad3c15521cba762bda457190276d7752fea7b6131e",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "033e674f79f005609d3b2c9ad3f87fc693e78b5970ced094bf8daeb8527be9e9",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "f9d0e7ae83a586aa3730d8b3b779ddd186f83b342ebd9c9a9bd32f625fc70ccb",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "3eede14fcf003f22a70f3b2cb631d2997fcc4d326ee032840a29c47e109a4856",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "e04ffd895d613763261d6862cbf4125d6585b637afeb36ed4736231e458b37e0",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "4a7bfc7e8d3cd8d813257286d75d716fb89d4c380102edb62da4c39dc423b866",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "fdeaebc3bb0447a3de8122389287655e7523824887d13e230e74c8d0995574fc",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "efa611caae2dcd24c2b518821158fbb154fe79f21af2501e2b1a133382e37434",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "9014cc0c714f5dedb576a850409dabd49dac62c7da765ce9d8f6682c7bb4e05b",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "7f706cd23a0bdb4a51ee8316da360b240128acc2b276bde2482e0d8c4946c5b5",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "62f3b10f0d45d6dbac8ecfbf7a2a127d9747ed3e04476fbd09877cc987d2099f",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "eb6852d2b2ee39864956d343583fa2ca5fe8ddfbb85e1cb1aa2c8ba4635e448c",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "873b268ef53255be3a952b5b7904fe1779b8c5e4cfa6db0b4ba7b2498b22a8a4",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "0a83eb4f48f695a562c0c1f5276465f0acb2e24ca328b00531e8f25706f4124a",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "5092741d8d04575ea1768104ec988cdea1eb138e7301c23c89ff3ee53a5323b9",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "6f81f73e7dfda7b6bf758bac6cf9c1176156207f9460de8dd43be69bf71e9af9",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "fbd65d3169b61ebcfd068e415b935d723b84e0ebb97944048e8250ce4adf8783",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "916e91600d4374e77b2e656d39a3b386f8a501941ea7c60f66e316d96fe3628d",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "284078c3a714041655d6000381f6f36e5bb3379a49d69294ef398141c756bf00",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "48263be46325ebc884950fe2058c88c35bc02317e509948f1d65343ef4bdaa04",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "bbf152d7deb53e56e9c06125b5220467593baa5a868f5918c7a75d851703acfd",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "6bc0d42d8e27f31d89a6b6ac49fa514eed2965b513a420af866a7f8b7a4bf07a",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "23a875a09b8bccc4996c100905b3c77afe4edbbd68b110469e834364d28c12aa",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "f33378b1e0bd503cfed3ff23ae749dd496a653e02851267e440a66e78fea73e3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "53d6bbb4c2f0e8749077ea836cc9c314d9050a0e6cfdce38b0c8136452fe6386",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "86adbe1f1f0a984b0152a551dd86ddb5af86afc6d957b6c8014744f983f08f61",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "59144cb06c6b00f8e7b533bc0bcf78828d117f57b85222887107128ac2d32f39",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "9bf3437416ca38754c24cf55e64e01cd8041eabe9fa86cca06c497c4413867b0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "4cf87a0c92e1f2175e035822989f02b127e12a5c7950e90ad12d3436847b8d3a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "08d9ea3a6d21fe2f29d4165471248736276f18e68b2eb3f60258676560cb76d9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "c148dbd393bf45a2ee5c511b139cb296e52879fa7d9bad67449b4f2f38a8fd6f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "c9ba4328b763c66810e9b0bb865ec6fb4a224a9bc6e39496d5c7ef18a79e75ff",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "210fc845f34bd1d2b09e3e07da36818c4d3569ea588ba838ec38b9078cacb53a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "a6779eb26b08081968213ca501c6d364a8366cc1b3a9b3b3a092e057f76a1ac1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "944586d9c2a3166b4543d19d7aa1edf7f49271b04b99862807d323e42984ebdd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "6a08b59d0b4f76bb0fee58369bd8fa46ef067a4f986c355949ea465577840c61",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "aa2c5b0a53e808bb681640c162c1ddd5d91b70d42ec379bc88a2d9070e7cbf7a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "31da37729c13edcad6042e442d5bb0d0241fd65fc5f35d4a6423c482f5891b61",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "c949dd89a583bcd5d2ca8736cfca9ce72204c757db4d746b37aad23437b017c5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "d5998f45e4350f33db2a8f567a6425496ffb5aa748cc2f61113318f8dd26e1e3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "72e3d0182e8850080159165f2d0f5ed2f91ac8e93232099b710c4f8fb508c9d0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "b179ab31b16c7f31b9f49c56e66593398315d261af764dba37a0c1be3346d812",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-angle-brace.svg",
+  "sha256": "89f929ee2eb3912993aaf633aea5ec46fe3678912c39147e31779e2b43433389",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-angle-brace.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "e98c00c5117f52275ab45030bb0598b093fb66d8da7cf335f420edefe36e3c51",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-bolt.svg",
+  "sha256": "f09dfa626771a9d16401ea5865875627a426cae1e4b87788898b20072fe30289",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-bolt.svg.webp"
+ },
+ {
+  "file": "icons/v2-clamp.svg",
+  "sha256": "2f47706ff883277e555b3949c3fea5cb67756c832f481e5208b5c5be7b3860fd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-clamp.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "36a477192afbbcd65c7f34e4d19c8626744488ed001d4e0de91aa5c45fef120c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "24487468f7aa3a54d95639704f9a80c814810be6e16aa8f3d82287d5fa2bf8fc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "adaaed0b0e52ea901fd698bd836eb3035d58d347a177c6f642d107b59d7c9240",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "21dbeb1a92f819b3398801dea718cc3ea8c2da84f445773e8337fc0e025be786",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "1e8239851ea63284f54f4086eb1faeab42c1b451dc8fd6c1d58ced54a51c896e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "416af4f691fffa8bc7d1c893168e2176d98bb82239793d6c708ffb82396e1e5c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "7a491142a2a07f48b56ce3888ab555bf22a1b8065df0577231f976cc1e77b0af",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "61922f45ab41bcf983e233ca10238d7434aad235bb2b788ac6b37a4d0bacab13",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "f861c22b028d8a6ea464b8e4034cac3acf5d6362b1fe775e6c47f0bbddca2776",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "cdc8c34e4213decda1e391b998f51150dfb9c332c75d2d6faa8e813c36e2c810",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "46570b171124ae020a1e3fb2ae94df1d263cc18c9028581231fc8afca5b21b59",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "54d1db2d0fec5ce3c9217ec2cbc2464029b531a69fbef4437536da7aea989496",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "63049c48b30c5794c2a8b3078351b17fa9a406115cfff63b73b8c94420ec6013",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-paste-brush.svg",
+  "sha256": "7de54fbc553285462e188d7236c9466a27964515054d4b1c8fa937c9253daefc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-paste-brush.svg.webp"
+ },
+ {
+  "file": "icons/v2-punch-cut.svg",
+  "sha256": "298f95e82500fede4ca3af90e791dbfee2d89a68b9399cd3a42e5e9bfec49492",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-punch-cut.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "45b3e485d7d8265db3c575971cd361e8bcfa475f859b6b56b7e9a2374cbe16e6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "d00c8d7bea7da509b2b8fb9493747e76e5ec918f60284d8be1a74bbdd1720a3c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "d47ba0690ae8bcbe7c9762ef72565631f04c3c385141749d40816255455c8503",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "267e4c3b97b191e90e4162deb555c84c6e6068d67efcd5279a6100e02b678f3e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-squeegee.svg",
+  "sha256": "9ff48322bcea3695940757d7f07abd16a36081f9e67f73772964861ecebde7f9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-squeegee.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "83f920d67fbff74876aca81b497407db1e6946e6dcddddd87eb5ab292fcda736",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-sticker-peel.svg",
+  "sha256": "06ea57eb0f0b688998aae6df9f8dac5abfb7afb32c5d46e98bd0172f36f78368",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-sticker-peel.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "485e35911e01fc28b2d2adb76d519640bd9778a4782b1b5ec52331a4821934d1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-tear-tab.svg",
+  "sha256": "53720ef6541068a0cfad01263585da71bd2df31c0a39e32d4b2d35dbaad6df3e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-tear-tab.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "1289f4d0c4b8bee8b851656c34176fdee8627bd2875f9d8dba41d0d64a006a86",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "80a9053576a013cf6d9a3e21650539fa341802016541a42f7f0e3e952feb1cfb",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "3817c0b22db1d2448e3f899cbfc0cbc790ac595872af2687dda1b0021c1d8826",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "7aa01366060d0d86d53a2709a3489289864dcc90767cb6550bb2663080e18714",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "97acd2806ed6ff26a2440e49b7ccd1d9be42a670b1e4434d775d593123c313a6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "4e8eb93775dfab8509cf946450b5a3b5f3d782c134550ecb3c55acd1a7d1ce21",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "9a9098b3f34bfaad55cceef6f218c6b4ee198cd81727fc362f0b65acb4c0c518",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "4c22066da5f827ad831577e7d25521a578a1bb16f5242e171b953f2cf78e0b73",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "5f163e8af1f62d3fcd14a8bfd7f915868699d608990a78d38f68fb2272e18e06",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "54ac84a67b79431857d7044ecd5b76a545b7c3084a9d70adea2c0e02236b067a",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "441bb54afb6602db04f19bace4558938740de6660a7315e8f46504a4864cae65",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "e0a5464f6c8135691850ae618e825b96ec9595a7c06cff1f6b88a27da3802d20",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "26eb0ea72ec70fdd403d87b384077ae6b9a34259f6dc78ed06d59863693b21f7",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "3d94499d5578150a1e6d530ac7cf6bb18319d5c649e31061a4e81cb4b7abdff4",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "2be8c2e808b943a44f1d20e9b922618ccf305b5a4f0df08b092da9afc62a7857",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "b3b499854acb56f887e6d6d76902889136bcf06eff97880319439330b83f535f",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 119,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "db92da424e66f359d2bdd288a9f23a6950219e94f501a30ca3c92481745be2a3",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "52f152a349df283fd6ad4ac53caef3b6ebba2d32e3b8ff4ed994a91156c6eb53",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "76f5f9008bbfe6875588b7b19340b0191508a1b04bf8be5a9f6a7d45e6585980",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "9cb3a0f5df38d6915314fc3405c3ff45b6585afdaf3ee69e7ec4eaa647433c17",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "d3f950e5653e921503bf4f4c14152501d9fb7bbe30c2c03d4cc69634748562b4",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "08418835d948603cd2c06487cd0bb1c045500710024caa38030be85dbcd0c997",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "a0d91acfcd233f42daded221b939a24371274fdc19c90a2621d1e513010a03a5",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "031158ed9877ac28ea7a27151a98e9ce49570f4e2636193d00b76544e393cf59",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "e3a7d0f14b7734f9d46e4656a6b9efde084763f12148d93cf9cfbeb61af149a9",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "430fa702f4a865e3f8a6a8179f59bf36eb513a74bea054c61894db0114670330",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "08f9b8f602455502f50ba33c0a1cf7c9bfcfdc719ca0b7cfacd8c10ce5997a43",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "e6e99e297e78e918238f9a442e20e2b3457fbd5c1d10ce3ffb0f526f3edc1ee9",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "97b7e6ea5a465c8a1b4af8d8658d7aa2d731c71d4f2a447e7ca78024bf983031",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "cd667e0edd23676233e9a29dda50b2a7090fb2ed147e297e083e27cec8018261",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "b7a3a2a3fca4d0d5847631dd64c6b589ecf74a433d3ac942c0ba48f18be3e1b2",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "4d7a83642b6f4cc0b1413768e0234f46e081f482c5eabfdb23237849c4565f50",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "08aa5cf43281a01a45c530d940f2e2f6db9a73e759bf8f63e710346f268bffa6",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "c825ba30c18d63932c37d72f2e7938e2ae38071a2d6b4ab3a0afd3ba64300893",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "18c090973dbd61d319f6a09939c61a2e87aa29c6fc7c0d061f3085ac8bda23d6",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "eca93d2cbeba43474c43b7fff73a5cc4975f157f7108be3c9a779d1e45b70fa0",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "68c072837c858a31adbb3c489c9af31268f9d90310d84a215650ada3226014c0",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "7ec991b43fce47b768a2de7fc0b9a2bd6f56276436687ebd6196509c546c756f",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "ebf0ab4bff91f615e6d47626500f263c880006907a0c185cbbab8582b2c11966",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "1fde8c6ca4fb81294d5c46e2e0fb8568404fb90cb5a1198bbde4b0d0a196f893",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "4b9abcbfd84d28e973db43ac7f9e3f730bdc19318637a1e0d2cd110d0b24d964",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "6d5478ddf4896c487ad0006951041b91b2de007c34e240c45d3384410314d455",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "2ac6aa9541c9808b71b9876e0cdae660ec57507f0b13bf0f0a5177d5939abb03",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "d1984a0d18d234b855d675a0ab4f9922b1fc9a8f16f972b4094517e8af3ea18a",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "2ee9599e20986d4fb333d0d66722e28aa63ca28955cf78cadec2f8007ac58cc7",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "9fd7bd3f4ecbca489c0ec9799f2aaaf91b751756faf2b4f4c086261bcae4cdac",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "db5ab97348ea01c55b08b101f5b3fa8dbbd88b1ea5f86b9793c985416b8fc035",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "ce464dd3952b655c8b492becf81b88207e45607d3195bdfbce501bb6afcdc06a",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "4394c4d979f8ad72769528e1800539b39a381942c9ffaee61272d9a11c7f683f",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "c09360fabfeb9edfe7a527e8da1b675c052b7dab03b0f3dbbcf2ba1470d52910",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "7786b306624c88d68150b5901e5a10ec7b34cae85a639aada96319519b4708e3",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "53f6acf168835d09f1b6bebf129f38c11386441ea77a9aa35d28c9ef34e7675d",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "7b0d67c7884b2c1fc314fe9bdd85a3aad4ec75c68df7ed43bff09a7154693c24",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "dedf457481d91d6cb578b0772ef22d47b24d90f558ca2519f396374047eddbf0",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "2ac722dc709f6b049648983a6c6315ff0ed61d1591a760857019e325b5ee2e72",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "6e0ddff3741bca494af1f54f59a86b29c62131524f511bb01ad5d89a76c17266",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "664a10b695a943a362eec159a38b3d4588c0e08fc565bed6d4136b36f43bbe29",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "774f78e82e45551e51db39742623d3c812b9a30b11d59971e9f30b63c64b4ad2",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "d95baa472e08db483feafbe0e2b12088080c7cfcce318483675df0c4fe613c53",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "4f0703b6e25c163bfa2963bb6dbe28154d84d7ccd6621d2c340625e7479c7b28",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "edb3f5f128c41cd18b8b16ad953b74569805213307440a272b4360a71cbb2450",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "4fe6061ea7f72b775c4c17eb7c63cfb61d7ced36409a89f3f3cba2fa24e9b0ba",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "aa7475b108c9373b6de3d83187c93439f018747a1b605c69e8914b77f428a61e",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 220,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "5f75e584cfead45fb7e773fbedfb10ba1fdf4f6fd37895a460e9b8d172d51cde",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 223,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "8a2e94bea9038ad0dcd33acd6ff7d1f64ee520175f4f4779764cc318006bdb1d",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 176,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "dcfdaa0bac6ce3848407fc38893dbad13a79b21ece9f6ef69d504b0dbc903ba8",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 219,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "40a0cb1297077edab80aa6f8cfb20c3236cf6424b8b79eb72f65b7b8ea21239a",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "a6facccdfadf15474678efdef45d8f5890d031951f36bc1cebe34d0c09ab4914",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-scrape.webp",
+  "sha256": "6a6489ce499ef7980c658172fff0af35bd93c643166cac57f9ebdd90a91982fd",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-scrape.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "e864c9994d500ab2003c824396607fd38e280dc342837e62def84b7010730158",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "b4526003a4853c7ed7381664ded29ade528d451c32d51075e98f25ce09862bf3",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-tape.webp",
+  "sha256": "6e45be30dd73c1cd8a6ff24d3066906afdfd36389c9a97923c85a16b7c1d58fd",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-tape.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "2879100551f19b4ce244bf5f206a355365f798c5402b1fcfda79481f0c635e33",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "9dacf1009b37eaeb08770c9d951c71e0553f98577fe8b39a7f263a2d1200243b",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "70820e4b2620e9f63dd1201f33c5e6376f7aad2aa4207d6b171f7247c72b7244",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "7dbb5068ac6f1aadf1ade312012c729c33755c540b30b4daaf80ff67b560a883",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "e0b2e91bf355c68686d3d47f1e2d6765cbe1a0fddd446364d837e417a99cd18f",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "83569469cb768ecbaa1877089f1b4a6589ff2c8bed8ae62c9ed5168fd0b0e7e7",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "2a5274567caaa17353e5c77764d012a5dca59f4fb2bb25a489ca82cc822bd530",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "f443929351dcc32fbb8df52a8a85d06bb24cd5b3e64354956d1bc7e73d4bec15",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "82f867a2bd4f575bb3588f4b9f9d8fa56dfc8d7fca18d2d6ec1e835e7abeed22",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "5cbf407758bfb4e612802cc01055af0ff64f5ad98c964c92cf12294bd7cf5352",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "f0eb4881be8d8ebc5f37058403c1de3c7630b80fd222dedf40813e40b6c3471c",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "aa49622e54bebd97735557b3629304e4599e906b1e8de5192749da0ef90111b6",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "d0d970a8c2ed705abd9754f3fe3b3557556ab0cfd30eda0926e012c08d5ea2a4",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "062a91396a399d6506a6153ff15d282ba4c4e9a2bfb28a6dd89519924162c755",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "9d7917af1536a9b2be64ff47110e4bd9d59810a02f7fdce376125b2d3c009eff",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "481664453e683d17e28b163eac8b5a47d40be3b06cee52950850965e4de5f8e9",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "85b4b9de903a0f2e065cbf3805503edd959edc940473a6fd776a83f03e4af88a",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "404972e70ff31249c4eaf3835615becd3bbe9eb5ad14dbd7c572456bc269f212",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "18794c774f373367e516a674efd057e9f88f65ba6c72a09577981fd6050b0f2b",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "6f0fe9756cb1357fbbbb179986cfe26a788290e8aed6b1b2cbda5fbd0e164dcf",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "0f5e23af3aace35719cf32d9b22629cd23139202570aedd2036695c8a49bd1c9",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "5bdbc576b1a7107c4538e2420192242b1cb869452585224718f77a2280adc8c2",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "312f5d5dde60470db4dd38f2ef28dc404323c80b84235737afece88640e809ec",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "5c6490b5d41efbe475b7b071bdc3d4a8b53e59070891f2e577f965ee48d1e8dc",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "e0e015dcf3eb9b1869f4999afb52af8a8e0c194591329522afc5c5392da83279",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "f8bd2f09ac6aa48ea91f7f18ccca37c6aa6391e67fc06c1f5fb394e1ad320fdc",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "ce710b7e235090f8fec41c13d7f30444b3c01757dcbba3d3984ac644c198c04f",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "565b97cd6d3e24a2527b29345de404589ce9fc9b7c638005bfe3565dcc2ddada",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "bdfd1ffe96239658f250e17fb2bdffdd21e2cd551e2f7d31d78d713d85f2b767",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "17e24e1f22335b0c994d5e05e8d38a8ed85e8d7d8449fcb7f183ab30116a23c8",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "e550aabe01660d7acabdd73eae28b195753ee74f7d5df023b11e62c292f6bb0f",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "3ac68eb8d1928b11ae228b10547a8ed6e6363d6eb11e3d04e68fbf6983ef7fff",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "62fd5e72ae193dad05e9aef48edbbceefc665e49725137fd7db490164ba1fd35",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "2459f7186a21845fd8ce0e3ab68f6f429e38c77fc625b9fbaf2e65f9c7b641f3",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "be31b8a021df0a40ada144923f5be89fccd46459601f06a0d96abd537472a7ad",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "e3903420a5be918ebf772e33d43b811d64a82f6bdac536eadf16b6541ea0d689",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "f884e2164f7c2aff4478e3dd666135855f018024dda4150e434eb5250dba81bd",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "835eb36c39192179a1701e84ba21f090246aa2736399ba83c39590d28a0cf59b",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "278a0b958f59f10a7c84e97d6046c3e428974940305f39190c27c241072dbdcf",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "9ed9b1851ccd165eac35789c682d38b44e0bc6c7533ec9da520e1e1b39de2728",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "acfc8512e0d08b7ca8cae7a36ed3c14c9c08e80da98524551ce45fa6782ac2e3",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "692680a49bedb466d7deed452a5d31233450fef211f88223916dab5038190f54",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "900bbf81a2e2c9ce1fed46fa0e00b464a314e2ee2b805873edbc9875431b302e",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "83d9b86c2a844a78385bfe6b890d58d482681c1b302521dfd91d97acede40e23",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "79c9a516eca35180675a90f3bae1f408831202b601d7194290bc75fcdee437e4",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "1dc589b93417d393cb63b5825f359cbc14d3ded6dc5b264ab385dcb5680cd4ff",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "d692a4d00a150f1926cd904283f99690442fda027fedd919dc2b05244b2bed19",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "0a2de9933db08010db7720ed77550bb17856d167144f364d6f8aaaaecefd4d8b",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "42a43b77e053d6330ffb5c1272690d8f575cbd0f343d1f5e45e0c3afa39f1ce9",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "ee0f695929144588b02bb9efcd6d691c2e3de22e2cddb7ada52a2d948c9768cc",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "effb3e8dcb31a56e6d27798fd9aa5af0126af600f705dddefde14e55460f9722",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "bfc8c084e35c3a874f2b47a5e7bd4822eb9c05adc2a0e4fe0ddd980c8891e197",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "b54ce470e6ce7fcfc412c8b906578f8f4ce9d20bbf1b66458ba3b6daabc7151f",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "e5990e991569571ec279fae0cf0225debe165a333c87366bebfc6517e9e5f63b",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "ccc61070b1b6f4ec0b4404cabf6372b0bed2fa248a2069037f9174ddd435bc37",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "ab3c30ec2019c51e99f90809cb615b1fda316a771391f77a75d0e74ba1675057",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "0703a90734ee1a19c1c9fdf9d1f13df65c8711aea84963c345582da4b1d80f0d",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "05132d7879f0277fa4e33467fd5c115ac4b9a016fe2b7e751c6d9ee79e970325",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "ee8df1a79050295867b0f4c76ebe9a4f9a0a250f758611740a2fb8101ec3bcf0",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "f53975f0479ef76b6eb5b626878541643785d3532d3f5761293697cb24ef607f",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "9f46e78ea88f7c9bf20b8abb0e28dca00be4ff6742d0f0bd00aeb15e58928f6b",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "ba7fe29dc33301f06554bf2079d352adaa4ce031a7c10fbc6d8036e2239cecbf",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "c5b2a2e104df49debb471aa3bf497d00e223fe3236faac25c2b8c671df59a08e",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "c9ed6183f645ada06e3443630a8efe94b6e8de5e2ef593c5d71f31eacac61fed",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "8a1ef9cd86e72f76d278ee474d4650e45332330fb61f7800e3fceb0e957f79ad",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "0a1753527fde7f067cce5a9bce7b979b11da812105d84d1701e19e050fb71367",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "c5680060109553387b223bcd3e4908c1b28fe16fbdd8da991e00532aa9d08aaa",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "063945acbe2f2b207ec7e9ed5c363383fa6c931fde7d76a88c64af65e51aa58d",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "50d24ec8f89ee0e588dbc51f43a63c2ec104f7ce9624817fc31f269d9c54338d",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "f0766c944cfc71a2614d25666de6ec64af3ef4a5797957033d58b24babe3fc65",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "9630901a80a56515141d038087e792a95e726e88ce12e47fbd49135f591b891b",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "87d9688ab1ec64ff3509ad3109ae45fd534b9143481cfffed7a4dd55476bb660",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "d418499ca8af188dff8446022ce5a4ec39d058539fa1f81165377e228ab87be2",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "2b1f87f14904a9c68a657ff94d26c938e01140718ac63061ca0cd42dd0049fe3",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "0787b09f9c986a2710463ceabe06526c75f4f629220f86e3cb75207027efe13f",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "34c5aabf56c21186010d2c0644d15049ec2eada12d043a3c989dd7ff7b8cbbb8",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "8237d520ea825f2a7c7cdf71ba6e8ec604a5afb0c3758d5fa4c9574a2922401b",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "dd0443dc0029b6b2e0efe32f4ec8f5d7af22a983f99fef0be644aca1d120d793",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "a4c05b177b0a276bb62eb179190cb3f40204a5ac525e3b80ef8bdbe32d41716a",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "e5d511c1aa7d34e1b4188f70a883b3100d9c9250c87f12ff16787babb3dc6679",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "4347d6a618bc3ade40aa7ebbba440ec92f26bb32ed1234f5a078863bdc56a6b8",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "94f43e5af8785f47d44f971d22aa2c3401244905b3f3eda2b3629a66cc2b304a",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "4e066c9e75ba3aa88b1bf0cac327381a20c037d5af9a1b6062fcf68c16afefd1",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "6f9de156dc54d110fe9bd0b4d109b833f7a1976b280fd555d683eb579e740daa",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "0a2ae53d5c720ca38c526520bf5bd8adf8059389487f120f57c1c3cc425c08e8",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "468f5d03ae64c0c1b5ace5b7cd09558f8bf851eb19ee6431a769027cde9dcc92",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "c40f57d53833577875e7674cd118d6f069a73ecbc5af26c46fca2cf6fa446aa7",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "cdc7b5916ce9e19b6fae57adeeef8bef37daca54a0064b3e7c9dc7500295882d",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/neo-brutalism/ui/v2-ui-tooltip.svg.webp"
+ }
+]

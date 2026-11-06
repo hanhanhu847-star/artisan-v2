@@ -1,0 +1,50 @@
+[
+  {
+    "file": "illustrations/v2-scene-1.svg",
+    "asset_name": "环形轨道船坞",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "模拟终端",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-1",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-2.svg",
+    "asset_name": "跨湾单轨",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "轨道航行",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-2",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-3.svg",
+    "asset_name": "模拟控制室",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "明日交通",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-3",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-4.svg",
+    "asset_name": "外行星温室穹顶",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "模拟终端",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-4",
+    "credit": "new"
+  }
+]

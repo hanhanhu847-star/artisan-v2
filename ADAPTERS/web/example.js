@@ -1,0 +1,3 @@
+(()=>{const d=id=>document.getElementById(id),s=window.ARTISAN.styles.filter(x=>x.id!=='shared');s.forEach(x=>d('style').add(new Option(x.zh,x.id)));
+function load(){const id=d('style').value,theme=s.find(t=>t.id===id);d('demo').dataset.artisan=id;d('title').textContent=theme.zh+' · 图版收藏';d('illustration').src='../../STYLES/'+id+'/illustrations/study-01.svg'}
+d('style').onchange=load;load();d('form').onsubmit=e=>{e.preventDefault();const value=d('name').value.trim();d('name').setAttribute('aria-invalid',String(!value));if(!value){d('message').textContent='请输入图版名称。';d('name').focus();return}const li=document.createElement('li');li.textContent=value;d('list').append(li);d('empty').hidden=true;d('name').value='';d('message').textContent='已加入本次收藏。'}})();

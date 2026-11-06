@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "316b95bd7ff1a7e2ad9065438fdb23434a0b634cf9058dbef724c960d7cba210",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "f8cd6df1a9c22680bd817cd89fbd5c17303ba81073f2d6eda53f9d4cab022827",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "69ef4721ec95249f3b2e0563a5aee5f1f50f3b6c3a24704790dde577da1a8863",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "1295965081711dc27205923b173482c014d439df6f019f68d217a7a579102aed",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "460a0792b64c17e3a5b077b650f126db4d5875fb37a0a73cf1340ee35519124c",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "9c85e171032f35b2dec4f2e680d6b81c8fed29ec5eadc6516bdb6ead370a7869",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-dresden_station_night.jpg",
+  "sha256": "8bbf9ece8a97a601f58f06d74db0faa12376c40c949e9b50bd585fd060ee3717",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/photo-dresden_station_night.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "11a979fad2a446fe6de13ec9033379da33b8da44a0954fbf27bba9236ef95001",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "5062dcac5522f7ec0a6950ecee08d74f9e05c0a193d2a9db94ab8ceaa6350452",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "94c3b346947863768da5de9a85d3b85be03ff60e5aa40de13e84482a3da935ab",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "019c19e7bf37aea38b50ccab431faae946d6bb2b5b276601877a37edac7923dd",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "9c067f2023cfe695b664c09d6485e0723fca7d96d78bff3380cfcb22944e1d56",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "e4666287a5ab34a015b40c6364206641a28ff35f5430c0775afeeddba5503308",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "46068394ecdefed3e2a0eb6b963301967e3a8084f6b5645392772fa04a15423c",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "a0305b7d68e84ee5c7345dae1dd86b844e09516518b784803e92e058183f90eb",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "0b75bfeeef2b09a9d4aa314317081f599fcc7e8c95de452f893e1d30e3ce74e9",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "c03be6e780ab7b843f1821377af37fc332862dc6448c0ebfd09999c183d6ad75",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "55e1afaa5397531fb28d28e442f868601d2e607b6fa32f142bdd5788e3c8e8bb",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "d7e968ac616224f53bdffc5bdd9901edc9845b8404dd9ddb23b676adf45efa21",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "3d077bd27f8dbe129d9b46f0b447e147017ca53035ce8851bab7fcb695bc7ef6",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "1ed9ebcb49ac940fa272a800ebe8f7fc4d6159a44a76a204a7781aed1c1b5a61",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "cea17213a1f19e76a0e4e617982bbc62ea50edbda94645ac424cf81aa333e6f3",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "1ea3b2392f8f9c80cf5b242ba2645f505985d09fa5e367bcd5456e1a4d0aac61",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "3c024fa839fdd68fedc280aed8c156590fb0c7124c089d48451bfa70bfa8895b",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "ccfc4676e73dfc1fceda46209ec26d2cb4f587f4ff1021eb96ece19fad88cb6d",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "b1f3ef5c008046f28bbfa90b2bc4e7e56456dd11fc6a5010ae41bbf1d8714de7",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "af08227d7aaa395445422492b60e6a866d60c13cc8fc832ed43a29ab12fb2a04",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "eb1328d0b40bfe48e4d1d590db3b3890cef37e241ba0fde7175505cb6ffa8787",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "99da6773d4eae82e56850fe18e6dee29e1b1be93a82e66e7c50496f816af666e",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "2bc949bd9702410d7f97ee748b046d6030e988bbf794ea59eda90debf1e2a92d",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "5f378117a7774947ecff38f0eb8a737f543f30a34386de98221e48209807e9f5",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "28b2ca43338572f39c0e61560230e5e59e1884f49c14d44ff7db3655464b6fa0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "3eb291d02ec8e3ffc7cc00a902b0661acbf35c33105a9499e465174714eb9fdf",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "eac2ab15c93e8c67efbd59817d0fcfc9af29fcb3c0d9c7e956feccccfcfb029c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "07ba1eff2b80d41461a885c954389a7840a662ce51da7442bc8a9c760403d4c2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "ac69a0b1f34d450d9b8970076fe5a4f56a09ed46629ba4842e3f6d8092681a6a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "288894d1902524248b766c1f9f41a5e4e53004c87a6af5add49a6b1cf2acd503",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "23c4344924d0bfb21a7577cabafcf3f12001b03375733b8d32b7e02e8b0cc17e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "30414408152ebbee8a41eb444497c60bca5278ea92fe2d48ac811a369522522e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "f5e9700dd89f3c9a1a56589a5a3d87482b837d281e75e2d63b6808acd425764a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "1c862debab9724c3b4b6d27d9f544cd5eb23eae683e05567813d1c99940ee2b4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "157eba8843d8f786c235cc69a224d96a8953de23c21637e0fa59522e362755ce",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "e9bb4bd6e205ec970d8cb4f71ccaf3fc67b16b191f9d63d2e18cfed5a72003eb",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "61c88602718f706ae6eb841c71dfefd52c46fcb91a316bf07cb72ba6b6d72605",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "62654647aa3b69da1c93dc58b39bf1fc5492938f4e75c8540357a31953d935a8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "9f79089a08df531766b2c934790ce8cdfb307154d2da175c986294c96b9bad85",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "afd738e3bb3226cccfefccd9625aa65e194ce18a342ea4c9e3cb7a73c399aecf",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "441a01389a613859a8e97f93120230517bccd94cbef61de9fdaae9a4a2b718c0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "2f9b7d4891e6302de740a85d3e9eee61d1a3beb7ed968ba32e24e528efc865b2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "4eaf049e086d9ab99a82eadd1c289523e889660e73d906a8dc0368481d48324d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "3c6a2e28cc2dee957afc8d8323c5e6e0392ae4be309aaf450ebfb5ff60bb1639",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "c5b126568d6b29503e967e030c7ff8a41700202b99968e08f6e5644881e3653a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "254ad828ca21451338d62696173d936d0c6b73736108c049b4b15cb6d09dc61b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "1dba64aab3507ed171bb18c06af4f1baeca03f1d821679013384d36e7fc22600",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "96e832239dd8a8edf133107944e81ac9b18a00ff06c6382e495a9de327fcc2b1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "e05130991cd6af206bfd114ca8309f1ff766aa4d54f3b37da572dd75b08080b8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "65c88a2eaca73112692a476c48918817647cd341d5ffd9d8e610a96d9f2c3014",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "2c379f76a08df7e13d671ddb8afedc010d6cf67a5608535f265bdef367e895f6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "62c2f6227023026eb8993b1c73e550d7997994563d5c23e7a9fc155f5a72e159",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "73734540a89dd93dec88ae40f2b43f914773dba0a135a838e43901b53c55a9af",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "c046c61960b49d20324843285bc818a75cc744328c53d1eb1912cd099416a464",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "81aa9c2e264341d46e009f5a82a24c8defaf9a163fbcade3e2df165a61152311",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-lightbox.svg",
+  "sha256": "3122400097e6d61f1bfcb610fd80665945b3164a129b30741b547fedbf0d862d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-lightbox.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "9852ff49c273e95c77ffd003cbb3e51bb7af0044ec5c52b447e9ec7017dc6561",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "a6abbff04ceb318c0685e045fd83d2352676428c8e31fdcd136a66b64d76fda5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-packet.svg",
+  "sha256": "07a025c6363d8e2bbe48e4c22d4bbebc6849cdfda36cf2a9f5396edab214a455",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-packet.svg.webp"
+ },
+ {
+  "file": "icons/v2-rain-gutter.svg",
+  "sha256": "0b13c20a79c7a616d4ee488a2be7b62c27c9b44d8f1d8daacf862380f87fbe7c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-rain-gutter.svg.webp"
+ },
+ {
+  "file": "icons/v2-reticle.svg",
+  "sha256": "a73b99b4a3856e06fce49680b463965fd54fbbc92399837cbebfcde1461e6c12",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-reticle.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "acfc248ca598587eba75b54c44ef3987a823e9f7aedf0e882b142e06257ce65b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "7edd1aced42eb55e1c558baad7081708ef082caeb66c00a3537ffb3312906cc6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "dcec0ed5d89f590014468dfffa04f0765dc1d2203e447452348dee0cb1b75fc4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "34216ac8b47b205c3d837e7be1810d9e985615cf044a7e1c68b41bf4610d131d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-signal-split.svg",
+  "sha256": "7d3ec3db0099b91e6e426262461c2d7d9ae78eef2608adc423c9c872c239f7a3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-signal-split.svg.webp"
+ },
+ {
+  "file": "icons/v2-socket.svg",
+  "sha256": "3ffef29554776271400c2e27c5f14be19d1117ee3a59cd662acd96934962cf11",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-socket.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "4e852d244dc75c7bdbb084966548f2acbb11cf3613ea3aef85cfb80abeed422e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "25f6d17123981332a6a9e91ea6841c8e4844eb67c39c4bf2e8dcdb757ad175ab",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "26a46dcac5ba6ba11abc4cd7b33162277029329bb386967bc550ebb4ab2f6b89",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "738378ba43e84e7802893fbc6d7951abd84a3abb52e5842520b01a8056517648",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "bff9b6c29a31f10a78681f0fcd57ed531602398b1af28150e35a20b6b11249f5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-vent-stack.svg",
+  "sha256": "5fb39f10896f2a5406ed196a76844c8d4b4681da84f58b30c2ca9818cddabeca",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-vent-stack.svg.webp"
+ },
+ {
+  "file": "icons/v2-via.svg",
+  "sha256": "b440079bde1d9fb49f75dbc7f1bf5adad4b0d7c07218a9368fea410f197ee499",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-via.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "bfb47ef321ec989fb37e1a1e410a40bcac3ca30968648a8efb299d565898dcc0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "c8f27d29c4e4ac9c136e3f01a676d7890cda6469cdefe6a007850485b31b28b6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "047aade9631576162a8591d9bd67ad54d8a892512cc0aa5a61a88c98e409cb62",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "654df0a35fea2bb37e0d39ca6d832440dcc96ddf69712b2cd6b98c88f140b783",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "4798ccc978258609db74c52e3a1669549b8eef43eabcccce48012079c0e67c0b",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "000ca2f0e66f86560d5b10f9ca2a42d7c63c7c1b8517c3cee0fb3203b747a5af",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "67a36a27897fa4184ac959880dcbdb84709f67d422fd4faedce03397ba4a8b0c",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "0d9f3287d79528a4500628e9381d40108d37546f5453cf343afdd44ab0b03a02",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "3cf9187598fbaba014593b72998829d939dcdd9b1344b461f9e0830689026286",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "635944a2d6c65b0d186aca063b004ceda8626a374b1396bcf8115da8e6cf0347",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "3ffb627efc50e1680d9c06d4078e8a7dbb574633a6fc0dd25c91fc48b1c27458",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "9323448f25c39be48b1c3ddfd6bb7b0b541bc0a6ee6d0fc38442b20dde5875fe",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "0f55c549163613682534baa77b7e5bb07585a4cec0b70f08fa717d3068b4aab9",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "5db60f35cc899bcad70b17402b31469d77c3485d3cc231351abf075a95588b30",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "cb76c59ec795cf2f5897cd5c6edfd2f76a3edd0d01b633b158bb67b5f87159b6",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "2e4a3a531f798774df127f7969d2e91ea4c0bb88cf8a5e62ddbbc9a84c3f16f8",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "c5fe600afaf34ea3a50059ffa42b176f994eb92a8d57f16051ae32826b34363e",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "3472991ceb0b79cd242a2ec3a1ee21df06c3624ec65b0ca13541680bbff22be2",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "4b3087e9054472d15ae5de1fd13006ade0353175b0f7e144a19dcd1456f92018",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "642d3e61f19fb92f5034da553ea27106a76405ec260a713e950bfe4cf6153d61",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "2566691d96f7a5a78fa8527fee2e5a9e3d6eadd1aa44e2d6270a1de782cb4402",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "c8de429eed9b1c4adc36471d9ebdac441950b000ce4255eadedb140db35cce77",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "c363293d8865e109288bf6ea80b0a670d484f8c234d8aee4a51e3e8ece4de067",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "08e4ef2dcb7c01de275c57eed510492567b75288f8ccad1e6760a0e55ab91a24",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "1478342a3417b6121f3be20640c3f85bf32d24372c3ece48f98aec8453417f7a",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "82482cced78028eabf02a2a3db1efe2e347c0253261084897a44be8d5ad323ed",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "71ec51036b58ddc5ad5e813b9b01b97d3c3d70e2fc8cc6b8296d9378c2639119",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "d5a69b134a5728bd989d16349259d53aba968022fac4b11a3daf918b8adb7ef4",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "c9161828c2e42b272ba75746507b93a0920c05e9ce044914e9ee250337b7af87",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "702662016cd8e2d6512a66df2510e70f8f27c6d512bee8d5c74e8b2a65d59699",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "1fdae51905e1f80fdb51fdf285e9cd2495977cb57d24ba9e3dcf9e284fb9c082",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "2aa0455c7213424eca9ecc462b5861524ba180a5c07d2ef33f3c721f9a3aab58",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "db178422a4836df05dce446ab560314ed5abce2db38798328a4c28ec59094584",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "c1956633ebafd0a1562d1187e4c546256f42e718fe85b0acc4d3ffcccf360874",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "b3b09c20c226b631979c425c2e9256c6626ce94cac011f0228045cad936f91dc",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "be85dfb59fe78fa946d4769a1a8d295a9949131bfdc49b5c7e7fa7b7762275d9",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "94d35ad445416cd730063a9b59d1e86d907e8f641c31ee52f110456eadc07e6d",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "9b04eb9154d83611e468a7f4ed8c7ff49f0a61e6320ab42a8614d15c6d1f2104",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "d41bbb4a2ff220f19668799fd127936efdb6432aceaf7a17a8ed5c4e27e4e6b7",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "48c23400ec0b7cda13879a18e6c57bda091d6e5546bea6260ccae7e807f3729a",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "3029aa1e1371e05ff38b91beb72b4ab9719223dfdead169522ca5f6cadf593e2",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "ac08af46c09f5c73c2d04953aab117536750fe2f75976d15faddd2ae9afcc193",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 247,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "4973ac07931bcf1efa8a6b2bab24dde4e890513e4e0b9ec603e78b3cf7c3860e",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "52bfc1bfb623a4c8c89ef7312d35e3fd86cfcc9e7e2e61135b57effb516d3dac",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "ae3012d137abc42bef11e41d4f9917224f5ce4ecf9832610b612571256bb9680",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "0033b602ffc3109c25e9b232a62b82384a00799e50979ab93f78d965b7c57f31",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "1a62406d6d9a1b81cd815a0496771a35fb2e4802fd1432b71f75a46515abc0a3",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "38758ee5f0c22329e7c2cf0033db15267c74fee7f7a6e88aa2f20a58e6ba7f63",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "390a39e94f8b924ab5cb362482b6932a30d25f7d46d0ce7c76455ef840d423de",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "2b2223a1380963f43ce9ad21853461840b4b2c05f19d0aa6445aa309dffb7991",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "6a650b5574bee6c23b419c3647693b433ebf615f42c2c3d3e898a2aa00309921",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "d5e636482e43e62d4b649bfcf3310ef4f37259ebebe3b2ee3e7aefbb83653c1c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "6ea37968c7f09a8be781c6e8ca2be2c596889c2b7adbdcf5086059b45518f3a2",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "74c94be15cb8df81af6edd2f7e759303fbb590981aacdf245e2f769e6145770b",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "63749019cbe503eb594d5708c65375ff2dbd04839d37a2bf363667f4c73bcadd",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "71e36baaaf066ad7fbf0fc4741b9401c7dafa2ef312f4f0e6f8cb9eea1d430cd",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "757a727ff93d641d03936ef7e5aa6a1debd234d732a6b6df993a93036602d626",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-flake.webp",
+  "sha256": "9fbbbf7edc62ce3f5ead0b94e92cc7ddfe6ce8a1242ea45fdd5109b80d53041e",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-flake.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "ec6f6fde79294965bc49eac4589abe3f177de59c1e5e009e101285baa3584d62",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "56c1f63d072efc1b981d73bd18bd6cf790886238faadd908870c4bcbd194a36b",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "625a3f9306a6f1b6720aca8e00d5c75148f5c4425b5a9a0b6fe9775579b33793",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 228,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "31e3c7c844f038b84ed56e74d683d5905cd24e359430ccc426f4ec9a1b16613a",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 232,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "a6dde938c5ac8e1fe7949152056f87170a90bb3bc56456d517fe0a0c1c603fb8",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 190,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "db41e2bd1638229bc2c6d4ecfc9f9e150e65c2ec5cd60cbe537168831557b672",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 215,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "7fce07ca3f52cf397ad7e1dd880c3cf52454d0700bddd9280bc8398001464910",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "211174e5b1c5fa4fdcaf16827b54b9c338b32cdf5c3270ab986aac24c2d48ae4",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-prism.webp",
+  "sha256": "b87ed7ed9a20cc750292b0e764ff1bb3c3ce604a0f63659b8dcc2ff3fb87d99f",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-prism.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "146ace41e3cb1132ab7446e6c3324493f316b138af4bdbfb6b2afc5460ab4b09",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "142dc51c054f3bec3f143448df2d77339a22bac458d53b4aef3d780517122ddb",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "a467efbe861ac922add8ab8faf1336f42e67ee891dd5ad1bcaac226080bd29d8",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "de161ee4f05300966583b858a7a54f4b6bed2cfc07eaabd14de96df0f677e012",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "d024f2f743e45b0e892f4421749ad41a53bbb234763b755328c1b98ba03d6bc4",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "8d3e44a05dbfdc91ae32fb69955827f7e51b938ae781e72047d63ef533179db8",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "3ba330531be51abbd67f19bf635f939bf0d0d5c43548edb15677659b3b20fe7d",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "1fbda6e474c39efd92975c848698884fad5fbcaa503ce4e21e270ef992c7f8b6",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "d74daa98205858487b5b55348aec169de8aadd4590acbf9dcd46c3b9580c92da",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "1861f29d81bc7fc504339ca2be9bd3672da928a79f4039b755814c39be99c135",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "dd8658c13f655033548948949bb0ac3967f5e2d04cab7fdbdc0d2b5ccaeff8ed",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "e358c6bf303827059a1464dcfb744932a5a4411b8ea023b3d8a80782cc1b9e09",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "018968d6a55ec56e1b55b09a149c76cc8ca736b177a7119858e855c446e4d2d9",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "8418354ed92ccb18a15d181043145ff0ce203d596f5d1a2eb7324b9a1e6facf5",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "9a12966ae11000f45d85e2f687ec5825192ede0792c6ba923de464417cc26f26",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "0e9eb28a05625af4560fdd64b7a7e84c580b11601fc7f8adeaed1930ff681006",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "a43d7c23efd33db79e7094edf0036ec5fb321953d8626b23bbe996f9999a7a78",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "47f215158af8c16fcede5c4f0c96e2f2a14281bb6d0de7d7047b793e494fb8fc",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "a2e1421f6eaa5585087fa83140c97e75db0cee26213ee61222efc91e7cc1a180",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "c138207feef9632f57dfbd00f50677614b2abd72b16fe61f2a7ee2ebacb86808",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "59cfcccb411f99ed7d4009f13c1ac79dd81283081d0de92e38328d9bda1294e0",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "1b3637af876d7edbc5997983f483f6fb53e7b40aef0b88400c0147d2c9cd00a4",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "1f13769fc89f501175035fbda817a256bf7c2e3b0da7a88fc0c18bc2c6a21a64",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "381ed44b199ebf0daf6e4f1d811595316d19d6e8211020dd1ad8ae157113c826",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "19b618b40b237cd7d83a19b28ae517ae0d7e943a80448818927109d43fb09ecc",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "5668acc0d8273f828d8f5b45ed07495e5f21cefcbbd4824486418159a35b28cf",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "5c68ba6dd08d30e0ef3b247c4ed4093bab826a700e27f3741543c2bcdec5402e",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "803c601d34f73d216b925f5fbd6060773e78595a69ca008fbfb41fc438aa318a",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "cf3bc7d61ff5ce40eac058bd484ec615811811c1dd7dc4d2372466fbe5acea63",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "0c430c20a42f13cb4bb5335b48dd73339d060160a5fd549c558bc5d9f73c04c8",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "38fd8ed4bafe937f59129cfe868b09d891648bb3b46ba596a2e87ca819170bcf",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "c3f50851aba1303e911812f816cd70ee07ac920e3f7a549db91dc7f4f33f6fab",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "ba4535dd6a398241bd0e63a2d95129923b43950b792d91ce3d73aaf1a10cddb9",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "41e679c726f26cc45db7e45a5bed7f84d2d7c34ce4fe23c9955e7cf0df302859",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "e7a8253b902886c92d7fe4b99433f2fec383028cd94569c5ca9ff7145231020c",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "191764d6ab149fb4d7403304b98b208518f1ac7d8046ecf99ab6cd26bb26aa10",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "0fe7ac03a02b046fedf865f73b4acf9d4da15c9e19ce7157538cd2131806ff62",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "fb4fbe255a26ff24dd19c19be2e2c5f95927c08af4413a242c0e139940d5d2db",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "1885900092bedc5e9ab10919a83bba166c4019e0478150c89098d556341329c3",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "f575c2fdfa6902b55bdd4464cde7d211ccf9521c738168d474acbd30196d1d8c",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "d96b8610217e57ec542afc33477e76ebb745b952a307acf8908fd5f26d61f688",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "c1ca06ffb4977e93397b33b9454ad7408d07b10adf138c7faffbbf985ac2a87c",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "e7351f335e4573bc9cdce0e84d1ee2aa31a24817210a06b493ab1c5053aed994",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "f4817375a8efb6d8721e65ddd60342b634b1656dfb4867a593c3a708964b5cbb",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "b294c96c891307f8bc14fce3dc09a2c0209b24b37758ffe23e366400be165d9d",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "7aabec04f69ea0674afb3d0f5f02ba2590f6c0f5704d87a554004f8ddadcc92b",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "e180e93f62327f77ad88aa86d4f3749027a852f4d74c54e9f709839f86303ad0",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "3572b3986389774d4956573678fc733cad51e52b1ed0ba48026bedb922640406",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "6b798adddfbc4f0cda542cfc17f1748aa21d630c2a35f18267a2674f968574e6",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "07302fc7e26b0f1571caa1308e1ded3087eec86e9c1b5b713731be931903ae75",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "703b774d713cae54319e364ee1e0fa5f8b28351e85974372a04f2ca01f9a477c",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "e7b6cd6353e3ef709cfa6716ea8044ab97dd6347c791938ef3806030d2b1dac1",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "8bcbd37ad94941b40af33f7694ad2709490982e7157fa46e5103b450738f0d1e",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "a29851a192de15d355d83ed8d7d859f6a945ef248694bcdc886c18e4c5c17307",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "95d7a9cac637750e1dd4c01faed5ea59e5c5d1d752ef620331c168e2cd911cd2",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "a6450ab1d2ba368256d5a7daf079368871e8d2718d3e3896c1d06b8cc04b2b40",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "b83cccc30002bf1ef84b55ef9895ef4a3cc73d9c2835fb0dc611173f295731aa",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "bfbc3aa293e2e84a50580f7db91781a38a11972b6b45267103da6f6699d5b78b",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "0882dbb3a5ab114a28a708157cced4c38ce50d1610ffed7687e87233bcdfc56e",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "b81fb2741bb45448c52680d2e0fee9913b84e869b0825a77e5c904f51edda241",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "084bc7f3abb60c19a67b20defed5a132ae28403623353cf9e37c34f493687a53",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "d11213ed713b9b9a073a011747561dc1e29960c05003c24d3532c6f95b63d6d3",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "f8fcb55b84e26919684df12cfcf81c306a6fc286179a21d01f521633e24bbb81",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "689609e0d3751879548e52f4796ac410fb8d58907106d0ab087c1157601593b7",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "40291badb261807d74e1fca091eba79e6e8f74493cf800b44a2e192b534e32da",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "3d4be87ddbf8f368135c77ba9a75c16daf0f0587c8f6d82cd4ab05815d5844ef",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "b50a361b2906c66bac6ad687e689f7b0f243f319584716e857799469784c3d9e",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "a7fe8629c4e7f51a5bb58614b3a8967af851f689fdc4bc768dfccc639fcae19f",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "b0331aa5d7a9e7e9e837b11ebdaaa105c32e883b760adea74d8bbf75e58c174d",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "ab8cef4da7a36a87bc3fab96c77e0d6e198e3e9280c29159e0e7c2a8cb72084b",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "84ab071e8dbed837e21bcfb988bdc74c5c08de4f089d5e40365fcb776ba89d35",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "da9a50f759bf2be31ae78cf0a47d0d3036deaaae5e9d1f4c75f1089e35c8b535",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "d35de4ca2b78b8d8a7ea416a39d82a08c1a26ba4fd0502d4f5f6fd7a7b732c45",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "5bf8a0a2d9d32c7e4e3a351029bfafecd95f33a95c761bdc7020202981360ddb",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "b6243d35301ff29db5c2a0c37216f343d8d38c6c55544a5fccb6e77e38e497c5",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "000da7cc389ba78b69fa43bd5b90a4c52900f1e173d686137cbecffa3f789e24",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "ca7193782d23ec1bf0c27c249b1aeaa3019da4fe5fd40d364b6641e93da65390",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "962edacaa107114b1017bf1ba43271a5b81681bb1f5636f17e308b22b8dcc09b",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "361f6c6944d81eca2beb9e23920ccda5b9149d99dc70618b2bd6908352f57a1d",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "cec44579d0b6de893be92673c2870cb2f4586fad5a8b3e62b4c3ab0ab8454bb5",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "0ea2f9ece0f3d6d38b805168508b57ed87fe3e0697f5ff0c6b950b0ffeb4e1c7",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "a2d253fa013994000bfe03f98b74e471b1d1affabc5ea0186e0ca1b2ef546b72",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "1d68bacc5a7a738f56407795679ea357809d1be9800ad1075ca5a3708cd3a3c0",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "d223fbc7259e5e270eed9a4390711d0e561b2a0c95d41e3b8ebafaac05c4f4da",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "35010a21eaa7b608a1e6062a6dc0d6a58c5c1bb39747bbaeccf9d8191dbbd7b6",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "a7165105ef79151419677e54ad4517c32631e8cc655269501272c6a92f979698",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "a4d67f0ae988fa2508a8e08e7001bdd70225faed9e63e3978603f404f432a848",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "03874ba2d681b8c9ecaf7ea3949e30cba11e0cc35c6ae6850100446d98ce8971",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "7e60bab5b03c1d96fd666a1ebd6a09391838987aef93e6b387dc7b927202dafa",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "67ba0776a5d4a9856e05e5a74ad19aa644b15dea97e89cdfe27b59c18cd891e7",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/cyberpunk/ui/v2-ui-tooltip.svg.webp"
+ }
+]

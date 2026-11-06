@@ -1,0 +1,50 @@
+[
+  {
+    "file": "illustrations/v2-scene-1.svg",
+    "asset_name": "双飞飘带",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "藻井纹样",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-1",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-2.svg",
+    "asset_name": "楼阁莲池叙事构成",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "壁画叙事",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-2",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-3.svg",
+    "asset_name": "壁画设色工坊",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "矿物色工坊",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-3",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-scene-4.svg",
+    "asset_name": "供养行列研究",
+    "intended_usage": "完整原创场景或主题图。现代构成，非对历史原件的复原。",
+    "series": "藻井纹样",
+    "role": "scene",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-scene-4",
+    "credit": "new"
+  }
+]

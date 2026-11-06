@@ -1,0 +1,92 @@
+[
+  {
+    "style": "bauhaus",
+    "status": 200,
+    "url": "https://www.bauhaus.de/",
+    "title": "Das Bauhaus-Archiv / Museum für Gestaltung"
+  },
+  {
+    "style": "art-deco",
+    "status": 200,
+    "url": "https://www.vam.ac.uk/collections/art-deco",
+    "title": "Art Deco – Explore the Collections · V&A"
+  },
+  {
+    "style": "swiss",
+    "status": 200,
+    "url": "https://museum-gestaltung.ch/en",
+    "title": "Museum für Gestaltung Zürich"
+  },
+  {
+    "style": "neo-brutalism",
+    "status": 200,
+    "url": "https://www.riba.org/explore/riba-collections/architectural-styles/brutalism-movement/",
+    "title": "Brutalism in Architecture: Origins, Features & Legacy | RIBA"
+  },
+  {
+    "style": "memphis",
+    "status": 200,
+    "url": "https://www.design-museum.de/en/collection.html",
+    "title": "Collection"
+  },
+  {
+    "style": "editorial",
+    "status": 200,
+    "url": "https://letterformarchive.org/",
+    "title": "Letterform Archive"
+  },
+  {
+    "style": "wabi-sabi",
+    "url": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "style": "dark-academia",
+    "status": 200,
+    "url": "https://www.bl.uk/",
+    "title": "The British Library - the national Library of the UK"
+  },
+  {
+    "style": "celestial-atlas",
+    "url": "https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "style": "dunhuang",
+    "status": 200,
+    "url": "https://www.dha.ac.cn/",
+    "title": "敦煌研究院"
+  },
+  {
+    "style": "cartography",
+    "url": "https://www.loc.gov/maps/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "style": "natural-history",
+    "url": "https://www.biodiversitylibrary.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "style": "retrofuturism",
+    "status": 200,
+    "url": "https://airandspace.si.edu/",
+    "title": "Smithsonian’s National Air and Space Museum | National Air and Space Museum"
+  },
+  {
+    "style": "cyberpunk",
+    "status": 200,
+    "url": "https://sf-encyclopedia.com/entry/cyberpunk",
+    "title": "SFE: Cyberpunk"
+  },
+  {
+    "style": "blueprint",
+    "url": "https://www.sciencemuseum.org.uk/objects-and-stories/photography/anna-atkins",
+    "error": "The read operation timed out"
+  },
+  {
+    "style": "generative-art",
+    "url": "https://www.vam.ac.uk/articles/a-history-of-computer-art",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

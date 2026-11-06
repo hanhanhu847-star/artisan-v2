@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "36acce9fc16da4664ee112837702bfb3cdd1e438d6cf492cf234d6fecfefde43",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "0cc965d6a076f27ca9b45a69746501c887a87539ad93b3536ea0092c38d2242f",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "470ad93741d5db9252f240bb33ab27a177ac2c799e22bbcb6b649be83d77b955",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "add2d18c0995834130e39da5187d926d193aba85684ce21af1595590806e5aa5",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "e8b55d7682109bce086d14dbda41c5523f39ec9920e42dbaab2fbfa8665d82f3",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "8487547bb2381c88789a66f5c41bc277f327d1a72f35c4d10e2995a316f475c6",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-dancing_hall.jpg",
+  "sha256": "dfce3df2da2038ca9b807e7db85bec9f39e87a0500f24bf8927e4592d7c00a19",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/photo-dancing_hall.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "4cd39590852b38e0a82cc8cf5da26607bb10cfcf99313cdd1bc3a4890827d9bc",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "bb3f71aeeeeb26140de8a2972837025bb689c1665e2ecca0dd940048aac8847b",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "82c2f75d341f782dde0be0f257d7c08f836103b5ebefb39fa8f21dc3e11e497f",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "a572d4f1bd0b1f0c8d852e9ae51df509186f2f7d981c477f0b98186c9999550a",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "3dd1772b546ce4dd6d3167e3d992e4f3a10553f1e5c2d17b2cf0f3cb0b34ea7b",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "6b1514e6d9651cb6fddc7a5a18bac3aeece15141a6651aa6545e1175ec2f12da",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "d5f9595b76f109d68651a93866984bc740f40f49b55d0267de3f8cea2fd254f2",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "9492bfd11b88af84fd0e177725a80a01fc0c254270fbcda43de4fc9f2802b843",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "95f4faa31987ecf05a3a103e1c2c8fab012fff7c13ce3bdd763212603540729d",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "b6a6cca64436f5a7b6e10ae4445368ed89f71a9289ba85ab5413f4af1b910264",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "2c26c00b4faaea1a85f5d3bac4f2f82a38de4f1bff70f95a30bd4e58cda83f3f",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "b03c221589786a1d6a3a15e0db2bea156a754339a341438b2aabcfd79cad45d3",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "2e694182cea10b33313e345608c09a263cef3dc985371ccb9cffcec1e9763fb9",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "d150335304bc7d4228c5a0bea343af65a9694c7bb5c021e3ddf8b65abc9282ae",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "3836625d44c7dc1038c04317d08b6e3e84ad381db143cad3da5c1fb80371dd43",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "75bcd0ec8269c5444c24e0757ba3b24f65bc5b23d8efd9a2a5fec9ce3a87451d",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "6bbb03b9c91ebc2583eaa5a813014fc3e8a6e5bcd28a5651cc127d0ff3590798",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "56274b00a99528308f3b7cec6486748abd34a8b1da93c25735f394f187d4f626",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "c3f3fc428861933850112834d89febc2e7c56e113f4e6815403ed22d2c97584a",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "3125b27e87df5181fa641eb1ee56e01a9246c862402ebf49e0165a763d8a3d6c",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "75143959982f81f666dc7fade9a9d95f100bfe4cdbf693da6849a621fa290de1",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "de6e1e3c747cdbfe2c958ce0a4b9c325a329c56076a500e2302810c3a644dd42",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "86d4ead23f4aa78139e1bde457ba34f383dfc3f1b6889914c46e557d7ec59efc",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "9cea456a6eec1411db0f18170811f441cef5386339be75aed625120252f7b6ae",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "a9bebe4a52530169cb7173d1e5a361f3704dba1e36a6f86a32fe0258bea2f8c1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "437d31ea1d1789cfd7d25b1dbc0b56bdc21d420b59b59ec3e3862454dbbd9e20",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "d56dbd6f1b2694a816b54f396cb34767ea34dc2bdd4f7888dc31282d7dc95459",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "a001c041c52ed9c3c963d44e6cd530c5b84bb2e3454a6c0a298a5ad1c28573dc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "a95c5128489bcb9c750b94e4afd77163c8ff9ee5641e5c5f355dac3748134fc3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "97b2d2cb0bcce5047bb5a2775803c4fec3675710e74f8ff06e7ca046872274b8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "3026eadb3307ccb577c9571e2ea66511000d2fcaccf3d72d7adfc98c3547fa71",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "b5c8e8dcb9e7ade94a72126422a23a96a1139263cccac113db50e02b57b323b1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "a0e24b656b622aee9113c83cbdb22c2d2949851b96819cb5872c1926578484f2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "574abb071539c43971592fb896212c025233d714d08788b9c5a06a81e3117a46",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "ae1da65b1e0c9c9bcb39304ca29aa90779a4acfcaf81bfd595fcb550aa6fad5f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "e3b501e6eaaf726978a310a24fe6b6178c930099f226068f84d77ac8d8857a34",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "4d541905cba2796760f4b73b67e6f63444454f97b304ac4e68fd6b562d0de325",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "47c69b271f7e3de9f4bf02bdfb19ced03c552150a25750f2e868fd5384eb2c53",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "ab95e6ef36c5d743f460e28e0a9dbdee9f30859c385b088b103fdb7e4b5de52f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "4544643209fc243361ef66d2e4b271d3743b98e908d1540976aa889a7d15f3e5",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "1d0386f9ef5777bf03c087ab549503be2e784ac2da8add9c4a2b1ef232227698",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "7ca55a41b678711cba31187bd833110bf86ac01acf3ca6a0cd9f9bb61e4d640c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "f3b97408761970068d1651e6b65b82a30102608619d15aa1212902ca32e09b10",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "edcda900efbd95fea1dc211df0bc80b2aa0d00d6642ecadedf8cb23eea2fe2f9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-brass-inlay.svg",
+  "sha256": "0035f8c18c2d7ce2d15cabe5bd197d1efff69cea7905b477daacf501e4531f76",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-brass-inlay.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "3bb5de4d7836fb992211a8d6c109a02a6cd90bcb806b15e2530f35f4874e314c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "c0c43f81dbf818f2792ea07f18389efc944335c659344b6def22751e7145c541",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "ca6c30a043480c87ad533e1ad892d1088752fcd7e8dd196620e0c2d05c1c49de",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "a67f8697fec4d4a7183a751600af5ed71de2fcc59f2221bcc92fc67a7f484e69",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "38d8109d021151178cdd1527a03225ada35a79fc2aa6695f77772ad176a7dca6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "ea9a760f1a14dc5a109f65155c3c6212d2aaef7f73887de2d936d32f16020222",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "43e74b5c1687537e274040aab3fba151ca0205a43ffdbba38c670158de43682e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "7de8368fea1c48213fa4139879f8ae67ac34d7d2e368fda6a3cff66f107eb636",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "a19f9c430bf716621e722694837e4a972fc44981f1403726f8c265162abf0763",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "e65f911c7a0b189bc680ad78a35a512c9f126492dca0b28bf3681ba46177076e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "2001fead7835db5ceae03f8bfd7b23a1ea5e09a3279b8beba52115e242c0a69e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-lift-dial.svg",
+  "sha256": "ba5dac0ceaa0c8c43b77b4fefe92ab4cbd6a0aeba9579afdb562690244caac10",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-lift-dial.svg.webp"
+ },
+ {
+  "file": "icons/v2-lobby-door.svg",
+  "sha256": "2b27441cb41b9160b961ebcae8c45c2355b89ed6efa65c8cdcfca769f14f2206",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-lobby-door.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "e92a5373cf0db2b3589ef94d986186528ebfd284074f6c2f391ea070ab16c7a6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-marquee.svg",
+  "sha256": "20eaaa3ff20d09525063c823ae13f819e9088a430dd90b52341463303afb395e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-marquee.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "f8f46e07af939474af99b607a3d2a4fdb48e26ec58b66f39d4598d731695d925",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-opera-glasses.svg",
+  "sha256": "5fc9bc3f8c527bf6239eabffa1e37decf47136a7f5961a4e183c2730d691d421",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-opera-glasses.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "196aed09089d7a85916b909e3011e3d955f72de0ee2eaec245d0663057f344f0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "960566b13a8ec471f6a84f8dae6c062b98764764cc928f79a80b87ff9d7af9ff",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "4fec0a47af1166c462cd8f8a7f8c1d147da34c369d40dc94eb90af7307da65da",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "c7c043a9d02d2da4e9842c2a95bd9a46d7dc4365585d3e47208bf489a1cb7007",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "e1b93dcb545ea0132f2bd1e3acdecebad381bdcca13b92b9f259236b50c8d4da",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-stepped-spire.svg",
+  "sha256": "04d1c014b939304ebaeb6389dfb3c81c73b317cf1b476381ff4231a98dd72344",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-stepped-spire.svg.webp"
+ },
+ {
+  "file": "icons/v2-sunburst-brooch.svg",
+  "sha256": "75e93cb89fc1c983d10adfb57b2fbd8ebc69a7ca511a5fc2665e16b824f65bc0",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-sunburst-brooch.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "fe03abcf7f0716f2e7cb9ecbea6eb14f87c07e8b6978355bad19eaedbfdb0171",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-theatre-curtain.svg",
+  "sha256": "760da6c28ff9dcc1d3616b02ec70c0ed20e17159fc2e71fd821252ada60869d1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-theatre-curtain.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "00962915b1dca06df80cd34d96fe2c2a327ed468e2f4c418ae834b9f27a0868a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "2431d11ddb450c21932ad9545972b3d575c05c109fa16f6744dff778c80a48c9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "699d819b95edb7a600edfa249a00c4d1fae2142249d80a438070b6197d7820bd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "64b5de0ef8a86cb405810a2c7311e8ec8c3ee7326c25ab833328e66c57f90421",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "f4fcd6e8914c5c62091d46ccd29faeaf0fb4b497a1cc19c094bf1aab26e8e5b6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "5ca1414fa9c0b8be68d6a04a5f481bcc36f0f49374b97b27f3a1f4148eed78ca",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "8c65e8dbf1d099c070df9a2741abf19e518baf9d8b34b6ef9fdfcb1f6b0a1d6e",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "e09abaf45bffc8e02a7d9d0b47059b424a5663cbe23b4ab8380c4882aa12acda",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "dd7a0ae151f03b439c1e60c48947e8423e3abb54530003b65ced578fbd9c2ca2",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "f9ccb6d134ae626e428b7e66f48a36ab8c082fb05ac62f1c8c8562360e170139",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "e1fc4dbb2875514cb3c83cca5904ffa1de8898dce10e590685ba4f8d09313e94",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "a4bfa7ceaa419899c2db76d1fb4952f18e492b94734310480c37fbd721cfc3ea",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "0a2e59b11c3b7b8f3edca31ff20b81def8017c17c5d03e09e3d345b110a46d9d",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "a4683694779801fc1f9fdc0926b0bbe5cc70c660fe2029e50060a7ee6d8b6e3b",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "f4d61019842840f8b86dce888cc9a9f45fd3c606a4eff0c8efdbf080d93fb746",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "e2598555d816e546aaf77af7c34d87a75d3d4b9b0541239fe80b0b17641e2f89",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "a587b78fdec9dc2b819931816429b8dfba960b17b61ba3a0c5e37ed8a9a10234",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 242,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "972e0a8630e1ac1ef1c8439c73ce836d4ecf9acd31b246fc842567572fe64d52",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "ca39a49c31f025eaabc817aa2511a0398a43927b9953d946932bea4a2117b920",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "ca3a8416be40a54dee2390d6ac6eb86f2ce1e2fb0f6aa64a7cb28c83bd0145fd",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "7a48c8d1b6348c860a40e43a76beb0d28d12001921a8d0c96261fe8343d808c0",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 253,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "947d9800b44584c3b6e40270c97a6e9fc57df50c8caed86dee5e84079dfe9a57",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "2cd74e2e2ed2d913cbc622069c0a6420a40f2c6413be9afcf3c120a40b322aa5",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "57b4bb28926e9405dd3dcbe86f199b96f47976a289152a956d052e874a219de9",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "f05999330507e9bde334b380e5540721522bddbb84b32fc9102dc96ea4ce7e7e",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 226,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "e951f34ebfb7f18fc38d0091a019039b802d61cb13b2eb186e9522a34c78b11d",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "5c689a0c8775ff033f97e6c140a9116098a24bfc21f0db3c0aa6dde7a22f1c87",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "743102193701b1acfeef694a77558c901c45a18ec469bfbd2545968f13baf27c",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "4b875547f3cd40255ba46eed80de6f19d7f5bb1fa323d5db91caeb44be2f2705",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 254,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "c357356e16796f102c954ba122999670f7c9ea677a62a5fbf9d36e7e96df1ff7",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "ed7ca2280f6e2e12e87736f44b32a4b8d49aca2948e8168c2b978f5dced29033",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "00e04d1dfbaa609d139108bd718e087afc9abcbf79d7780188605e798699976a",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "b552022eef2df3906f6b5fc803e3e0ad43a58e10641011390698ddbd23fa9c3c",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "4325a6a9d59ebfc492ad9b428d7a021c99463878e7e5d5eb4c277ce2764d5d5b",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 251,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "ecd568c90a92537accaa326390b2a6a03710298cd22e7496d9a8760d89152977",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 253,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "a244fc1c02513928d8268e9a18d4ab736cf59b23e64b2adf55def08b6c423014",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 215,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "8873bc1c6eab558af946426ba27af050c411c18b7ee06bd64788f964b290b45b",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 252,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "f400df913e33c7776115ac9e7b270e11d91c0f73779535b067c26d12cb4bfadc",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "506e1dc03b46237b4edcefddc1a21454da485906610ff89fa9ae6bec79341b59",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "81721fcbefce5ceadd31056beda2a4e6fdffa37f00984f5cf3341974255218ba",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "fa6d533c3bccc5542cbad83a13367557562d286edff551ca5e132a5c244ea934",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "c3b4a8b101b698f846fc9ca19ec7a72a15486ce9872c6a337a23c00b1c0ea137",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "32d2030361a312c91ce1ab06d70d585e630189a423c8fbb0becbda61628dc165",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "ba88ff56b4288d9ebebbea85bfc686a63b303578bc50355183102e3f3c96e25d",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "de6bb5ad69cede499754751f355f3fc357185dc7aed7e270383c43c769ca6f48",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "b7579796138f19aaa943807200b2a9a4a6153597b32cd1d978c8a424c8b4d5db",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "103d315f64fef6ad0df7646d77c24467754226e8268ca3b6edc5d500565fe303",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "d41116632b6c4ae45b4a2673f52b1009c7a59a224f4246e4731a5405a6b57e2c",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 229,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "19b2968cfa799bebd65d30e664fcffbf3a6e9c6b64ebf0f49c71b3723d66379a",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "801ef35414266bf7b4b2029abf9cc5737f594aef64a55398e8fd07779ec2209b",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "07a05052799583d466365ed7d9da536ace23de779c8f439d19e66593c92f8bd5",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "1088e8df7729d1472095ffcc42da09be0b831710e074a453769d371abf1d1165",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "a5550b1b65fea58c1abff10778732067dd01c81b6ac0674c500886a076c1e516",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "ad3abdcf15db7145719700cf17ae77a38bc260a496fe249acb1dd7483ab4c359",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "8ea89c2cf2860633c1acd1a91784cd69c830a587ac47da3246f458fb876896e9",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "8b992435b5c150536ccf00d6286458ac3dfe275c08576f1b9060813bc305532a",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "f9b1b07204aa52788c0ba0a36098736a9629c385d8682176109a7bb95af38185",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "3d086e86bcfdb210c461be1e1899f3711c67ee0eb5d5b67143b199ced6c10f9c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-craze.webp",
+  "sha256": "45b35c8bd63a57f4b36ec2698477c053f5c395a9e0d52e37273aafe41030442e",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-craze.webp.webp"
+ },
+ {
+  "file": "textures/v2-engine.webp",
+  "sha256": "3f57e44e912123f873401d9e24a41937992acf488d58ccd17b289f6dc8b4ebf1",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-engine.webp.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "ee497561b5ba58c2b2603658cad3b3495f20406762a2bf0b92c06452827c3293",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "dfba6035998a4e6b50e43bc31729b3631f10ae8b3373a58468a2a54cb1625842",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "6cdc378be5544fcea2962263c487462dfaa053806620336d385f055ded9ddbba",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "2677cf09fa20e6c0e256038369904f8ead824ce4f79cf0f1613b0decf120fb85",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "5e0a2726902c6a9a3aa281de18725a85d7ca72848ce5be39c7f3c3474c79c670",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 222,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "033aa5b73bd14f1c37b0a8f45b09a4a703c050e57645441898a2359944bc20df",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 221,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "585102f6fbb6f7cffe3952d2435cfeed50139d9acaaf520bcab4a936ee0e92bf",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 169,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "f83ecf566486480f2a99123e359d41e6000cdaa3be32690fe41d406768ff44fd",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "d195bf045d8e1986523b08fa82be15e1be08da45de0e1fa4dfc75b3edd01a723",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "63615098e101f64869c655870b69abee237650ba96c0a529ade2bc0130967a28",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "aace93cf4ca01e6376105118f1bfd6d15f8f830eaf98cef1d4f8bdccf904d21e",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "4c29eebb0412d66f1c5dfc96d4c01dd11f2abdf5658394fcd7239e51d0d9b3be",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "e87f22eb3e2ed76da982f9a90c6969f98aaee9983bb60a6f00c8a35026387251",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "9fee0886975ccc68b3d20059ce593ef72a5a364e301f00f155cc0027437e4b44",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "463ccc38f2492969b9ebc527c85fd4aa09e2b1595336b8489ce2b65d439ff3df",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "8e29d003f996d8a07d1b003b52641df39ec7bda706e15a9b14d3f97a797c9ba2",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "ed81a498d3e56b0b83ebbf1b1154acfbc665b29ce0b1d267376573596963a59a",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "3d86d570f5c563902620112612862af423473e962827cbaded2c46d96d441355",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "ceb5bbf93236901952e00e53bee16eb133520e31147eedddfc0d884d7afb813f",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "a59acbb67fbb592302ba0de44a10cff9f8ecde3aafa97e88d8f348ad508979e9",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "974abbee66a36dd76842c9ba6683a471912ec3710a13ddb11ed6a518cfaa5adc",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "e68b179562133c0f222861db8ce921e3590bd1046611e62544634bbb92992204",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "f031a5770a4ee1dcd5ba2e6b5339e1fed0252e21fd596499072448e57ff1d24f",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "979fed6bf0a5c8bd76e00a88f3c7a1e4037416a1e64111161c320f4fb18ef22c",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "5dca66cf5419d6ff9f5bac25651579cfd7768519eb08ef077cecce7bd208d812",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "6e5036c48778b448dfe7d6f65f261cad95459a49844338c956da307b4b03b729",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "93eb3c821a66e8ebfced1448f2d7233d5ba1dda83afb9d704a759e3daaddabb6",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "4a0244704c25d0e24fd5bc643d9ee21d1ae98b929470f72321e4459006dd73d1",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "56e2f8a1944917052deba536bf8c5ea46d56b8fff1a0591d0c1dfc7c401101eb",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "e876b7c31e88b75951847cef32911eb00c78ca02702c92e26bfe2db4a9b3ae7b",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "8880c9066799ef8bfde36dddd868b796a398012f7a92e4af4038f8ef4d7ce438",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "6eb830b594e0f25edb5c6e55cebef04acf1ba9521ef5f74a072daf7b63002753",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "574aeedb52682ef88fae8a8609e769fc9a2dadad317834841c688926525b982a",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "ee91ca6ea1664479c467c2f992387d58d7330c8676179a7a136b66065377c378",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "a4038a5f8c0be8f6e8cd10375de0c5241f36f2c2af87f0e6489d6953074a7a8e",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "9988099c759035d0851a5f137cfe88b2c56e16940a7cfe63ef3c52433d655d7f",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "f02b097e89f4022b9a330e08be9896ce205ecec7f0fa58cc92485fd904b517e8",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "16d8768d978b3b78fb41edd206fd285e1038804ce707c8f482f52ec3999ad5cd",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "72e75fb37e30592a43ebf024a0fe08cb7c7ccc5f48c3f00991fe06a953c530db",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "f5aa52f0e99728ded4327628cf732a90682b5eb3b3b13ec351b9090a2ed11dfd",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "0113fe4566532928371cb8007218d7ef3fbc05fb1fb2e50239e9204d1749a250",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "46cdfee58f5d9a005a3eed0b0ec8fbd6105ee56a774b91dcd970a7f19e4633ac",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "a29ebed60af7c468e728edcab5f98ea303017786af7987940d48183e5a08d4b7",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "410cbd58d13851ed568d06e88a21bd5e2a37edc50277932466fe272e6d55c291",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "72b407e1110fd7df11d605b1ca8457b0e3f2b0f9593f4cc24a993e1916d3768d",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "9065a6c17901c709f4a360d4d3e0ac5b83afce2bcdc2fdcba0ace42a327939f4",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "f94b96266ac25180e0071a0b189a213025e377aedc260825f27c98d2a1e0a958",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "5c90a3c12748c452ff9839fd5d1c3d31beb1608e75210b1ad891a241e087a4ef",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "3ca42996a1b9f5461898dbd8b57b07a8916be8f81be1ee87e6c9070e8d67d8b3",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "87b056a6b0bff26da956452a90e9f95cc30b5441dcf0e85d03079f3325cda56e",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "35433869cabee4e436df714d7ea1a4cbfe0a6c0dcbf5aa747ba22be5c4a5082f",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "07548fee19d3a0998fcef008de8b6c41addcfb3fd0e3c56f485d5ff11739f1e5",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "b5d96f3f9c7667c3cb2098838df3eeed6b26ce303afd812d32c829afab60d97f",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "16d0ef0b7ee2d89031c6b7b577bfb6e1ee46179625f7e62a88bd391ac156c87b",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "96aa03a33e488dc2baea056c8db5d37c4ab870dbc4164d9d70732341205112bc",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "0269e2676c9af9b920e8c02f3a572c7300360b1e26ba111c0995db3a9e6352b0",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "b9781f553c8c72a41dcd027ef93f20ced8b00f2072dab70aeca6105890a8f229",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "c9d667455629465a0b920d9a9e7fe684a76367d9427a4528028abf8d045ba35c",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "f9521b200dace8314387101d817768ab962159c3b6786f61b6a106a63c101a4a",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "e9d9298b995b091c515be2d29d710c4283f0a13e87cb0fcc45b13f36cc8c39b5",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "81ce20b57bbc80fb213eae42cf03cc361c03caf021ee753722d352d0876b885b",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "3f97d33fa4ee828d030937cb6c92f8839e6810b42b9260f91fc0d86ae2d88bd6",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "05091c9ee274715859d98368714056199395f77e7501499d42f6101766a0fd0f",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "d9b7da655b541fe146205477e0baec4c7bc190fd90131994cbf5fb5dbb0ed26d",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "3f7d08190c9efce0b1aeff8a5b085320f65e2bb5017eb94fd67c5f75928fd61f",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "e7e19d4f79832f7581316cf952b1948047726e3e87bb9325b11a4887f53f42d7",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "1f717e262ed53bd4ac37b7614c721eaa7fc6119b1b6ff861741973ed5cda985c",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "f6fa50b8451d91164b74ed565807eb6f72f011045f3776949733cd4ad9852b01",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "392abb88649a9104acb1ef629f4af15aa494153c83f2a59ca56a928627bba646",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "5a4beb22929750e35ccd5587fe8411674eb66eb49359355653d7d1cb9d75c4c3",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "28f903423eab10633df655ffd38c0e4945d0d80e6b017cfbf595cbea7cafc990",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "fb4c4db1ddaeac04a0e2b99612f82180b27859ecd16c7f2fe01a122f57652791",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "5628ac11ac3d59fc8e7612ea1f4eadef66332e703c19d0df2c4ec26f616f02ee",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "1ecd370f46f854c5b1cb5c9bda68ffcb7e29dccc78f6fbe37a6f612921ba5678",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "e449f24b621f519aebe35e1586d28c2fc4f35571b478a20ee98e125b13d40b58",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "d78d30894e230369410846694a6b8fb52f488c74e61014f7417a8796a09d4866",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "232a66e87d3858e8993b3b43652db28a670b7b6dfa7d340850541abe4ee6c1bb",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "8e3430a652e65a6023b7d41277dcfdd20d35750f71ea4f621d836e3c663d8a99",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "f5d8c81fea5c0a0d63614c233e1db5de6d7ee04ee97f5955dc6f4d8852a64fa8",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "9a2f26adf7917e2259e4ab64394b9c8bf3d7cce7e23998a1b6940d7b4d9c2c44",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "ca3a54ba49b25dcb4fbd3104860513273735c62b814624c05bed8e407f2b7eca",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/art-deco/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "1bd3d23bbf4e468fe3942982a4cd0c379ea1c02bb20c841fb6bf81e9c18f6180",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "9333aaba986f05a32a31af2c4b54aa819292d1b5a8f0a6e106e118b3caea39e7",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "64f330f795cd026ae7f17e6a69d51c0fb0fcc98c932f788e9f2158a9f24e9b1f",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "2366dd092c200111a890b46736e047467af5f9901a6118337622e7333a3556a1",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "ed17ce391fc4e0a2c4c2324cd3a3b70e3587c92201ab6101b61d1cfb274dfa02",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "a18944827dedf92bf8c300c0fefc8d17f88cc6779c672bf424cebeb35b60e659",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "fbf4f8884ca47026cdae6d9fdb7b7effa05fb7c39e798f53c7f4925449a68f20",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "44141576d75c34ce045c869d0d200fdb9e4446a6bdbd2fe0525ec52e15afb404",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "c1fa06d25f54a7ff32296ef932c386e7362b3c0b8ed42aa1d6492df3e04a19d2",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "fd85e9ca09bf936a88752ed89939115933639954d2fe0514e36ee4e2c2bc13f6",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "23880224c5a66aadfeff44388eb8728ff4c8841d42a6830a636d12ac9e54f5ee",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "e36c4d577e7416899103e85273478dac780cd51ccf4dbf500a45041be052514f",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "83a07915277bef1a56762ddcc40c72326f9dda9c0d1be80691694a6d01db2fb6",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "f17e63b06a40150d570363c245838473f53957de1e4418f8d33dbfb31bd71d08",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "fbdddba87f39b892035f4e43a4e94ba4634ff17397d0a8532c8c0e8ef4e547bd",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "d297d3250c6c89e9233778c89bef5a98dfc4d7df90f0bb09127eb4359f8fb81e",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "b294114ce9147549bb34bbf043712eee1a6f9bbf7a88a307b970f85bc4c755e3",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "e644f93c3a29e4243d7bae5cf4c72de390e68f61a020abb4c85aac055c5f100c",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "d27ecb058e5f4ea27a3fcfd245b296e9a12d2de0bb6b03b89e83144b0572cb58",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/art-deco/ui/v2-ui-tooltip.svg.webp"
+ }
+]

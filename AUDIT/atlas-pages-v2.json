@@ -1,0 +1,1210 @@
+[
+  {
+    "page": 1,
+    "kind": "cover"
+  },
+  {
+    "page": 2,
+    "kind": "reading"
+  },
+  {
+    "page": 3,
+    "kind": "style",
+    "style": "bauhaus"
+  },
+  {
+    "page": 4,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 5,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 6,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 7,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 8,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 9,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 10,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 11,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 12,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 13,
+    "kind": "contact",
+    "style": "bauhaus",
+    "contact": "PREVIEWS/contacts/bauhaus/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 14,
+    "kind": "style",
+    "style": "art-deco"
+  },
+  {
+    "page": 15,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 16,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 17,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 18,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 19,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 20,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 21,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 22,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 23,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 24,
+    "kind": "contact",
+    "style": "art-deco",
+    "contact": "PREVIEWS/contacts/art-deco/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 25,
+    "kind": "style",
+    "style": "swiss"
+  },
+  {
+    "page": 26,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 27,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 28,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 29,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 30,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 31,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 32,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 33,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 34,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 35,
+    "kind": "contact",
+    "style": "swiss",
+    "contact": "PREVIEWS/contacts/swiss/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 36,
+    "kind": "style",
+    "style": "neo-brutalism"
+  },
+  {
+    "page": 37,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 38,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 39,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 40,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 41,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 42,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 43,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 44,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 45,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 46,
+    "kind": "contact",
+    "style": "neo-brutalism",
+    "contact": "PREVIEWS/contacts/neo-brutalism/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 47,
+    "kind": "style",
+    "style": "memphis"
+  },
+  {
+    "page": 48,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 49,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 50,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 51,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 52,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 53,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 54,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 55,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 56,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 57,
+    "kind": "contact",
+    "style": "memphis",
+    "contact": "PREVIEWS/contacts/memphis/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 58,
+    "kind": "style",
+    "style": "editorial"
+  },
+  {
+    "page": 59,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 60,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 61,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 62,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 63,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 64,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 65,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 66,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 67,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 68,
+    "kind": "contact",
+    "style": "editorial",
+    "contact": "PREVIEWS/contacts/editorial/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 69,
+    "kind": "style",
+    "style": "wabi-sabi"
+  },
+  {
+    "page": 70,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 71,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 72,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 73,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 74,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 75,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 76,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 77,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 78,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 79,
+    "kind": "contact",
+    "style": "wabi-sabi",
+    "contact": "PREVIEWS/contacts/wabi-sabi/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 80,
+    "kind": "style",
+    "style": "dark-academia"
+  },
+  {
+    "page": 81,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 82,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 83,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 84,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 85,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 86,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 87,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 88,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 89,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 90,
+    "kind": "contact",
+    "style": "dark-academia",
+    "contact": "PREVIEWS/contacts/dark-academia/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 91,
+    "kind": "style",
+    "style": "celestial-atlas"
+  },
+  {
+    "page": 92,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 93,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 94,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 95,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 96,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/05-illustrations-1.jpg",
+    "asset_count": 22
+  },
+  {
+    "page": 97,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 98,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 99,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 100,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 101,
+    "kind": "contact",
+    "style": "celestial-atlas",
+    "contact": "PREVIEWS/contacts/celestial-atlas/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 102,
+    "kind": "style",
+    "style": "dunhuang"
+  },
+  {
+    "page": 103,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 104,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 105,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 106,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 107,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 108,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 109,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 110,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 111,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 112,
+    "kind": "contact",
+    "style": "dunhuang",
+    "contact": "PREVIEWS/contacts/dunhuang/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 113,
+    "kind": "style",
+    "style": "cartography"
+  },
+  {
+    "page": 114,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 115,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 116,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 117,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 118,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 119,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 120,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 121,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 122,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 123,
+    "kind": "contact",
+    "style": "cartography",
+    "contact": "PREVIEWS/contacts/cartography/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 124,
+    "kind": "style",
+    "style": "natural-history"
+  },
+  {
+    "page": 125,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 126,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 127,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 128,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 129,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 130,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 131,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 132,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 133,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 134,
+    "kind": "contact",
+    "style": "natural-history",
+    "contact": "PREVIEWS/contacts/natural-history/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 135,
+    "kind": "style",
+    "style": "retrofuturism"
+  },
+  {
+    "page": 136,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 137,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 138,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 139,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 140,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 141,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 142,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 143,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 144,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 145,
+    "kind": "contact",
+    "style": "retrofuturism",
+    "contact": "PREVIEWS/contacts/retrofuturism/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 146,
+    "kind": "style",
+    "style": "cyberpunk"
+  },
+  {
+    "page": 147,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 148,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 149,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 150,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 151,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 152,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 153,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 154,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 155,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 156,
+    "kind": "contact",
+    "style": "cyberpunk",
+    "contact": "PREVIEWS/contacts/cyberpunk/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 157,
+    "kind": "style",
+    "style": "blueprint"
+  },
+  {
+    "page": 158,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 159,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 160,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 161,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 162,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 163,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 164,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 165,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 166,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 167,
+    "kind": "contact",
+    "style": "blueprint",
+    "contact": "PREVIEWS/contacts/blueprint/07-retained-variants-4.jpg",
+    "asset_count": 30
+  },
+  {
+    "page": 168,
+    "kind": "style",
+    "style": "generative-art"
+  },
+  {
+    "page": 169,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/01-backgrounds-1.jpg",
+    "asset_count": 11
+  },
+  {
+    "page": 170,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/02-textures-1.jpg",
+    "asset_count": 16
+  },
+  {
+    "page": 171,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/03-ornaments-1.jpg",
+    "asset_count": 28
+  },
+  {
+    "page": 172,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/04-icons-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 173,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/05-illustrations-1.jpg",
+    "asset_count": 10
+  },
+  {
+    "page": 174,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/06-ui-1.jpg",
+    "asset_count": 15
+  },
+  {
+    "page": 175,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/07-retained-variants-1.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 176,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/07-retained-variants-2.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 177,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/07-retained-variants-3.jpg",
+    "asset_count": 32
+  },
+  {
+    "page": 178,
+    "kind": "contact",
+    "style": "generative-art",
+    "contact": "PREVIEWS/contacts/generative-art/07-retained-variants-4.jpg",
+    "asset_count": 30
+  }
+]

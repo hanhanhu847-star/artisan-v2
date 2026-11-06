@@ -1,0 +1,9 @@
+/* 暗黑学院；用于 QApplication.setStyleSheet，由 Qt 处理键盘与状态。 */
+QWidget {background:#292820;color:#E9DABC;font-size:14px;}
+QPushButton,QLineEdit,QComboBox,QListWidget,QTableView {border:1px solid #E9DABC;border-radius:2px;padding:6px;}
+QPushButton {background:#B99562;color:#161819;min-height:28px;}
+QPushButton:hover,QLineEdit:focus {border:2px solid #869279;}
+QPushButton:checked,QListView::item:selected {background:#E9DABC;color:#292820;}
+QPushButton:disabled {background:#292820;color:#E9DABC;border:1px dashed #869279;}
+QLineEdit[invalid="true"] {border:2px solid #ffb6aa;}
+QProgressBar {border:1px solid #E9DABC;text-align:center;} QProgressBar::chunk {background:#869279;}

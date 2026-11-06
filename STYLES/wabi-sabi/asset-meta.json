@@ -1,0 +1,1045 @@
+[
+  {
+    "file": "backgrounds/field-study.svg",
+    "asset_name": "土与器 · 横向母版",
+    "intended_usage": "可编辑横向封面、演示文稿主图。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/field-study-1920.jpg",
+    "asset_name": "土与器 · 1920 横幅",
+    "intended_usage": "由同一矢量母版按目标像素直接栅格化，适合桌面、演示与视频。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/field-study-2560.jpg",
+    "asset_name": "土与器 · 2560 横幅",
+    "intended_usage": "由同一矢量母版按目标像素直接栅格化，适合桌面、演示与视频。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/field-study-3840.jpg",
+    "asset_name": "土与器 · 3840 横幅",
+    "intended_usage": "由同一矢量母版按目标像素直接栅格化，适合桌面、演示与视频。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/portrait.svg",
+    "asset_name": "土与器 · 竖幅",
+    "intended_usage": "竖幅图版；为该比例重新排列主图与细部。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/square.svg",
+    "asset_name": "土与器 · 方形",
+    "intended_usage": "方形图版；为该比例重新排列主图与细部。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/panorama.svg",
+    "asset_name": "土与器 · 超宽",
+    "intended_usage": "超宽图版；为该比例重新排列主图与细部。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/alternate.svg",
+    "asset_name": "土与器 · 深色",
+    "intended_usage": "与默认版配对的明暗背景。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/solid.svg",
+    "asset_name": "单色底纸",
+    "intended_usage": "纯色静区，供图表和长正文叠放。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/wash.svg",
+    "asset_name": "三色过渡底",
+    "intended_usage": "色彩过渡背景；不是表面纹理。",
+    "transparency": false,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/repeat.svg",
+    "asset_name": "连续图样底",
+    "intended_usage": "横纵重复使用的图形背景；以128为完整周期。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/paper.png",
+    "asset_name": "日式侘寂 · 纸纤",
+    "intended_usage": "程序拟作的纸纤，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/metal.png",
+    "asset_name": "日式侘寂 · 拉丝金属",
+    "intended_usage": "程序拟作的拉丝金属，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/stone.png",
+    "asset_name": "日式侘寂 · 石脉",
+    "intended_usage": "程序拟作的石脉，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/textile.png",
+    "asset_name": "日式侘寂 · 织物",
+    "intended_usage": "程序拟作的织物，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/wood.png",
+    "asset_name": "日式侘寂 · 木纹",
+    "intended_usage": "程序拟作的木纹，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/plaster.png",
+    "asset_name": "日式侘寂 · 斑驳墙面",
+    "intended_usage": "程序拟作的斑驳墙面，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/halftone.png",
+    "asset_name": "日式侘寂 · 印刷网点",
+    "intended_usage": "程序拟作的印刷网点，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/film.png",
+    "asset_name": "日式侘寂 · 胶片颗粒",
+    "intended_usage": "程序拟作的胶片颗粒，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/engraving.png",
+    "asset_name": "日式侘寂 · 雕版刻线",
+    "intended_usage": "程序拟作的雕版刻线，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "textures/stipple.png",
+    "asset_name": "日式侘寂 · 颗粒噪点",
+    "intended_usage": "程序拟作的颗粒噪点，以原尺寸平铺；正文后建议混合 6% 至 18%。",
+    "transparency": false,
+    "tiling": true,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/frame.svg",
+    "asset_name": "边框",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/rule.svg",
+    "asset_name": "分隔线",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/corner.svg",
+    "asset_name": "角花",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/corner.png",
+    "asset_name": "角花 · 透明 PNG",
+    "intended_usage": "透明栅格副本，可直接拖入 Office、海报或视频。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/geometry.svg",
+    "asset_name": "几何图案",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/pattern.svg",
+    "asset_name": "花纹",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/chapter.svg",
+    "asset_name": "章节编号",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/title-frame.svg",
+    "asset_name": "标题框",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/caption-frame.svg",
+    "asset_name": "图注框",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/seal.svg",
+    "asset_name": "印章",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/seal.png",
+    "asset_name": "印章 · 透明 PNG",
+    "intended_usage": "透明栅格副本，可直接拖入 Office、海报或视频。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/tag.svg",
+    "asset_name": "标签",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/ribbon.svg",
+    "asset_name": "角标",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ornaments/background-mark.svg",
+    "asset_name": "背景装饰",
+    "intended_usage": "编辑、框选、重排或叠在透明图层上。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/file.svg",
+    "asset_name": "文件",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/folder.svg",
+    "asset_name": "文件夹",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/image.svg",
+    "asset_name": "图片",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/video.svg",
+    "asset_name": "视频",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/audio.svg",
+    "asset_name": "音频",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/document.svg",
+    "asset_name": "文档",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/search.svg",
+    "asset_name": "搜索",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/favorite.svg",
+    "asset_name": "收藏",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/download.svg",
+    "asset_name": "下载",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/upload.svg",
+    "asset_name": "上传",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/settings.svg",
+    "asset_name": "设置",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/user.svg",
+    "asset_name": "用户",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/map.svg",
+    "asset_name": "地图",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/time.svg",
+    "asset_name": "时间",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/statistics.svg",
+    "asset_name": "统计",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/database.svg",
+    "asset_name": "数据库",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/network.svg",
+    "asset_name": "网络",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/security.svg",
+    "asset_name": "安全",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/device.svg",
+    "asset_name": "设备",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "icons/task-status.svg",
+    "asset_name": "任务状态",
+    "intended_usage": "64单位画板；界面操作图标，搭配文字或可访问名称。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/button-normal.svg",
+    "asset_name": "按钮 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/button-hover.svg",
+    "asset_name": "按钮 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/button-selected.svg",
+    "asset_name": "按钮 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/button-disabled.svg",
+    "asset_name": "按钮 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/button-error.svg",
+    "asset_name": "按钮 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/card-normal.svg",
+    "asset_name": "卡片 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/card-hover.svg",
+    "asset_name": "卡片 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/card-selected.svg",
+    "asset_name": "卡片 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/card-disabled.svg",
+    "asset_name": "卡片 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/card-error.svg",
+    "asset_name": "卡片 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tag-normal.svg",
+    "asset_name": "标签 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tag-hover.svg",
+    "asset_name": "标签 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tag-selected.svg",
+    "asset_name": "标签 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tag-disabled.svg",
+    "asset_name": "标签 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tag-error.svg",
+    "asset_name": "标签 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/input-normal.svg",
+    "asset_name": "输入框 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/input-hover.svg",
+    "asset_name": "输入框 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/input-selected.svg",
+    "asset_name": "输入框 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/input-disabled.svg",
+    "asset_name": "输入框 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/input-error.svg",
+    "asset_name": "输入框 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/navbar-normal.svg",
+    "asset_name": "导航栏 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/navbar-hover.svg",
+    "asset_name": "导航栏 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/navbar-selected.svg",
+    "asset_name": "导航栏 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/navbar-disabled.svg",
+    "asset_name": "导航栏 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/navbar-error.svg",
+    "asset_name": "导航栏 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/sidebar-normal.svg",
+    "asset_name": "侧边栏 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/sidebar-hover.svg",
+    "asset_name": "侧边栏 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/sidebar-selected.svg",
+    "asset_name": "侧边栏 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/sidebar-disabled.svg",
+    "asset_name": "侧边栏 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/sidebar-error.svg",
+    "asset_name": "侧边栏 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/table-normal.svg",
+    "asset_name": "表格 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/table-hover.svg",
+    "asset_name": "表格 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/table-selected.svg",
+    "asset_name": "表格 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/table-disabled.svg",
+    "asset_name": "表格 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/table-error.svg",
+    "asset_name": "表格 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/list-normal.svg",
+    "asset_name": "列表 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/list-hover.svg",
+    "asset_name": "列表 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/list-selected.svg",
+    "asset_name": "列表 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/list-disabled.svg",
+    "asset_name": "列表 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/list-error.svg",
+    "asset_name": "列表 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/progress-normal.svg",
+    "asset_name": "进度条 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/progress-hover.svg",
+    "asset_name": "进度条 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/progress-selected.svg",
+    "asset_name": "进度条 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/progress-disabled.svg",
+    "asset_name": "进度条 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/progress-error.svg",
+    "asset_name": "进度条 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/dialog-normal.svg",
+    "asset_name": "弹窗 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/dialog-hover.svg",
+    "asset_name": "弹窗 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/dialog-selected.svg",
+    "asset_name": "弹窗 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/dialog-disabled.svg",
+    "asset_name": "弹窗 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/dialog-error.svg",
+    "asset_name": "弹窗 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tooltip-normal.svg",
+    "asset_name": "提示框 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tooltip-hover.svg",
+    "asset_name": "提示框 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tooltip-selected.svg",
+    "asset_name": "提示框 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tooltip-disabled.svg",
+    "asset_name": "提示框 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/tooltip-error.svg",
+    "asset_name": "提示框 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/empty-normal.svg",
+    "asset_name": "空状态 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/empty-hover.svg",
+    "asset_name": "空状态 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/empty-selected.svg",
+    "asset_name": "空状态 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/empty-disabled.svg",
+    "asset_name": "空状态 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/empty-error.svg",
+    "asset_name": "空状态 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/error-normal.svg",
+    "asset_name": "错误状态 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/error-hover.svg",
+    "asset_name": "错误状态 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/error-selected.svg",
+    "asset_name": "错误状态 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/error-disabled.svg",
+    "asset_name": "错误状态 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/error-error.svg",
+    "asset_name": "错误状态 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/loading-normal.svg",
+    "asset_name": "加载状态 · 就绪",
+    "intended_usage": "独立可编辑组件视觉稿；状态：就绪。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/loading-hover.svg",
+    "asset_name": "加载状态 · 悬停",
+    "intended_usage": "独立可编辑组件视觉稿；状态：悬停。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/loading-selected.svg",
+    "asset_name": "加载状态 · 已选中",
+    "intended_usage": "独立可编辑组件视觉稿；状态：已选中。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/loading-disabled.svg",
+    "asset_name": "加载状态 · 不可用",
+    "intended_usage": "独立可编辑组件视觉稿；状态：不可用。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "ui/loading-error.svg",
+    "asset_name": "加载状态 · 需检查",
+    "intended_usage": "独立可编辑组件视觉稿；状态：需检查。交互语义由宿主实现。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "illustrations/study-01.svg",
+    "asset_name": "陶盏",
+    "intended_usage": "原创独立插图，可作封面图形或章节标识。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "illustrations/study-02.svg",
+    "asset_name": "枯枝",
+    "intended_usage": "原创独立插图，可作封面图形或章节标识。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "illustrations/study-03.svg",
+    "asset_name": "砾石",
+    "intended_usage": "原创独立插图，可作封面图形或章节标识。",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original"
+  },
+  {
+    "file": "backgrounds/photo-mossy_forest.jpg",
+    "asset_name": "环境摄影 · Mossy Forest",
+    "intended_usage": "官方全景 JPEG 原件，可再取景。是配套摄影，不是历史流派文物照片。",
+    "transparency": false,
+    "tiling": false,
+    "photo": "mossy_forest",
+    "origin": "polyhaven"
+  },
+  {
+    "file": "backgrounds/photo-window.jpg",
+    "asset_name": "摄影取景 · Mossy Forest",
+    "intended_usage": "从原件截取校正透视的横向环境画面。",
+    "transparency": false,
+    "tiling": false,
+    "photo": "mossy_forest",
+    "derived": true,
+    "origin": "polyhaven"
+  }
+]

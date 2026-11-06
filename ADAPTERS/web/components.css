@@ -1,0 +1,22 @@
+/* 先引入 themes.css。样式仅作用于 data-artisan 容器，不改全局主题。 */
+[data-artisan]{background:var(--at-bg);color:var(--at-ink);font:16px/1.55 system-ui,"Microsoft YaHei",sans-serif;padding:clamp(16px,3vw,36px)}
+[data-artisan] *{box-sizing:border-box}[data-artisan] :is(h1,h2,h3){font-family:var(--at-display);color:var(--at-ink);line-height:1.25}
+[data-artisan] .at-button,[data-artisan] .at-tag,[data-artisan] .at-field{font:inherit;border:var(--at-weight) solid var(--at-ink);border-radius:var(--at-radius)}
+[data-artisan] .at-button{background:var(--at-accent);color:var(--at-on-accent);min-height:44px;padding:8px 16px;cursor:pointer;transition:transform .12s}
+[data-artisan] .at-button:hover{box-shadow:inset 0 -3px var(--at-ink)}[data-artisan] .at-button:active{transform:translateY(1px)}
+[data-artisan] .at-field{padding:9px;background:var(--at-bg);color:var(--at-ink);min-height:44px;max-width:100%}
+[data-artisan] .at-card,[data-artisan] .at-panel,[data-artisan] .at-sidebar,[data-artisan] .at-dialog{padding:20px;background:var(--at-bg);color:var(--at-ink);border:var(--at-weight) solid var(--at-ink);border-radius:var(--at-radius)}
+[data-artisan] .at-dialog{width:min(440px,90vw);max-height:88dvh;overflow:auto}[data-artisan] .at-dialog::backdrop{background:#10171499}
+[data-artisan] .at-tag{font-size:.8rem;display:inline-block;padding:2px 8px;background:var(--at-ink);color:var(--at-bg)}
+[data-artisan] .at-nav{display:flex;gap:6px;flex-wrap:wrap;border-bottom:1px solid var(--at-ink);padding:6px 0}
+[data-artisan] .at-nav button,[data-artisan] .at-sidebar button{font:inherit;min-height:44px;background:transparent;color:inherit;border:1px solid transparent;cursor:pointer}
+[data-artisan] .at-nav [aria-current],[data-artisan] .at-sidebar [aria-current]{font-weight:700;border-bottom:3px solid var(--at-accent)}
+[data-artisan] .at-table{width:100%;border-collapse:collapse}[data-artisan] .at-table :is(th,td){text-align:left;padding:10px;border-bottom:1px solid var(--at-ink)}
+[data-artisan] .at-list{list-style:none;margin:0;padding:0}[data-artisan] .at-list li{padding:9px 0;border-bottom:1px solid var(--at-secondary)}
+[data-artisan] .at-progress{accent-color:var(--at-accent);height:20px;max-width:100%}
+[data-artisan] .at-tooltip,[data-artisan] .at-empty,[data-artisan] .at-loading{padding:12px;border-inline-start:3px solid var(--at-secondary)}
+[data-artisan] .at-error,[data-artisan] [aria-invalid=true],[data-artisan] [data-state=error]{border:2px solid var(--at-error)}
+[data-artisan] [data-state=hover]{box-shadow:inset 0 -2px var(--at-ink)}[data-artisan] :is([aria-selected=true],[aria-pressed=true],[data-state=selected]){outline:2px solid var(--at-ink);outline-offset:2px}
+[data-artisan] :is(:disabled,[aria-disabled=true],[data-state=disabled]){opacity:.55;cursor:not-allowed;border-style:dashed}
+[data-artisan] :focus-visible{outline:3px solid var(--at-ink);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){[data-artisan] *{transition:none!important;animation:none!important}}

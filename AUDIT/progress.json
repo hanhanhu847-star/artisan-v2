@@ -1,0 +1,738 @@
+{
+  "bauhaus": {
+    "title": "包豪斯",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "几何印刷所": 45,
+      "现代建筑工坊": 21,
+      "实验舞台": 33
+    }
+  },
+  "art-deco": {
+    "title": "装饰艺术",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "剧院之夜": 45,
+      "退台都会": 21,
+      "金工工艺": 33
+    }
+  },
+  "swiss": {
+    "title": "瑞士国际主义",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "字级与基线": 45,
+      "交通导向": 21,
+      "信息网格": 33
+    }
+  },
+  "neo-brutalism": {
+    "title": "新粗野主义",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "街头张贴": 45,
+      "铆接结构": 21,
+      "地下印刷": 33
+    }
+  },
+  "memphis": {
+    "title": "孟菲斯设计",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "层压板工坊": 45,
+      "玩具建筑": 21,
+      "舞池节奏": 33
+    }
+  },
+  "editorial": {
+    "title": "编辑式杂志美学",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "书籍装帧": 45,
+      "杂志开页": 21,
+      "编辑校样": 33
+    }
+  },
+  "wabi-sabi": {
+    "title": "日式侘寂",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "手作器物": 45,
+      "枯山庭院": 21,
+      "植物与和纸": 33
+    }
+  },
+  "dark-academia": {
+    "title": "暗黑学院",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "古籍装帧": 45,
+      "阅览室": 21,
+      "博物馆档案": 33
+    }
+  },
+  "celestial-atlas": {
+    "title": "古典天文图谱",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 19,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 120,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 22,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 124,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "古典星图": 57,
+      "深空天体": 21,
+      "天文观测": 33
+    }
+  },
+  "dunhuang": {
+    "title": "敦煌艺术",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "壁画叙事": 45,
+      "藻井纹样": 21,
+      "矿物色工坊": 33
+    }
+  },
+  "cartography": {
+    "title": "古典地图制图",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "海路测绘": 45,
+      "山川地貌": 21,
+      "城市地图": 33
+    }
+  },
+  "natural-history": {
+    "title": "博物学与自然史图鉴",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "植物图版": 45,
+      "动物标本": 21,
+      "地质档案": 33
+    }
+  },
+  "retrofuturism": {
+    "title": "复古未来主义",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "轨道航行": 45,
+      "模拟终端": 21,
+      "明日交通": 33
+    }
+  },
+  "cyberpunk": {
+    "title": "赛博朋克",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "雨夜都市": 45,
+      "地下电路": 21,
+      "数据终端": 33
+    }
+  },
+  "blueprint": {
+    "title": "工程蓝图",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "机械装配": 45,
+      "建筑测绘": 21,
+      "管线与电路": 33
+    }
+  },
+  "generative-art": {
+    "title": "生成式艺术",
+    "original_files": 130,
+    "original_eligible": {
+      "backgrounds": 2,
+      "ornaments": 8,
+      "illustrations": 3
+    },
+    "upgraded_families": {
+      "ornaments": 4,
+      "icons": 20,
+      "textures": 10,
+      "ui": 14
+    },
+    "new_families": {
+      "backgrounds": 9,
+      "ornaments": 16,
+      "icons": 12,
+      "illustrations": 7,
+      "textures": 6,
+      "ui": 1
+    },
+    "v2_files": 108,
+    "eligible": {
+      "backgrounds": 11,
+      "ornaments": 28,
+      "illustrations": 10,
+      "icons": 32,
+      "textures": 16,
+      "ui": 15
+    },
+    "total": 112,
+    "count_gaps": {
+      "backgrounds": 0,
+      "textures": 0,
+      "ornaments": 0,
+      "icons": 0,
+      "illustrations": 0,
+      "ui": 0
+    },
+    "series": {
+      "离散生长": 45,
+      "连续流场": 21,
+      "计算几何": 33
+    }
+  }
+}

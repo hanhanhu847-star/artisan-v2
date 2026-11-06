@@ -1,0 +1,38 @@
+[
+  {
+    "file": "illustrations/v2-object-1.svg",
+    "asset_name": "双臂轨道穿梭机",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "轨道航行",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-1",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-object-2.svg",
+    "asset_name": "磁带终端",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "模拟终端",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-2",
+    "credit": "new"
+  },
+  {
+    "file": "illustrations/v2-object-3.svg",
+    "asset_name": "单轨车头",
+    "intended_usage": "独立透明研究图；按图层编辑。无历史真品或实际加工尺寸声明。",
+    "series": "明日交通",
+    "role": "object",
+    "transparency": true,
+    "tiling": false,
+    "origin": "original",
+    "family": "v2-object-3",
+    "credit": "new"
+  }
+]

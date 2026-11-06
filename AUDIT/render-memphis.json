@@ -1,0 +1,2382 @@
+[
+ {
+  "file": "backgrounds/alternate.svg",
+  "sha256": "e5ba1ba3681538d45ae025263bdbc7d3c984722e4dc5c0f08e009daad98ee5f5",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/alternate.svg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-1920.jpg",
+  "sha256": "b2f2fe5623a67e316d06aa8b906256164418de19f883c7b0a3d70e76ae19d149",
+  "width": 1920,
+  "height": 1080,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/field-study-1920.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-2560.jpg",
+  "sha256": "c800a2c37f547428a87719cbeecb7d313d2d5c9a165dfe7e0f4eaff7ec1a1401",
+  "width": 2560,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/field-study-2560.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study-3840.jpg",
+  "sha256": "620217aa3371c715e9a99315f648a80f3db754fa8ac382e324a4eb4d35d42ee3",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/field-study-3840.jpg.webp"
+ },
+ {
+  "file": "backgrounds/field-study.svg",
+  "sha256": "7eb57b5550f1613286d51c6572b1768ceadb7d45b3263e39c34480d17f4e59e3",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/field-study.svg.webp"
+ },
+ {
+  "file": "backgrounds/panorama.svg",
+  "sha256": "2b5674696c9ba7fd3144a68cd36a033661cd5c7b13dd341d8105a18228d81444",
+  "width": 3440,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 114,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/panorama.svg.webp"
+ },
+ {
+  "file": "backgrounds/photo-colorful_studio.jpg",
+  "sha256": "18ffb9d08294a4f0017e9d9b8d6679398cffdb7c7ada304384d73ef2dee54e0d",
+  "width": 8192,
+  "height": 4096,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/photo-colorful_studio.jpg.webp"
+ },
+ {
+  "file": "backgrounds/photo-window.jpg",
+  "sha256": "b2d55d6cb3842f3052928ef7e08ec26d5fb2a999ee20d2f7a7248abdd4e5cadc",
+  "width": 1440,
+  "height": 810,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/photo-window.jpg.webp"
+ },
+ {
+  "file": "backgrounds/portrait.svg",
+  "sha256": "8b645bb354c94e5a44891138d58cb88dd56cb14d202ab6494d88929417bcbfe8",
+  "width": 1080,
+  "height": 1920,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/portrait.svg.webp"
+ },
+ {
+  "file": "backgrounds/repeat.svg",
+  "sha256": "1bac4f636d0108b403d0b79b75b0abb2a791a7e7e511b0220d1180969947fe72",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/repeat.svg.webp"
+ },
+ {
+  "file": "backgrounds/solid.svg",
+  "sha256": "8a55822d8183a5cb5871c52c7515dfa34b5dfd481f61c48daedc11bcb99cb349",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/solid.svg.webp"
+ },
+ {
+  "file": "backgrounds/square.svg",
+  "sha256": "ecdb6bbd7c1eac42d6fca6feb4c37a6fba003b2340a315122843aeeb0ccfa368",
+  "width": 1600,
+  "height": 1600,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/square.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.jpg",
+  "sha256": "4ace628baf952889ff127938470ae9e8d06b3137ffea388979abd8aa2c351fca",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-01.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-01.svg",
+  "sha256": "803fc947c98d033ebd2307b82004eb35d6a072408080cd0dc58fafc936e12f67",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-01.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.jpg",
+  "sha256": "037f075afa9ef2d7124ac10e5c8fe5d550b76426402ad8f51b610cb07533040f",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-02.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-02.svg",
+  "sha256": "a67d1e1500d6266aa1aa23921f59f3320d9205ff997693e8c916ac239336e888",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-02.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.jpg",
+  "sha256": "ae6badba40ca8a4d3ff84467d49337944067d092c1d00c8f7be9d245fd27c7bc",
+  "width": 3840,
+  "height": 2160,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-03.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-03.svg",
+  "sha256": "2d5a80626168a23f972de16fb50498066f18bf4b14d4529165b32d1edcce4471",
+  "width": 3840,
+  "height": 2160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-03.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.jpg",
+  "sha256": "c954cc47e9ed3f9e75fa9af8a908e43ee2a24b9cbac4044eafab1e41f6afa371",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-04.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-04.svg",
+  "sha256": "94bcb58c6ca05d39a82a10d142ba5b2fa69a12d7f5cb8a907ae0a6637cca6a1a",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-04.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.jpg",
+  "sha256": "5250f100beff68708cb1e36074819d89305acdcffe1dac6b227a4cbe3a519f32",
+  "width": 2160,
+  "height": 3840,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-05.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-05.svg",
+  "sha256": "b641ec1bf0e5609f8d1845f00085c4270954ebe811e294355928ff900d6e4498",
+  "width": 2160,
+  "height": 3840,
+  "format": "svg",
+  "alphaMin": 208,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-05.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.jpg",
+  "sha256": "fa7745fbad3b3dae9c502d932c84ad8b6f7df3b903f5efb507c4bc01b63bfebe",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-06.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-06.svg",
+  "sha256": "c74ea4a9235f370b12fbbde20a659359f7033110e9953408133108d4b25c1c95",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-06.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.jpg",
+  "sha256": "fc2f90d67d596966755d2887d32b8e90ef8230426d947652e530946fecf20c33",
+  "width": 3000,
+  "height": 3000,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-07.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-07.svg",
+  "sha256": "5ff3abb6514a91650c5cba8f3620ddfa877312b615634b87f4a20a770631e797",
+  "width": 3000,
+  "height": 3000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-07.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.jpg",
+  "sha256": "c4f66811d149771d0b187f5fbed0dd9096f62e3f24bf3a6361c0a6993c2eb65b",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-08.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-08.svg",
+  "sha256": "fbee932dddef92055e014a3e70f1a4c81aae85149e2cbc4fbaa5ddf8c24d753d",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-08.svg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.jpg",
+  "sha256": "4fe1e9c8c9fd552997aa2126988decb6312b56cf89312b6856ab1976f84fc022",
+  "width": 5120,
+  "height": 1440,
+  "format": "jpeg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-09.jpg.webp"
+ },
+ {
+  "file": "backgrounds/v2-plate-09.svg",
+  "sha256": "d58dd27b9efb01e5cec2c3c8cf339e0a146d3cdc754e9ec2e7e9459ede94bf61",
+  "width": 5120,
+  "height": 1440,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/v2-plate-09.svg.webp"
+ },
+ {
+  "file": "backgrounds/wash.svg",
+  "sha256": "5b20e82f2a2a482d94fc8d75b7b86df6de7a2fc12fb3c1538f0e51bdda63293c",
+  "width": 1920,
+  "height": 1080,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/backgrounds/wash.svg.webp"
+ },
+ {
+  "file": "icons/audio.svg",
+  "sha256": "48ac9f8f683faa801ec1ed17c25d9ddde68320efc3ea1d75547228bedae899a9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/audio.svg.webp"
+ },
+ {
+  "file": "icons/database.svg",
+  "sha256": "ae1c75c97cfb7f6deb5f97bb660b05584a5fb45f3a553e96333a11272ba391ae",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/database.svg.webp"
+ },
+ {
+  "file": "icons/device.svg",
+  "sha256": "7c74f43b2333afd128aea8bb6d11ee2b97c2d2596b3d881b828bc22131337182",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/device.svg.webp"
+ },
+ {
+  "file": "icons/document.svg",
+  "sha256": "66ca022377b9802c8905875727dd1a90682220b32a4d8ecfc4d15726bc9add86",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/document.svg.webp"
+ },
+ {
+  "file": "icons/download.svg",
+  "sha256": "d72a99e511f6d2be5c8f75c18353139579d8d5631fc9ef013d8b01104f2ce05b",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/download.svg.webp"
+ },
+ {
+  "file": "icons/favorite.svg",
+  "sha256": "088570c0ba2e1b324b5635aefea247f8cfd0aa0e39571a532ae9965e3bbc62f9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/favorite.svg.webp"
+ },
+ {
+  "file": "icons/file.svg",
+  "sha256": "f0de912dfa986aec1ce2ae936510e0c6324b4f0777298bdb23e066e1fefd9c0e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/file.svg.webp"
+ },
+ {
+  "file": "icons/folder.svg",
+  "sha256": "2445e93b1ccee75809b01c6903e9f4a847d762b6803746ee70cf66537276f92c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/folder.svg.webp"
+ },
+ {
+  "file": "icons/image.svg",
+  "sha256": "f7c7fd3d80fe5ba7daa1daba861ed1e50db3038afd3e4018057c28737228df0e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/image.svg.webp"
+ },
+ {
+  "file": "icons/map.svg",
+  "sha256": "ca2c5e61d83f27d5a4539d4126fd423d1ccdac8922bfe29e94909eeac3239782",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/map.svg.webp"
+ },
+ {
+  "file": "icons/network.svg",
+  "sha256": "08616e09d4ec2c26b55de9fc74c05da520c535b0225c9c071c93b7e4d02e91a7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/network.svg.webp"
+ },
+ {
+  "file": "icons/search.svg",
+  "sha256": "9a0afd0ce9c16c5b08c6d528250b9b4041ec4fd0b3325b20eb708ef40cbfa5c8",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/search.svg.webp"
+ },
+ {
+  "file": "icons/security.svg",
+  "sha256": "720cc0b539cbb43d4e066a7dcb531e2820521e83aacaf651cbe84051873af723",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/security.svg.webp"
+ },
+ {
+  "file": "icons/settings.svg",
+  "sha256": "19c1ac62baca5818484f59f0c19d6a485427907f4344fdcc43879ffed264a7c3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/settings.svg.webp"
+ },
+ {
+  "file": "icons/statistics.svg",
+  "sha256": "32f851c82eea6498482c4af8dd34883d906101f83f0cfbc972dc2c724ee0c7f9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/statistics.svg.webp"
+ },
+ {
+  "file": "icons/task-status.svg",
+  "sha256": "9197ec22b7d64ee920c1e2dce4a5d85774ffdf1376ed5fe4de3033372c1b3e39",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/task-status.svg.webp"
+ },
+ {
+  "file": "icons/time.svg",
+  "sha256": "6f5012737050931d8ed4f6a4cf3a70f2918b8ca2aad94fc4c02b8920493a2f45",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/time.svg.webp"
+ },
+ {
+  "file": "icons/upload.svg",
+  "sha256": "11b1a14a4d6870a03d2385a7cd600f8fe9ec4bd291aa8e55247ce0b6ebb433cc",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/upload.svg.webp"
+ },
+ {
+  "file": "icons/user.svg",
+  "sha256": "79614e8d2408acd37c348bb329e66419942fd932cd36afd51de2cbd14fe686ed",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/user.svg.webp"
+ },
+ {
+  "file": "icons/v2-audio.svg",
+  "sha256": "7a00e58e402b0522b65b91dd99f67e30daed97a5fee243a4128cc07e881c1a2e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-audio.svg.webp"
+ },
+ {
+  "file": "icons/v2-balance-totem.svg",
+  "sha256": "8eb7beecdb7e809d322b6b7f0e567765bff222b4dbd829948344a1329c1e0540",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-balance-totem.svg.webp"
+ },
+ {
+  "file": "icons/v2-beat-pad.svg",
+  "sha256": "e4be6c90133d60b99362063953d4cc4459892b79c2b55d1ea9351364d1a3aa77",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-beat-pad.svg.webp"
+ },
+ {
+  "file": "icons/v2-chip-field.svg",
+  "sha256": "977d5131833335f176fe156887589e39aa267f64942ecb9c9fd5711ac7e698a2",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-chip-field.svg.webp"
+ },
+ {
+  "file": "icons/v2-copy.svg",
+  "sha256": "f79e70a7b11bd4ee06c81d65accb9af4ffa06b8b990bc2414b67c7495563e82c",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-copy.svg.webp"
+ },
+ {
+  "file": "icons/v2-database.svg",
+  "sha256": "d0a36ded7b2eaa9de58ee801c5f3dbf7cc5a4c6492494eab68a12f47242301ee",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-database.svg.webp"
+ },
+ {
+  "file": "icons/v2-delete.svg",
+  "sha256": "cfb2abb05d5a11161db9a25f4ce7cfd9af75dda8df5da6747a498cd68e8ba92a",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-delete.svg.webp"
+ },
+ {
+  "file": "icons/v2-device.svg",
+  "sha256": "c6e3e1ec0c9f73476f22222a928f413ae3e3e74851ab04994b88d887e034c2db",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-device.svg.webp"
+ },
+ {
+  "file": "icons/v2-document.svg",
+  "sha256": "6cd7f6495e35a2ec15a2b7ca6eb934e75e264f5637a628ec63628643dc8f1cae",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-document.svg.webp"
+ },
+ {
+  "file": "icons/v2-download.svg",
+  "sha256": "092b06fe58586a21030406b7739260f6423635ad6c8116d04fd5c3d0bf829767",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-download.svg.webp"
+ },
+ {
+  "file": "icons/v2-edit.svg",
+  "sha256": "d12eb49190923858072786820271df07bc830588a54c6b1666a9b64d75493635",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-edit.svg.webp"
+ },
+ {
+  "file": "icons/v2-favorite.svg",
+  "sha256": "ef00bcab854403e69c79b40ea23e59810b8e53e6be8e5d68193cbe50cedd2df6",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-favorite.svg.webp"
+ },
+ {
+  "file": "icons/v2-file.svg",
+  "sha256": "65ee44bed31d0dd1a0481d3ffef540d875738eb32158efab87c7b7420391d4c9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-file.svg.webp"
+ },
+ {
+  "file": "icons/v2-folder.svg",
+  "sha256": "0b793746d12450fda6ed56381f972ca9e604597cfc5ed8383927773c42e17c73",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-folder.svg.webp"
+ },
+ {
+  "file": "icons/v2-image.svg",
+  "sha256": "74fb2e36fe08ae308b044224428729cdd4a9c4b0147551aef8c2e7da4c6172b9",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-image.svg.webp"
+ },
+ {
+  "file": "icons/v2-laminate.svg",
+  "sha256": "48fdfaee59670f2f4a937f88b49b4b3dddf4640a61307ec2d78c4834bc0a7370",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-laminate.svg.webp"
+ },
+ {
+  "file": "icons/v2-map.svg",
+  "sha256": "f4d5ced82e180cb64f90f30b0cc8131cffbf503d8d2489ceacc296e4fb6394fd",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-map.svg.webp"
+ },
+ {
+  "file": "icons/v2-network.svg",
+  "sha256": "a04a2b5392110ea7a3abe1f0009ba4c48693a3ab22b67008d6e8c600442f29f3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-network.svg.webp"
+ },
+ {
+  "file": "icons/v2-search.svg",
+  "sha256": "d3b8ec5e9073f6d82db9d3ef81ea8afbc84097310772be10026a002405dc1322",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-search.svg.webp"
+ },
+ {
+  "file": "icons/v2-security.svg",
+  "sha256": "3060ace7e2f60ed786b82ab13039bc2a880de136469655c9772a06d8d14ed572",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-security.svg.webp"
+ },
+ {
+  "file": "icons/v2-settings.svg",
+  "sha256": "3cbac3d371d0314c48b50b8009ed5078cf6f3807d675b55033a7a2c66d0bf8c3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-settings.svg.webp"
+ },
+ {
+  "file": "icons/v2-shaker.svg",
+  "sha256": "c3ffc5e9a1063f2fdfff12a49be82df589bb53ce788e0190f8c425146a12c986",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-shaker.svg.webp"
+ },
+ {
+  "file": "icons/v2-share.svg",
+  "sha256": "ce2d98107254d4e13e0dbf8101468f58237d8a3e10a4e7d65fc07ed702f523e3",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-share.svg.webp"
+ },
+ {
+  "file": "icons/v2-squiggle.svg",
+  "sha256": "bb2b2690753a227f6bbf08cc5a6880f20bbcb719adf4cf42f4e1a60b71e073f1",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-squiggle.svg.webp"
+ },
+ {
+  "file": "icons/v2-statistics.svg",
+  "sha256": "c7c24d484729a188666e48a0cc759bbf1c2bf509f738b909ae1c2ded676f294e",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-statistics.svg.webp"
+ },
+ {
+  "file": "icons/v2-task-status.svg",
+  "sha256": "0038d61f62ff193c0074102513216110353c1579550c9787ec7c896d1c645767",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-task-status.svg.webp"
+ },
+ {
+  "file": "icons/v2-tilted-lamp.svg",
+  "sha256": "2cd53ef1a6e9d1a12cb3140429641f365ce5b69c47d23bf29e485fed57e768a4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-tilted-lamp.svg.webp"
+ },
+ {
+  "file": "icons/v2-time.svg",
+  "sha256": "dd9b9e809e4f7c742d6b0a7966fed27bcb2f54d2f0f66d75b15627f6e89b6de7",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-time.svg.webp"
+ },
+ {
+  "file": "icons/v2-toy-arch.svg",
+  "sha256": "2c5582c3bed4cbebbe7761a524f37581bf8dc625cc730650792e928b921a8685",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-toy-arch.svg.webp"
+ },
+ {
+  "file": "icons/v2-upload.svg",
+  "sha256": "b4f5f80b56478b53b2e8c37037bb8d2f29ac41a10fce401cdc760c2ded08f62f",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-upload.svg.webp"
+ },
+ {
+  "file": "icons/v2-user.svg",
+  "sha256": "5de10f17a15c20f3ce54b3b13ab3114178d322e2f76eb62a9a78a23c186d5ca4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-user.svg.webp"
+ },
+ {
+  "file": "icons/v2-video.svg",
+  "sha256": "a4dcd6456aedab39ad8cc59c2ebb5aa1f30bdc6fee189c6ab9a6b975cc0ec04d",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/v2-video.svg.webp"
+ },
+ {
+  "file": "icons/video.svg",
+  "sha256": "612a00c09b383472b7dce496658f11d68bac5e802662ec7bb2dc868ad3ac04f4",
+  "width": 64,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/icons/video.svg.webp"
+ },
+ {
+  "file": "illustrations/study-01.svg",
+  "sha256": "751476a0b93d41cdfe17deb255dbea31820addadb8d87426c52fe0ddf0a85c92",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/study-01.svg.webp"
+ },
+ {
+  "file": "illustrations/study-02.svg",
+  "sha256": "521bdfed318dfee06dcabc980caeb3197418f41fb9574e4ec2b70105fb69d0c6",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/study-02.svg.webp"
+ },
+ {
+  "file": "illustrations/study-03.svg",
+  "sha256": "3e2d48608bd22158d3fb68e6ffabf1dc61fd189f415cc9bba8a12f11eab6bccb",
+  "width": 300,
+  "height": 300,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/study-03.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-1.svg",
+  "sha256": "9b4aa5759fff5cd770efa8f443549f91293bcea86c1f25af4b0fc2b02160721e",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/v2-object-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-2.svg",
+  "sha256": "aaa693590ee0b3df0246c2ef290219ce5a96f78c85fa0285498af365cc869290",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/v2-object-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-object-3.svg",
+  "sha256": "eccaa982c943f4c3db33197da7a43522dd8d488aff6ec482bf23b46b40ed3cc0",
+  "width": 720,
+  "height": 720,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/v2-object-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-1.svg",
+  "sha256": "9b49a2f9122500dd36d81ece0b0faeff6352bea16eccc686566767fba4049b51",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/v2-scene-1.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-2.svg",
+  "sha256": "c02fde94c1f335685082900db60adca436d7f0a9cd1cf1d3f7bb50629bafe668",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/v2-scene-2.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-3.svg",
+  "sha256": "e05d832969922697baa8ff4acd4cdfa0244558f2740e69a085afa169ad107e91",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/v2-scene-3.svg.webp"
+ },
+ {
+  "file": "illustrations/v2-scene-4.svg",
+  "sha256": "4822013e45d35f3afb8860c63d30af72e43f9d67d4603b996b464bf86420357b",
+  "width": 1600,
+  "height": 1000,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/illustrations/v2-scene-4.svg.webp"
+ },
+ {
+  "file": "ornaments/background-mark.svg",
+  "sha256": "1765629ef693c9b08fd22d7ff2fb6f463fbec75d9e17aa296d93a5689911f5c8",
+  "width": 720,
+  "height": 240,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 69,
+  "preview": "PREVIEWS/v2/memphis/ornaments/background-mark.svg.webp"
+ },
+ {
+  "file": "ornaments/caption-frame.svg",
+  "sha256": "b7fe993913c39d5f451de896c0da562d2fdd7114ada417198f2dcec053e0a27a",
+  "width": 480,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/chapter.svg",
+  "sha256": "104e2ba96d40253291cd2d1f198c2560efa4c258df640ae96708250186dcdae2",
+  "width": 128,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/corner.png",
+  "sha256": "7c3909a73f1f0680adb8b525446c1364241e096fa6846bc89d89255935943808",
+  "width": 288,
+  "height": 288,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/corner.png.webp"
+ },
+ {
+  "file": "ornaments/corner.svg",
+  "sha256": "c029f24d0e7af03177a7fe95008d7aa42e66613eba28e73db4a1a9f2cb2391da",
+  "width": 96,
+  "height": 96,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/corner.svg.webp"
+ },
+ {
+  "file": "ornaments/frame.svg",
+  "sha256": "4b5bba5af455eaf266f3ade27e05502fdc7893dfc07360766757886644857fd9",
+  "width": 640,
+  "height": 360,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/frame.svg.webp"
+ },
+ {
+  "file": "ornaments/geometry.svg",
+  "sha256": "e345b47724b4dfbeff988ef533978862d45619254c5d21a04fa040c82993f060",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/geometry.svg.webp"
+ },
+ {
+  "file": "ornaments/pattern.svg",
+  "sha256": "cefc232f287a7aa1724c068d8f929edc6b3b96403da9271440fec947c3c5ccd5",
+  "width": 320,
+  "height": 72,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/pattern.svg.webp"
+ },
+ {
+  "file": "ornaments/ribbon.svg",
+  "sha256": "c038d21c8c03842b4e6770ffe1cb6901b02d6cb55b0dde46f0e4bcae48cd7775",
+  "width": 112,
+  "height": 112,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/ribbon.svg.webp"
+ },
+ {
+  "file": "ornaments/rule.svg",
+  "sha256": "f42b90453002b1499ed68813e3cfe6293c14a92c7d87e450ee5bb526e0717641",
+  "width": 640,
+  "height": 40,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/rule.svg.webp"
+ },
+ {
+  "file": "ornaments/seal.png",
+  "sha256": "1c14f1c2c95171ef9f0405ed9553d35c39112ccc2531863f9098889b70c75fd8",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/seal.png.webp"
+ },
+ {
+  "file": "ornaments/seal.svg",
+  "sha256": "674a019fb98a6570a1ac503833dd67db9b2f02517390dc4b2c9a884b40e35847",
+  "width": 128,
+  "height": 128,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/seal.svg.webp"
+ },
+ {
+  "file": "ornaments/tag.svg",
+  "sha256": "d1b545a669512faa0422ef276d623c1a6571db3032caa0f7f772eff6d4e80481",
+  "width": 200,
+  "height": 65,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/tag.svg.webp"
+ },
+ {
+  "file": "ornaments/title-frame.svg",
+  "sha256": "ed36424844d8a6a1ee76d5c9a00e9f2f291d6945add0b6b621d63b12c38de645",
+  "width": 640,
+  "height": 120,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-1.svg",
+  "sha256": "f6b28e80f2b2b2c6e1d6803d7691186beed0cb40ed6fe7ce47d6994e27fdcbfa",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-corner-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-2.svg",
+  "sha256": "df9c41cb54bf4c5f54432845d5ce91b4b3c76eb7e50954ab39ab702031c4b07e",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-corner-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-3.svg",
+  "sha256": "758ce057cf88af464f1573ee58c9f29c0d972d5e517eaed669f414d6bb5a6fc0",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-corner-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-corner-badge.svg",
+  "sha256": "41440e6ac6257eb0ed48e1bfe307b387a65e4804b7a541d284436b7d4a65995b",
+  "width": 160,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-corner-badge.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-1.svg",
+  "sha256": "a67507a668888b9fe03379fddde1d7cd623a4ec505bbf4a9f2f20c562f53d02b",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-frame-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-2.svg",
+  "sha256": "1ca518d45ade38fd8ba7f060a5f1a7200de5782fc48c45ba9cd7c3af321e633d",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-frame-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-frame-3.svg",
+  "sha256": "fa41ca0da0ca900f9a7d50792936d6c149fbc790c81a5f2287c67e0e1f4d6e72",
+  "width": 900,
+  "height": 600,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-frame-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-caption-frame.svg",
+  "sha256": "ff93c4a0c7352923bd129dac5093053e4be4fa6951f1420586f2ef8b41aacdef",
+  "width": 650,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-info-caption-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-chapter.svg",
+  "sha256": "bed70150710d59c750e29838651e58b372add90aa8b687b7b5cdb108a548d655",
+  "width": 320,
+  "height": 220,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-info-chapter.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-info-title-frame.svg",
+  "sha256": "bc2e4c79a6dc5678b9233dd61dfe95c78e902ab1ac417f3e118f44532031b6f9",
+  "width": 720,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-info-title-frame.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-1.svg",
+  "sha256": "4fef3b0a2e6fb290fcb1f47db1f09c264c0ec0fc0b004a9973bfeb4b3816683f",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-repeat-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-2.svg",
+  "sha256": "00c7948716e5d0485402e4da417526248a961a85e537020c099854b9ec2fad62",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-repeat-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-3.svg",
+  "sha256": "d4a3f89a995c0f7d7a02919de11b4affb74903c805db1d330ec1ed3efb5c5d98",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-repeat-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-4.svg",
+  "sha256": "6a135352cbec3274a1f4ceb59ff210d886aa930bbbaf6c3ff3e617e3f9b43c04",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-repeat-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-repeat-5.svg",
+  "sha256": "9024422f453b95d537649e914e20f4aa162007643ff31cd388dcb89d8a8bb06d",
+  "width": 192,
+  "height": 192,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-repeat-5.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-1.svg",
+  "sha256": "a1a9140abb3e11c7c3e31a6b18e9a8f27cc7d890d37ece7eb9bffc713e769c9d",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-rule-1.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-2.svg",
+  "sha256": "e4ab70142fa170adb698698fa79ac95caeb2f9aaf184ffd1e6e964b271d54c4b",
+  "width": 720,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-rule-2.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-3.svg",
+  "sha256": "51be50dd25e223e569dd396c8b934f4f35e6aa6ca52fdd030cd69b2b90df9675",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-rule-3.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-4.svg",
+  "sha256": "3998b961cd56bd2bb4d647bf1bcbbf06a046a9e9e279450cffbec30a450474a8",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-rule-4.svg.webp"
+ },
+ {
+  "file": "ornaments/v2-rule-5.svg",
+  "sha256": "b29788f2e40bc1e62b0190c87b294e7f29a4bb9eec6449b89f708de3ca7eaa4f",
+  "width": 720,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ornaments/v2-rule-5.svg.webp"
+ },
+ {
+  "file": "textures/engraving.png",
+  "sha256": "a9dc82b507d95187efd9df2844950eec693bf87c7bf6d4199f38e916a550480a",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/engraving.png.webp"
+ },
+ {
+  "file": "textures/film.png",
+  "sha256": "3753695b1576a1c66db7c11219d9856bdaf755fd61ddfd16828ae061b23a2911",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/film.png.webp"
+ },
+ {
+  "file": "textures/halftone.png",
+  "sha256": "693d0efdf87a3ed3eac0ad2e4bf9b079b44819fb8399e6f7885db97e7a824dfe",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/halftone.png.webp"
+ },
+ {
+  "file": "textures/metal.png",
+  "sha256": "a2932cb43d06ab6cfd680a8cac4acd2d269bf24d32a0601091dbf0e5c2fd2119",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/metal.png.webp"
+ },
+ {
+  "file": "textures/paper.png",
+  "sha256": "9ceb943e333127782f6f51a9c6e7b12536e28073958e4d44973bad4319bb5241",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/paper.png.webp"
+ },
+ {
+  "file": "textures/plaster.png",
+  "sha256": "02d0e620ef5ac59804fb50b985906ee1948aacc95908a5a04cbbfc8b7584a5a2",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/plaster.png.webp"
+ },
+ {
+  "file": "textures/stipple.png",
+  "sha256": "fec1308d59f11eb7841f89a36d8e71ea82785b5e84fc0c1d1d44ca5b447bf91c",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/stipple.png.webp"
+ },
+ {
+  "file": "textures/stone.png",
+  "sha256": "a90b52f3fa0077eef0166e9e5fb3e411829c7fea09907755e2676a7b17346ce8",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/stone.png.webp"
+ },
+ {
+  "file": "textures/textile.png",
+  "sha256": "5f470b3b138df834d55a78b952ea64394fa525c091d803fee2f4090f7c7c6750",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/textile.png.webp"
+ },
+ {
+  "file": "textures/v2-engraving.webp",
+  "sha256": "a6e2d8a783e363e49df26304f766381901169730b4ef699f4d4693fbb49ad227",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-engraving.webp.webp"
+ },
+ {
+  "file": "textures/v2-film.webp",
+  "sha256": "cc84a1f00935974b4d41d569526e478f8a3fb02a0014a36dfed21895cc072892",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-film.webp.webp"
+ },
+ {
+  "file": "textures/v2-halftone.webp",
+  "sha256": "bacec99700a295cb2aa48d0d9c858bc60892e48e5e00e59daa9bb8ff44b685ae",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-halftone.webp.webp"
+ },
+ {
+  "file": "textures/v2-metal.webp",
+  "sha256": "e9fd5b2f1491cf0f2e4c5645b06694076e61be544ecea5df423eaf79ac66588f",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-metal.webp.webp"
+ },
+ {
+  "file": "textures/v2-overlay0.png",
+  "sha256": "29fa23eef28aa8bd0792de7d5a1cc1dbfe028533cc5f55873ffe1668a4b3c605",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 223,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-overlay0.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay1.png",
+  "sha256": "53c638ebcff5cf0e1eb8faa0e1992b35971ac696ee1cb4fb76c5213165b9ae9f",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 209,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-overlay1.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay2.png",
+  "sha256": "709c3c1b89cecaefa35bdac595c5249fb3ee9e02d2dafd9422e25396459772b6",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 176,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-overlay2.png.webp"
+ },
+ {
+  "file": "textures/v2-overlay3.png",
+  "sha256": "46a2c3e57cb295f22daf151f84337a68a4fd57551a30bf4b3da7daf9309128d9",
+  "width": 2048,
+  "height": 2048,
+  "format": "png",
+  "alphaMin": 0,
+  "alphaMax": 217,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-overlay3.png.webp"
+ },
+ {
+  "file": "textures/v2-paper.webp",
+  "sha256": "818694a4a794195acfce902509ee98e83430d217ef9b4fe1e4ec869105e65030",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-paper.webp.webp"
+ },
+ {
+  "file": "textures/v2-pebble.webp",
+  "sha256": "37d98085d64f7cdafce8dcd31811808203426b13a63ad0011ee0bd6b525f707e",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-pebble.webp.webp"
+ },
+ {
+  "file": "textures/v2-plaster.webp",
+  "sha256": "787250b9575cdbaac056050d7ca0abbb9f20610df14ec5b8232c95058316cc0a",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-plaster.webp.webp"
+ },
+ {
+  "file": "textures/v2-stipple.webp",
+  "sha256": "84cd5e70211f7145796f8c6dcdc660e744ae8376cb061caf98d25ce07979b0d9",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-stipple.webp.webp"
+ },
+ {
+  "file": "textures/v2-stone.webp",
+  "sha256": "98fea5cf2069e37942e8dacecb302d657fb1ea2cffd577ab39a3a42e85bf5aab",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-stone.webp.webp"
+ },
+ {
+  "file": "textures/v2-terrazzo.webp",
+  "sha256": "3522bad02bb0d83807027a4f7c980a914c829874aa78c6798c86d5d51bcd25c6",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-terrazzo.webp.webp"
+ },
+ {
+  "file": "textures/v2-textile.webp",
+  "sha256": "ae646cff8bf92dfcd62ee48bbb4f7884833633956ed24b0b20823a05b71f5c8a",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-textile.webp.webp"
+ },
+ {
+  "file": "textures/v2-wood.webp",
+  "sha256": "776b6154e10bef4addf105904b544a4f6d2ac23e6be26b7859a97386f8eb647e",
+  "width": 2048,
+  "height": 2048,
+  "format": "webp",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/v2-wood.webp.webp"
+ },
+ {
+  "file": "textures/wood.png",
+  "sha256": "171f270aa4198c8505c71df115bb2af648c113b3bbeb7c03f68d14c8c7ed83a8",
+  "width": 384,
+  "height": 384,
+  "format": "png",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/textures/wood.png.webp"
+ },
+ {
+  "file": "ui/button-disabled.svg",
+  "sha256": "2f85eb7dd57969bcf4c98572b1f98032a2de53591aaea3775d6051737f316bae",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/button-disabled.svg.webp"
+ },
+ {
+  "file": "ui/button-error.svg",
+  "sha256": "f587cc31650ad9e4a425fc167c311fa4f590641390a0ff42d697d5ae3240972c",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/button-error.svg.webp"
+ },
+ {
+  "file": "ui/button-hover.svg",
+  "sha256": "dc82c6265bced5fb8215a6d2350a9d3fc5eb2768224c72b4299d5a859b10b29c",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/button-hover.svg.webp"
+ },
+ {
+  "file": "ui/button-normal.svg",
+  "sha256": "c5bbb6e8e2747ac1c40d8ce97d9bb9ea1d4ddaa0a54219381cbfadd34479e348",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/button-normal.svg.webp"
+ },
+ {
+  "file": "ui/button-selected.svg",
+  "sha256": "47a8609d5bd16bc0788edc187b30d6c2844dcb861ffec7807089c8a9b8778d4e",
+  "width": 256,
+  "height": 80,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/button-selected.svg.webp"
+ },
+ {
+  "file": "ui/card-disabled.svg",
+  "sha256": "dec0d65643972e574bfbf7fc330270abd1e362b31eec68f753f5b2d9b9cacd4f",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/card-disabled.svg.webp"
+ },
+ {
+  "file": "ui/card-error.svg",
+  "sha256": "7ef969280b0fc95d472e396ccef07c1de9f3bdeaf9d0066fcfc10cba89f1d344",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/card-error.svg.webp"
+ },
+ {
+  "file": "ui/card-hover.svg",
+  "sha256": "5c98a2893df4df4431d77dd332759fbbcf1de9850ec70d9b18e07917b849cb67",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/card-hover.svg.webp"
+ },
+ {
+  "file": "ui/card-normal.svg",
+  "sha256": "f6d594cdae9f03ace7e664bcbd553905da737859f8d421317b45722458b92e9a",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/card-normal.svg.webp"
+ },
+ {
+  "file": "ui/card-selected.svg",
+  "sha256": "12592b420ae72a33bd40ef6f4bd2e5c1dbe611a4abef78fe03b7890b1c2ddc75",
+  "width": 360,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/card-selected.svg.webp"
+ },
+ {
+  "file": "ui/dialog-disabled.svg",
+  "sha256": "bebf75ad9d85d01eb85d9a972f7f4d4791ef0bff7326459e0d63fa24727004bd",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/dialog-disabled.svg.webp"
+ },
+ {
+  "file": "ui/dialog-error.svg",
+  "sha256": "9e945215b128cc9d1afb87fdf6c29f159e131997573cfcb0e3484f9506a4f2df",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/dialog-error.svg.webp"
+ },
+ {
+  "file": "ui/dialog-hover.svg",
+  "sha256": "4a683c708f11934897aa398dbc28be2bcf1446d93fbd7be0f7c55c5dffe4e643",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/dialog-hover.svg.webp"
+ },
+ {
+  "file": "ui/dialog-normal.svg",
+  "sha256": "ca04c86729044894f210ed4034506ffba8d561d4b8855cceacc21eca868adad4",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/dialog-normal.svg.webp"
+ },
+ {
+  "file": "ui/dialog-selected.svg",
+  "sha256": "c531e0c0d4419c238f085615b977111caf20d07588370bf8add24990d959e1cb",
+  "width": 440,
+  "height": 228,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/dialog-selected.svg.webp"
+ },
+ {
+  "file": "ui/empty-disabled.svg",
+  "sha256": "46e2e0a2f52589e7fb8b053b996cd605f265c8b40f79c2e811c7a6b9eda9b3f9",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/empty-disabled.svg.webp"
+ },
+ {
+  "file": "ui/empty-error.svg",
+  "sha256": "92896641602a6e8f13edfb7df7313ae043be3164b07a322fd5c095389d18ebc4",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/empty-error.svg.webp"
+ },
+ {
+  "file": "ui/empty-hover.svg",
+  "sha256": "9dc506cf411b25905957c869e2b58cedc27204fe712e56aa98955aa678079d32",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/empty-hover.svg.webp"
+ },
+ {
+  "file": "ui/empty-normal.svg",
+  "sha256": "3b5c21c08a5f1a676dc61c29c6dd94a3b85d60af637d84dd229864e2c4b8a965",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/empty-normal.svg.webp"
+ },
+ {
+  "file": "ui/empty-selected.svg",
+  "sha256": "3c0c6d43a624fc9d8fdc180936d725e44cf8dcd287b33feff2a1404975f690b7",
+  "width": 336,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/empty-selected.svg.webp"
+ },
+ {
+  "file": "ui/error-disabled.svg",
+  "sha256": "cd9d05cedd2f304855543404c04ec6da861dbffaff11b30d62be8558c0cbb57f",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/error-disabled.svg.webp"
+ },
+ {
+  "file": "ui/error-error.svg",
+  "sha256": "f94d0820ec830b25fe0eefd46f007d919bbcc443a02d8cd456933e476d129da5",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/error-error.svg.webp"
+ },
+ {
+  "file": "ui/error-hover.svg",
+  "sha256": "5a0867af361cd020ca9d48baae1438c0b22a81d7f42ac1a0957871279976717f",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/error-hover.svg.webp"
+ },
+ {
+  "file": "ui/error-normal.svg",
+  "sha256": "92e0e0bd22ea3b599861ed19957eaa6825fc725202f906fc2e8f9bbf6dcdd6f3",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/error-normal.svg.webp"
+ },
+ {
+  "file": "ui/error-selected.svg",
+  "sha256": "2acf5f887200bbecc6165d7cbac7e1ce4a7fc578e3566b6bbddf188b7b8c730a",
+  "width": 350,
+  "height": 170,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/error-selected.svg.webp"
+ },
+ {
+  "file": "ui/input-disabled.svg",
+  "sha256": "beae790b567387826b53fd19eca1b8bd599e2f7a9bfcb3a4689eeb62baecf8b3",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/input-disabled.svg.webp"
+ },
+ {
+  "file": "ui/input-error.svg",
+  "sha256": "168143a3231839f79338d75be51384fa6b0b91bd71070a031196c8e4232a6453",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/input-error.svg.webp"
+ },
+ {
+  "file": "ui/input-hover.svg",
+  "sha256": "2d139eaccbf5dd4364a566b49f7ca1d05fc60ed278cd51818c03abb207f3f216",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/input-hover.svg.webp"
+ },
+ {
+  "file": "ui/input-normal.svg",
+  "sha256": "f127dd63c1ef9db14f62e953f6d85f6d4b9acbbfd5eb42b08dd9dcd5a2073d45",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/input-normal.svg.webp"
+ },
+ {
+  "file": "ui/input-selected.svg",
+  "sha256": "83aaafc1d7117fb42049fbaf53c6f15ee2654c7ad21705a7d5d712e417ca2b51",
+  "width": 368,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/input-selected.svg.webp"
+ },
+ {
+  "file": "ui/list-disabled.svg",
+  "sha256": "fa52821992dc6b4456edb005e8fd3cbc979ced926df912787f86ed4cfd722b03",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/list-disabled.svg.webp"
+ },
+ {
+  "file": "ui/list-error.svg",
+  "sha256": "639d5caafb2198bc3df2aa7fd6993c00aca4950189ea027955ed94c2497b189a",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/list-error.svg.webp"
+ },
+ {
+  "file": "ui/list-hover.svg",
+  "sha256": "22b8b6819f4be40ce461b6cdd8b7cd8cc26d90bb7e92e0db71f345d3458e1238",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/list-hover.svg.webp"
+ },
+ {
+  "file": "ui/list-normal.svg",
+  "sha256": "130ef75f290d64184c3dab3620f14439f6c691294c2de6ba3adfe16ada727075",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/list-normal.svg.webp"
+ },
+ {
+  "file": "ui/list-selected.svg",
+  "sha256": "2d4cb66b6b3c339d09c1c63d17d58293ffa2c249e4f9da079d94d32874e66206",
+  "width": 370,
+  "height": 210,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/list-selected.svg.webp"
+ },
+ {
+  "file": "ui/loading-disabled.svg",
+  "sha256": "3c590a1841f193b10fbeda0f5f003608ff759c899b18e013e61767dd8854da2e",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/loading-disabled.svg.webp"
+ },
+ {
+  "file": "ui/loading-error.svg",
+  "sha256": "c7d781a161f6cca5aac8299fbdd70d7cadf7f9165947cceb39ff178a3d5c6fee",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/loading-error.svg.webp"
+ },
+ {
+  "file": "ui/loading-hover.svg",
+  "sha256": "8da298bb995f693f967f44a0fd62d8473476e59f33ada10022a5d149d8e2930f",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/loading-hover.svg.webp"
+ },
+ {
+  "file": "ui/loading-normal.svg",
+  "sha256": "ddb878681e4513ea66bd017d0c94eecd814a952abf2cf54a90c17b541e46abe1",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/loading-normal.svg.webp"
+ },
+ {
+  "file": "ui/loading-selected.svg",
+  "sha256": "2d0ea9e5c425da4f211167c298acbb64dab2ef0cf0e9e5d9437cc14fcc6f466c",
+  "width": 280,
+  "height": 100,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/loading-selected.svg.webp"
+ },
+ {
+  "file": "ui/navbar-disabled.svg",
+  "sha256": "96c90d77225f8ebc854af1c4cbd6750f8dab7800c6f915a546073bde8b360df1",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/navbar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/navbar-error.svg",
+  "sha256": "35e365a7e18b48ef0fc20641fc1ed2a3806591f7554dd5778444eb4539c18944",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/navbar-error.svg.webp"
+ },
+ {
+  "file": "ui/navbar-hover.svg",
+  "sha256": "a5d3275b1e09ada41ef814f398262cafea615d6123b99dfcca21c3ed0a7d7619",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/navbar-hover.svg.webp"
+ },
+ {
+  "file": "ui/navbar-normal.svg",
+  "sha256": "9ad015efaa4b7b2a08af780ffad4083b65af7475e571ba529ce36e01d9d18919",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/navbar-normal.svg.webp"
+ },
+ {
+  "file": "ui/navbar-selected.svg",
+  "sha256": "ad97672d28c386b2368a1e0c78ff186e07671dc2ab8c5537778102cfee1c9f0f",
+  "width": 580,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/navbar-selected.svg.webp"
+ },
+ {
+  "file": "ui/progress-disabled.svg",
+  "sha256": "f6a47d95873f7ba05c83d47528a6e8257ee17b4b3cee1786fd5955e58c615cf1",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/progress-disabled.svg.webp"
+ },
+ {
+  "file": "ui/progress-error.svg",
+  "sha256": "89d9aeb4d017dde5ac431bceb7c19421f91a32bb43a3a3483def51f4405a62ab",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/progress-error.svg.webp"
+ },
+ {
+  "file": "ui/progress-hover.svg",
+  "sha256": "c657aeb7fc01f0eb29194e2932834775926765120d204eb0568b7b328c87d874",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/progress-hover.svg.webp"
+ },
+ {
+  "file": "ui/progress-normal.svg",
+  "sha256": "148f6298647f3f3c640a07ce06ce0be744c6b4314deea54dd7d054cfbbd0fb4f",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/progress-normal.svg.webp"
+ },
+ {
+  "file": "ui/progress-selected.svg",
+  "sha256": "ae3f0333444d2384e27e914be4cf1565f949df1d2d0d20eaa78a62390e8511e0",
+  "width": 400,
+  "height": 88,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/progress-selected.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-disabled.svg",
+  "sha256": "ea6d377afa84249dbd9b14b670efef3a3dc5a7cfefc39b4b131919ff47c19866",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/sidebar-disabled.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-error.svg",
+  "sha256": "354c83d58da0e80039b4bb5cf9b8346869a54eaa0b14bfb349878d43568ef0e0",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/sidebar-error.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-hover.svg",
+  "sha256": "029df48de158a91d72d8da8fc6b3102b7ef6cffb7ae4c6f3bf625a40d099d59b",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/sidebar-hover.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-normal.svg",
+  "sha256": "0fa7da0b65c444194f7cb2344fe6fcf0aaeb559b8a347755f5d8a68e132e4819",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/sidebar-normal.svg.webp"
+ },
+ {
+  "file": "ui/sidebar-selected.svg",
+  "sha256": "b014cee10eb397a1ad8b46300f07a27ea4c0cead40915f56f3a24e6d8f101296",
+  "width": 230,
+  "height": 260,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/sidebar-selected.svg.webp"
+ },
+ {
+  "file": "ui/table-disabled.svg",
+  "sha256": "ccdc0aa2fd7100e6d7b92f9c79cdedc58fb13472e5439cd98c6d94d51c3f72a0",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/table-disabled.svg.webp"
+ },
+ {
+  "file": "ui/table-error.svg",
+  "sha256": "2a7fd20e2f74f5900842bb2d9aff683c32c33b6da31c99ebdea98044f6788478",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/table-error.svg.webp"
+ },
+ {
+  "file": "ui/table-hover.svg",
+  "sha256": "19f15b1685f0c4289b62577fc5801c55e50094d96776e9fa1a477fa9e7c24c67",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/table-hover.svg.webp"
+ },
+ {
+  "file": "ui/table-normal.svg",
+  "sha256": "e7b5431f92aabd9ba900844f098e1daa7b5bd9131c603d32d6800da8591b6879",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/table-normal.svg.webp"
+ },
+ {
+  "file": "ui/table-selected.svg",
+  "sha256": "9e05e8d2b971d951dc19fe32695c00bfd134b006c2411f85fc3e5762f3c1e70f",
+  "width": 520,
+  "height": 232,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/table-selected.svg.webp"
+ },
+ {
+  "file": "ui/tag-disabled.svg",
+  "sha256": "3a6ae4521acf8fe483668e6f0d3a7cf7b394f7992c0149575707d07d0be5ceb0",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/tag-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tag-error.svg",
+  "sha256": "c5de59be65425dde33e26106011d840454727c48726a3fa55057b39eb17d4477",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/tag-error.svg.webp"
+ },
+ {
+  "file": "ui/tag-hover.svg",
+  "sha256": "568c5fc2411d1b80ba0436a719569bfde59fa8798814c75621aa9090b89866a1",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/tag-hover.svg.webp"
+ },
+ {
+  "file": "ui/tag-normal.svg",
+  "sha256": "a84afb8e85e85d4df049e0849b3298b2f32787ae860771c62705660aa02e1430",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/tag-normal.svg.webp"
+ },
+ {
+  "file": "ui/tag-selected.svg",
+  "sha256": "a11b716e4b043748925e631a2f187934e526760af5b19c8582ee012a619ffeb5",
+  "width": 184,
+  "height": 64,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/tag-selected.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-disabled.svg",
+  "sha256": "c479c0545918bf0e8dec5c451af0a14db5d9c1dd541c138062dfd5e2862b8e04",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 148,
+  "preview": "PREVIEWS/v2/memphis/ui/tooltip-disabled.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-error.svg",
+  "sha256": "218fb4d188434b81daa5d53611c8a0e974094a8b2a9c6fb82fdc1c611e23f6fd",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/tooltip-error.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-hover.svg",
+  "sha256": "a2b2d216f6e86179b0948fc427da5826ac6b4be4f476948d0a37bbbe504e6501",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/tooltip-hover.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-normal.svg",
+  "sha256": "51fd9ee5b0ceab3e9bfe56a3613331a0884710759c3d0dd6fd7054d47597a0f1",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/tooltip-normal.svg.webp"
+ },
+ {
+  "file": "ui/tooltip-selected.svg",
+  "sha256": "9017771a2a1ae833e8cac1da8f090d0ffa86af6c20dce8f655e0e85006a163fa",
+  "width": 272,
+  "height": 92,
+  "format": "svg",
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/tooltip-selected.svg.webp"
+ },
+ {
+  "file": "ui/v2-toolbar.svg",
+  "sha256": "5ea923f06d99adb5e12f953431f5ae732955e2263452dd2553de91715fe6f760",
+  "width": 820,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 253,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-toolbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-button.svg",
+  "sha256": "be6ea17696ca05ec68fb2bdbf276defd8d7253e10a4084a75139b37b66f48598",
+  "width": 380,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 47,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-button.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-card.svg",
+  "sha256": "56be8c7db1a7f22103b732ef125fd159388cb51e91f7dd0a93d370b7ed5a87ac",
+  "width": 560,
+  "height": 390,
+  "format": "svg",
+  "alphaMin": 230,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-card.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-dialog.svg",
+  "sha256": "44cfe7d5be874662ce798d8cdd44f6a31617fe01b200b3446c31dff0bd9f4e2b",
+  "width": 520,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 246,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-dialog.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-empty.svg",
+  "sha256": "37562277f786f5f64af92514389ac38e9eb7f9428d9a1ae8bc38f8fb6a653e0f",
+  "width": 560,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 163,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-empty.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-error.svg",
+  "sha256": "7fe626f8be54982da54a0a954fc36abbe21939f5400a77de157782bc4147fd62",
+  "width": 480,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-error.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-input.svg",
+  "sha256": "c1ea529011ffe13b58fb98e4a3fee06937385f0749f2bd6c7841c236e7c336d6",
+  "width": 480,
+  "height": 140,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-input.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-list.svg",
+  "sha256": "c548eb0b2e9fd705f43d9508513864f42578368318de91afd5153bfe3c5bcf6b",
+  "width": 580,
+  "height": 330,
+  "format": "svg",
+  "alphaMin": 199,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-list.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-loading.svg",
+  "sha256": "824c924ecb27fda022abfb71f3d24827bc32757a62e9893fdd68dcf21a4f7ac3",
+  "width": 400,
+  "height": 160,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-loading.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-navbar.svg",
+  "sha256": "e821e57feb8a58cc2923567f86671ba35bca33a3e8099817a95d6686fbdbbd6c",
+  "width": 820,
+  "height": 130,
+  "format": "svg",
+  "alphaMin": 217,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-navbar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-progress.svg",
+  "sha256": "e7511387110963d533ed0829670b0c5d8ba9a5dc8fe11fbde7eac2dfb08595c2",
+  "width": 500,
+  "height": 200,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-progress.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-sidebar.svg",
+  "sha256": "e08d594a83389db89978d6ee377472b956ca0e05bdc630e2825fbf0536067d03",
+  "width": 320,
+  "height": 440,
+  "format": "svg",
+  "alphaMin": 209,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-sidebar.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-table.svg",
+  "sha256": "e4b73e15376db1a25ebe2570f31dbd7a3f3ce7005fc03c0b664582c572290141",
+  "width": 640,
+  "height": 340,
+  "format": "svg",
+  "alphaMin": 192,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-table.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tag.svg",
+  "sha256": "5b3ad116f727a63aa2c3a38f2dd689cebf223001172f1cfff32ecc7270e32da4",
+  "width": 300,
+  "height": 110,
+  "format": "svg",
+  "alphaMin": 255,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-tag.svg.webp"
+ },
+ {
+  "file": "ui/v2-ui-tooltip.svg",
+  "sha256": "ae4dc68ca1c41a46d05a959be07ecab29f1b256063ceec6680dc28a5f4ca1254",
+  "width": 410,
+  "height": 150,
+  "format": "svg",
+  "alphaMin": 231,
+  "alphaMax": 255,
+  "preview": "PREVIEWS/v2/memphis/ui/v2-ui-tooltip.svg.webp"
+ }
+]
