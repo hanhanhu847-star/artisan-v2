@@ -4,7 +4,7 @@
 
 代码采用 **MIT**；自制艺术素材采用 **CC BY 4.0**，使用时保留作者署名。摄影和数据星图保留原许可。详见 [作者与署名](AUTHORS.md) 和 [许可范围](LICENSE-ASSETS.md)。
 
-[下载完整素材包与PDF图鉴](https://github.com/hanhanhu847-star/artisan-v2/releases/latest)。Git仓库包含实际素材和离线浏览器；PDF作为Release附件提供，完整包中也附带PDF。GitHub自动生成的“Source code”压缩包不含PDF。
+**[在线预览与挑选素材](https://hanhanhu847-star.github.io/artisan-v2/)** · [下载完整素材包与PDF图鉴](https://github.com/hanhanhu847-star/artisan-v2/releases/latest)。Git仓库包含实际素材和离线浏览器；PDF作为Release附件提供，完整包中也附带PDF。GitHub自动生成的“Source code”压缩包不含PDF。
 
 完整解压后打开 [离线浏览器](BROWSER/index.html)。源素材位于 STYLES 与 SHARED；浏览器、联系表与 PDF 用于选图。日常浏览无需联网、安装依赖或注册账号。
 
@@ -24,7 +24,9 @@
 ## 浏览和提取
 默认“每个作品一个版本”展示当前代表作。“全部文件”还能查看 V1 原件及其他尺寸、格式和状态。按子系列、分辨率、透明、许可与格式筛选；JPG 筛选可选到同一矢量背景的原生栅格版本。收藏以作品家族保存于本机浏览器，不会上传或跨设备同步。
 
-详情使用实际原件，可缩放、换背景、复制相对路径或打开原件另存。所选清单、筛选结果与整套清单导出为 JSON；清单不会自动复制素材。把 file_path 对应文件及有关许可复制进目标项目即可。
+详情可缩放、换背景、复制相对路径或打开原件另存。在线版为大于 4 MB 的位图提供同构图轻量预览，原文件通过“打开原件”获取；离线版直接显示原件。在线版还能复制素材网址，所在目录链接打开 GitHub 文件夹。
+
+所选清单、筛选结果与整套清单导出为 JSON；在线清单另附 download_url、preview_url 和 license_url，便于下载原件并保留许可。清单不会自动打包素材。离线使用时把 file_path 对应文件及有关许可复制进目标项目即可。
 
 ## 来源边界
 自制图形与程序化纹理按 CC-BY-4.0 提供。16 幅 Poly Haven 官方全景摄影及其取景版本采用 CC0；原 JPG 为 LDR 环境照片。12 幅星座图版及所用星表、连线子集采用 CC BY-SA 4.0，带作者、固定版本和修改说明。只看缩略图不能推断许可，复制前以每项索引为准。
@@ -32,6 +34,8 @@
 敦煌图形是现代再创作，不是特定洞窟或朝代的临摹；矿物色是屏幕参考色。地图为虚构，蓝图不是可加工图纸，博物学插画不提供物种鉴定。V2 天文真实数据图版与其他艺术点位明确分开。
 
 ## 维护
+
+在线站点由 main 分支根目录发布到 GitHub Pages，`.nojekyll` 保留原有目录结构。入口为根目录 index.html；大图预览可用 `python TOOLS/web_previews.py` 重建。发布与验收步骤见 [Pages 维护说明](TOOLS/PAGES.md)。
 
 从Git仓库克隆后，用 `python TOOLS/integrity_check.py --source-only` 校验源码及素材；完整Release包使用不带参数的校验命令。
 浏览不需生成器。重建需要 Python 3.10+、Pillow、NumPy；PDF 需 reportlab；Node 的 sharp 用于实际解码，playwright 和本机 Chromium 用于离线验收。中文字体使用本机字体，不随包分发。
