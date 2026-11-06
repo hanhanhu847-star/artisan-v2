@@ -35,7 +35,7 @@
 
 ## 维护
 
-在线站点由 main 分支根目录发布到 GitHub Pages，`.nojekyll` 保留原有目录结构。入口为根目录 index.html；大图预览可用 `python TOOLS/web_previews.py` 重建。发布与验收步骤见 [Pages 维护说明](TOOLS/PAGES.md)。
+在线站点由 gh-pages 分支发布，main 保留完整素材和代码。Pages 提供浏览器与索引，预览图和原件从公开仓库的固定提交版本读取。用 `python TOOLS/build_pages.py` 生成轻量站点，大图预览用 `python TOOLS/web_previews.py` 重建。发布与验收步骤见 [Pages 维护说明](TOOLS/PAGES.md)。
 
 从Git仓库克隆后，用 `python TOOLS/integrity_check.py --source-only` 校验源码及素材；完整Release包使用不带参数的校验命令。
 浏览不需生成器。重建需要 Python 3.10+、Pillow、NumPy；PDF 需 reportlab；Node 的 sharp 用于实际解码，playwright 和本机 Chromium 用于离线验收。中文字体使用本机字体，不随包分发。

@@ -1,12 +1,13 @@
-/* V2 检索：本地离线使用或同源静态托管，无外部字体和运行时依赖。 */
+/* V2 检索：本地离线使用或静态托管，无外部字体和运行时依赖。 */
 (()=>{'use strict';
 const data=window.ARTISAN,$=id=>document.getElementById(id);
 if(!data?.assets){$('hero-meta').textContent='索引未加载，请完整解压素材包后重新打开。';return}
 const styles=data.styles.filter(s=>s.id!=='shared'),smap=Object.fromEntries(data.styles.map(s=>[s.id,s]));
 const byId=new Map(data.assets.map(a=>[a.asset_id,a])),validFamilies=new Set(data.assets.filter(a=>a.counted).map(a=>a.family_id));
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const url=s=>'../'+String(s).split('/').map(encodeURIComponent).join('/');
 const online=/^https?:$/.test(location.protocol),repository='https://github.com/hanhanhu847-star/artisan-v2';
+const assetBase=online&&window.ARTISAN_ASSET_BASE||new URL('../',location.href).href;
+const url=s=>(online?assetBase:'../')+String(s).split('/').map(encodeURIComponent).join('/');
 const absolute=s=>new URL(url(s),location.href).href;
 const detailPath=a=>online&&(window.ARTISAN_WEB_PREVIEWS||{})[a.file_path]||a.file_path;
 $('copy-link').hidden=!online;
@@ -91,7 +92,7 @@ $('prev').onclick=()=>{page--;renderResults();$('result').scrollIntoView({block:
 $('next').onclick=()=>{page++;renderResults();$('result').scrollIntoView({block:'start'})};
 function exportRows(rows,name){
  const a=document.createElement('a'),manifest={library:data.library,version:data.version,file_count:rows.length,family_count:new Set(rows.map(r=>r.family_id)).size,paths_relative_to:'ARTISAN_V2 root',assets:rows};
- if(online){manifest.base_url=new URL('../',location.href).href;manifest.assets=rows.map(r=>({...r,download_url:absolute(r.file_path),preview_url:absolute(detailPath(r)),license_url:absolute(r.license_file)}))}
+ if(online){manifest.base_url=assetBase;manifest.assets=rows.map(r=>({...r,download_url:absolute(r.file_path),preview_url:absolute(detailPath(r)),license_url:absolute(r.license_file)}))}
  const object=URL.createObjectURL(new Blob([JSON.stringify(manifest,null,2)],{type:'application/json'}));a.download=name+'.json';a.href=object;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(object),2000);notice('清单已导出，包含路径、校验值和许可信息');
 }
 $('export-results').onclick=()=>exportRows(results,'ARTISAN_V2-filtered');
